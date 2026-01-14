@@ -1,0 +1,2368 @@
+[
+  {
+    "id": "111_111010_001",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "mixed",
+    "difficulty": 2,
+    "text": "關於全球性航空策略聯盟的敘述，下列何者錯誤？\n(A)利用班號共用突破雙邊空運協定\n(B)聯盟型態可分為航線、商業及財務\n(C)三大航空聯盟為星空聯盟、寰宇一家及藍天聯盟\n(D)加入聯盟後，可提升航空公司的營運自主性",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "利用班號共用突破雙邊空運協定",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "聯盟型態可分為航線、商業及財務",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "三大航空聯盟為星空聯盟、寰宇一家及藍天聯盟",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "加入聯盟後，可提升航空公司的營運自主性",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": [
+      "C",
+      ",",
+      "D"
+    ],
+    "explanation": "目前三大航空聯盟為星空聯盟、寰宇一家及天合聯盟（SkyTeam），並非藍天聯盟。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_002",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "以下何者不是海運策略聯盟中的合作模式？\n(A)協同船期\n(B)統一運價\n(C)艙位互租\n(D)共享設備",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "協同船期",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "統一運價",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "艙位互租",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "共享設備",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "統一運價是傳統運費同盟的特徵，策略聯盟側重於船舶營運層面的合作。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_003",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者屬於定期船營運成本中之「變動成本」項目？\n(A)船員費\n(B)船舶檢修費\n(C)港埠費\n(D)船舶資金成本",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "船員費",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "船舶檢修費",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "港埠費",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "船舶資金成本",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "港埠費會隨著船舶進出港次數與裝卸作業量增加而變動，故屬於變動成本。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_004",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是運輸業被稱為「受管制之企業」之原因？\n(A)獨占性\n(B)基本設施特性\n(C)沉沒成本\n(D)高度競爭",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "獨占性",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "基本設施特性",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "沉沒成本",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "高度競爭",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "運輸業早期具有自然獨占與外部性，故受政府管制；高度競爭則是市場鬆綁後的現象。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_005",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "臺灣公路系統中之「台 88 線」是屬於下列何類公路系統？\n(A)環島公路系統\n(B)東西向快速公路\n(C)縱貫公路系統\n(D)聯絡公路系統",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "環島公路系統",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "東西向快速公路",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "縱貫公路系統",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "聯絡公路系統",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "台88線（高雄潮州線）屬於臺灣省道東西向快速公路系統之一。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_006",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種不定期船之交易型態是以「實際裝卸貨物之重量或體積」作為計價單位？\n(A)定期傭船\n(B)論時傭船\n(C)論程傭船\n(D)光船租賃",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "定期傭船",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "論時傭船",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "論程傭船",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "光船租賃",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "論程傭船是以完成特定航次為目的，並依據貨物裝運的重量或體積來計收運費。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_007",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "高雄市所提出的交通行動服務（MaaS）方案：「MenGo」，下列何者非其主要的營運模式？\n(A)整合大眾運輸與共享機車\n(B)利用 App 平台整合運輸資訊\n(C)採用「即用即付（pay as you go）」之付費方式\n(D)納入計程車預約搭乘服務",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "整合大眾運輸與共享機車",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "利用 App 平台整合運輸資訊",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "採用「即用即付（pay as you go）」之付費方式",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "納入計程車預約搭乘服務",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "MenGo方案主打月票制、套票式預付優惠，與逐次扣款的即用即付模式不同。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_008",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種「鐵路行車制度」的安全性最高？\n(A)隔時法\n(B)列車本位制\n(C)絕對閉塞區間制\n(D)行車命令制",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "隔時法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "列車本位制",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "絕對閉塞區間制",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行車命令制",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "絕對閉塞區間制嚴格限制一個區間只能有一列火車存在，能有效杜絕追撞，安全性最高。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_009",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在航空公司的營收管理架構中，下列何者不是主要的考量因素？\n(A)超額訂位\n(B)航班供給\n(C)差別費率\n(D)艙位配置",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "超額訂位",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "航班供給",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "差別費率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "艙位配置",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "營收管理著重於既定供給下的價格與艙位分配，航班供給屬長期產能決策而非即時管理。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_010",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在運輸補貼理論中，何者屬於「非金錢補貼」方式？\n(A)績效補貼\n(B)稅費減免\n(C)虧損補貼\n(D)資本補貼",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "績效補貼",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "稅費減免",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "虧損補貼",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "資本補貼",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "稅費減免屬於間接的非金錢式補貼，不像現金補貼直接撥款予業者。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_011",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "交通部轄下尚未完成公司化組織型態之營運業務者有那些？①桃園機場 ②臺中港 ③中華郵政\n④臺鐵\n(A)①③④\n(B)①②\n(C)③④\n(D)④",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①③④",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①②",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "③④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "④",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "於111年考期，臺鐵仍為行政機關，尚未完成公司化改制（臺鐵公司化於113年實施）。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_012",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "系統的主要功能為「監督軌道的狀況及列車的行駛速度」，是指下列何種列車控制系統？\n(A)列車自動監督系統\n(B)列車自動停車系統\n(C)列車自動操作系統\n(D)列車自動防護系統",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "列車自動監督系統",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "列車自動停車系統",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "列車自動操作系統",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "列車自動防護系統",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "列車自動防護系統（ATP）負責持續監控列車速度並確保在安全速限內運行，防止冒進或超速。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_013",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "市中心區實施「機車停車收費」策略，係屬於下列那種管制政策？\n(A)機車使用之直接管制\n(B)機車持有之直接管制\n(C)機車使用之間接管制\n(D)機車持有之間接管制",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "機車使用之直接管制",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "機車持有之直接管制",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "機車使用之間接管制",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "機車持有之間接管制",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "停車收費是透過經濟誘因（價格）來影響使用者的行為，屬於針對使用的間接管制。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_014",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有一輕軌路線目前以 4 節車廂營運，每一車廂可承載旅客數為 200 人，營運班距為 120 秒，列車來回往返時間為 60 分鐘，下列何種營運策略可獲得最大的路線容量？\n(A)列車往返時間縮短為 40 分鐘\n(B)單一車廂載客數增加至 240 人\n(C)營運班距調整至 90 秒\n(D)單一列車之車廂數增加為 5 節",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "列車往返時間縮短為 40 分鐘",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "單一車廂載客數增加至 240 人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "營運班距調整至 90 秒",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "單一列車之車廂數增加為 5 節",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "增加車廂數可直接提升每列列車載客總量，是提升整體路線最大容量最顯著的方式。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_015",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬於副大眾運輸系統？\n(A)需求反應式運輸系統\n(B)隨停公車\n(C)撥召公車\n(D)地面電車",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "需求反應式運輸系統",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "隨停公車",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "撥召公車",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "地面電車",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "地面電車屬於傳統軌道大眾運輸，副大眾運輸則是指具備高度彈性與服務範圍特性的運輸。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_016",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者為港埠當局對其所提供之業務服務所收取的業務費？\n(A)船鈔\n(B)商港建設費\n(C)碼頭停泊費\n(D)港埠捐稅",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "船鈔",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "商港建設費",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "碼頭停泊費",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "港埠捐稅",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "碼頭停泊費是業者因使用碼頭設施而繳付給港埠當局的費用，屬業務費性質。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_017",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "鼓勵大眾運輸的發展策略中，以下何者是屬於「推」的策略？\n(A)以汽燃稅補貼大眾運輸\n(B)交通擁擠費之實施\n(C)引進大眾捷運系統\n(D)推行交通行動服務",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "以汽燃稅補貼大眾運輸",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "交通擁擠費之實施",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "引進大眾捷運系統",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "推行交通行動服務",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "交通擁擠費是增加私人運具的使用成本，屬於「推」離私人載具的限制性策略。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_018",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "我國目前之鐵路經營政策，主要採取以下何種原則？\n(A)特許主義\n(B)國有主義\n(C)準則主義\n(D)民營為主",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "特許主義",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國有主義",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "準則主義",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "民營為主",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "依鐵路法規定，我國鐵路以國有為原則，但得准由地方政府或民營經營。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_019",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種要素不屬於「歐盟鐵路安全管理的 RAMS 系統」？\n(A)維護度\n(B)可靠度\n(C)妥善率\n(D)永續性",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "維護度",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "可靠度",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "妥善率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "永續性",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "RAMS是指可靠度(R)、可用性(A)、維護度(M)與安全性(S)，並不包含永續性。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_020",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關 2021 年 3 月發生在蘇伊士運河的長賜輪擱淺事件，下列何者正確？\n(A)長賜輪為長榮海運乾租的貨櫃船\n(B)長賜輪以論程傭船方式租賃營運\n(C)長賜輪擬以共同海損方式處理賠償事宜\n(D)長賜輪屬於長榮海運營運中最大型的貨櫃船",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "長賜輪為長榮海運乾租的貨櫃船",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "長賜輪以論程傭船方式租賃營運",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "長賜輪擬以共同海損方式處理賠償事宜",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "長賜輪屬於長榮海運營運中最大型的貨櫃船",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "長賜輪事故發生後，船東宣告共同海損，由貨主與船東共同分擔此次救難及損害費用。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_021",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種「海運提單（B/L）」是可以允許流通轉讓？\n(A)指示提單\n(B)直接提單\n(C)記名式提單\n(D)聯運提單",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "指示提單",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "直接提單",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "記名式提單",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "聯運提單",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "指示提單經由背書即可轉讓，具有貨權憑證且可供流通轉讓的法律特性。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_022",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「總體程序性需求模式」的規劃程序為何？①旅次分布 ②交通指派 ③運具分配 ④旅次發生\n(A)②④①③\n(B)①③②④\n(C)④①③②\n(D)③②④①",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "②④①③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①③②④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "④①③②",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "③②④①",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "交通需求四階段預測依序為：旅次發生、旅次分布、運具分配，最後為交通指派。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_023",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "針對「輕軌捷運系統（LRRT）」與「輕軌運輸系統（LRT）」之定義，其主要差異為何？\n(A)列車長度\n(B)路權型態\n(C)行駛速度\n(D)載客數量",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "列車長度",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "路權型態",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行駛速度",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "載客數量",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "LRRT通常具有完全獨立的路權，而LRT則常包含非獨立或混合型式的路權。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_024",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「提供責任區內航空器爬升及下降之進場及離場管制服務」，是屬於何種飛航管制單位之目的？\n(A)終端管制\n(B)機場管制\n(C)區域管制\n(D)塔台管制",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "終端管制",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "機場管制",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "區域管制",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "塔台管制",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "終端管制（Apprach Control）負責機場附近空域的進場、離場及飛機爬升下降之引導。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_025",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "推行「共乘制度（Ride-sharing system）」是屬於運輸系統管理（TSM）中的那一類方法？\n(A)減少運輸供給\n(B)增加運輸需求\n(C)增加運輸供給\n(D)減少運輸需求",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "減少運輸供給",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "增加運輸需求",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "增加運輸供給",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "減少運輸需求",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "共乘制度旨在提高車輛承載效率，減少道路上的車輛總數，屬於需求管理的方法。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_026",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依照國家發展委員會對於聯合國永續發展目標（SDGs）之說明中，與交通運輸有關之指標出現在那些目標中？\n(A)建立具有韌性的基礎建設，促進包容且永續的工業，並加速創新\n(B)促使城市與人類居住具包容、安全、韌性及永續性\n(C)採取緊急措施以因應氣候變遷及其影響\n(D)強化永續發展執行方法及活化永續發展全球夥伴關係",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "建立具有韌性的基礎建設，促進包容且永續的工業，並加速創新",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "促使城市與人類居住具包容、安全、韌性及永續性",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "採取緊急措施以因應氣候變遷及其影響",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "強化永續發展執行方法及活化永續發展全球夥伴關係",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "聯合國永續發展目標SDG 11強調永續城市，其中明確包含提供安全、便利的交通系統。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_027",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "臺灣高速鐵路公司實施「大學生優惠」措施，可歸類為下列那些策略或概念上之應用？①行銷策略組合\n②營收管理 ③運輸尖離峰特性 ④企業社會責任（CSR） ⑤共享經濟\n(A)①③④⑤\n(B)僅①②③\n(C)①②③④\n(D)僅②④⑤",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①③④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "僅①②③",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "僅②④⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "該措施結合了行銷促銷、差別定價、離峰運能利用及企業回饋社會等多元策略。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_028",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "運輸業者定價時通常考慮那些因素？①生產成本 ②定價策略 ③需求特性 ④市場結構 ⑤外部成本\n⑥政府法規\n(A)②③④⑥\n(B)①②③④\n(C)①②③④⑥\n(D)②③④⑤⑥",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "②③④⑥",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①②③④⑥",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "②③④⑤⑥",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "運輸定價需整合考慮內部成本、市場競爭（結構）、使用者需求強度及法規限制等要素。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_029",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "一般經營國際線航空業的營運成本項目中，那些費用占有較高比重？①廣告 ②燃油 ③起降規費\n④人員 ⑤利息\n(A)①③\n(B)②④\n(C)④⑤\n(D)②③",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "②④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "②③",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "航空業成本結構中，燃油費用與人員薪資福利通常佔據經營成本的最大份額。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_030",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "那些運輸業較少有在相同起迄點結合差異產品與差別定價的做法？\n(A)臺灣高鐵\n(B)計程車業\n(C)國際郵輪\n(D)和欣客運",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "臺灣高鐵",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "計程車業",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國際郵輪",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "和欣客運",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "計程車多由政府公告費率且採單一服務，較少像其他運輸業發展多元化的差別定價產品。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_031",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者非屬於民用航空法中所指出之「民航六業」？\n(A)桃園國際機場股份有限公司\n(B)長榮空運倉儲公司\n(C)德安航空公司\n(D)桃園航勤公司",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "桃園國際機場股份有限公司",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "長榮空運倉儲公司",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "德安航空公司",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "桃園航勤公司",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "桃園機場公司屬於機場管理機構，並非民航法規範之六種特許民用航空事業。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_032",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "mixed",
+    "difficulty": 2,
+    "text": "ITS 已朝物聯網概念之協同式智慧型運輸系統發展，其包括那些應用？①V2V ②I2I ③V2I ④I2V\n(A)②③④\n(B)①③④\n(C)①②④\n(D)①②③",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①②④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      ",",
+      "B",
+      ",",
+      "C",
+      ",",
+      "D"
+    ],
+    "explanation": "協同式ITS涵蓋車對車(V2V)、路對路(I2I)、車對路(V2I)及路對車(I2V)等通訊技術應用。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_033",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "海運策略聯盟之合作關係，包含那些種類？①財務聯盟 ②風險聯盟 ③物流聯盟 ④營運聯盟\n(A)①②③④\n(B)①③④\n(C)②③④\n(D)①②③",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "海運聯盟主要聚焦於風險分擔、營運合作及物流鏈整合，通常不會組成共同財務聯盟。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_034",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關人工智慧應用於智慧交通領域，包括以下那些應用？①車聯網 ②自動駕駛車輛 ③提供旅行者預測資訊 ④交通資料蒐集 ⑤自動事件偵測與駕駛行為偵測 ⑥遙控無人機\n(A)僅①②③\n(B)僅①②③④\n(C)僅①②③⑤⑥\n(D)①②③④⑤⑥",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "僅①②③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "僅①②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "僅①②③⑤⑥",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④⑤⑥",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "人工智慧技術廣泛應用於上述所有面向，包含感知、預測、決策及自動控制等功能。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_035",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據「大眾運輸營運與服務評鑑辦法」第 3 條第 1 項規定評鑑參考指標包含：①運輸工具設備與安全\n②旅客服務品質與駕駛員管理 ③場站設施與服務 ④公司經營與管理 ⑤無障礙之場站設施、服務、\n運輸工具設備與安全 ⑥政策配合度\n(A)①②③④⑥\n(B)①②③④⑤\n(C)①②③⑤⑥\n(D)①②③④⑤⑥",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③④⑥",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①②③④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①②③⑤⑥",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④⑤⑥",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "依規定，評鑑指標聚焦於工具安全、旅客服務、場站、經營及無障礙設施等五大項目。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_036",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "軌道運輸車輛因具有編組列車的特性，依據車流理論將 9 輛車聯掛一列車編組後，其路線容量可提高幾倍？\n(A) 1 倍\n(B) 2 倍\n(C) 3 倍\n(D) 4.5 倍",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1 倍",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "2 倍",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "3 倍",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "4.5 倍",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "在安全班距限制下，增加列車長度雖可提升單次載運量，但其對整體容量提升約為2倍。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_037",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "近年新冠疫情影響下，對那一種運輸行業之營運影響衝擊最大？\n(A)航空貨運\n(B)臺灣港務公司\n(C)貨運承攬業\n(D)航空客運",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "航空貨運",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "臺灣港務公司",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "貨運承攬業",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "航空客運",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "疫情期間國際航線大幅裁撤，航空客運量因邊境管制出現斷崖式下跌，受影響最重。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_038",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依「汽車運輸業客貨運運價準則」第 5 條，每延人公里之基本運價公式中之每車公里合理成本，不包括何者？\n(A)修車材料費用\n(B)車輛折舊費用\n(C)事故理賠費用\n(D)行車人員薪資",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "修車材料費用",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "車輛折舊費用",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "事故理賠費用",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行車人員薪資",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "公式中之合理成本包含營運必須的材料、薪資與折舊，不包含不確定的事故理賠費。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_039",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在各國營運的運輸系統中，下列何者有包含客運及貨運之運具服務？①公路 ②高鐵 ③航空 ④海\n運 ⑤管道 ⑥捷運\n(A)①②③④\n(B)①③④⑤⑥\n(C)①③④⑤\n(D)①②③④⑤",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①③④⑤⑥",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①③④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "公路、航空、海運皆有發達的客貨運；管道僅供貨運，捷運主要則供客運。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_040",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "目前全球高速鐵路系統所採用的技術，主要包括：①懸掛技術 ②跨坐技術 ③鋼軌技術 ④管道技術\n⑤磁懸浮技術\n(A)①②\n(B)③④\n(C)③⑤\n(D)④⑤",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "③⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "④⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "全球主流的高速鐵路主要採用傳統鋼軌鋼輪技術，部分系統則採用磁懸浮技術。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_041",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "我國運輸費率制度中主要採用里程費率制計費的有：①臺鐵客票 ②國內航線客票 ③市區公車\n④公路客運 ⑤捷運\n(A)①②④\n(B)①④\n(C)①③④⑤\n(D)①②③④⑤",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②④",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①③④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "里程費率制以臺鐵及公路客運為代表；市區公車與捷運多採段次或區段計費方式。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_042",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "新冠疫情期間國籍航空業者紛紛減班因應，其定價考量：①提高票價 ②降低票價 ③價格彈性<1\n④價格彈性>1\n(A)①③\n(B)②④\n(C)①④\n(D)②③",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "②④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "②③",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "疫情間需求多屬剛性（彈性小），航空業透過減班並維持或提高價格以減少虧損。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_043",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "交通部若要推動提高私人車輛持有成本的政策，以下何者錯誤？\n(A)購車自備停車位\n(B)提高私人車輛牌照稅\n(C)提高對老舊車之汰換補助\n(D)提高私人車輛強制第三人責任險之保費",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "購車自備停車位",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "提高私人車輛牌照稅",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "提高對老舊車之汰換補助",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "提高私人車輛強制第三人責任險之保費",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "提高汰換補助是減輕換車負擔，屬於鼓勵汰舊換新的誘因，而非提高持有成本。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_044",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「購買一張車票，即能搭乘屬於不同公司之國道客運」，是屬於那種型態的機構整合？\n(A)公司合併\n(B)運輸聯盟\n(C)共同運輸\n(D)運費聯盟",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公司合併",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "運輸聯盟",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "共同運輸",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "運費聯盟",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "運費聯盟（Freight/Tariff Alliance）涉及不同業者間票證互通與運費分攤清算的整合。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_045",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "mixed",
+    "difficulty": 2,
+    "text": "下列何者不屬於都市大眾運輸管制之法源依據？\n(A)公路法\n(B)大眾捷運法\n(C)汽車運輸管理規則\n(D)鐵路法",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公路法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "大眾捷運法",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "汽車運輸管理規則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "鐵路法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": [
+      "C",
+      ",",
+      "D"
+    ],
+    "explanation": "都市大眾運輸主要法源為大眾捷運法及公路法。鐵路法主要規範城際軌道而非都市大眾運輸。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_046",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "由第三國家航空器在甲乙兩國間載運客貨郵件的航權屬於：\n(A)第九航權\n(B)第八航權\n(C)第七航權\n(D)第六航權",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "第九航權",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "第八航權",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "第七航權",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "第六航權",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "第七航權指在境外兩國間運營，且航點不與母國相連。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_047",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "航空公司利潤主要由那些因子所決定？①單位成本 ②單位營收 ③承載率 ④航機大小 ⑤與旅行社\n合作家數\n(A)①②③\n(B)①②③④\n(C)①②③⑤\n(D)①②③④⑤",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①②③⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "航空業利潤核心在於控管單位成本、極大化單位營收，並透過承載率確保實際收入。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_048",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "一般衡量旅客運輸服務的指標有那些？①旅行成本 ②旅行時間 ③旅次目的 ④安全性 ⑤舒適度\n⑥提單正確性\n(A)①②③④⑤⑥\n(B)①②④⑤\n(C)①②③④\n(D)①②③⑥",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③④⑤⑥",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①②④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③⑥",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "旅客服務指標首重安全、時間、金錢成本與舒適度。提單正確性屬貨運指標。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_049",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「公共運輸之服務品質（包括安全、班次、票價等）能符合旅客之預期」是屬於「無縫運輸」中的那種\n方式？\n(A)運輸服務\n(B)時間銜接\n(C)空間銜接\n(D)運輸財務",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "運輸服務",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "時間銜接",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "空間銜接",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "運輸財務",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "服務無縫是指不同運具在安全性、費率及服務標準上具有連貫性，使旅客獲得一致體驗。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_050",
+    "category": "economics",
+    "stageId": "111_111010_512",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "新版（2020 年）運輸政策白皮書與舊版（102 年）在智慧運輸的差別：①以公路運輸系統為範疇\n②推動創新智慧運輸服務 ③強化公私部門協作，推動交通科技產業發展 ④綠色運輸與企業社會責任\n(A)①②\n(B)②③\n(C)③④\n(D)①④",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "②③",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "③④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①④",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "2020版白皮書擴大了智慧交通範疇，並強調導入創新服務與促進交通科技產業鏈。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "512",
+      "交通行政",
+      "運輸學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  }
+]

@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "110_110010_001",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是提升書目紀錄品質的有效方式？\n(A)建立合作編目共識 (B)確定書目著錄一致性\n(C)確實審核書目紀錄 (D)減少參與編目的館員數量",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "建立合作編目共識",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "確定書目著錄一致性",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "確實審核書目紀錄",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "減少參與編目的館員數量",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "減少館員數量會導致人力不足與審核量能下降，通常不利於提升或維持複雜的書目紀錄品質。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_002",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種編目資源是在圖書尚未出版前就先完成著錄的書目資料？\n(A) AACR (B) BIP (C) CIP (D) DOI",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "AACR",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "BIP",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "CIP",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "DOI",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "CIP（出版品預編圖書資料）是圖書館與出版界合作，在書籍正式出版前先行編製並印於書中的書目資料。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_003",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "就編目而言，下列何者正確？\n(A)記述編目是對資訊物件作主題內容上的分析 (B)主題編目是對資訊物件作形體上的描述\n(C)編目時需依據 ISBD 規定記載十大著錄項目 (D)編目分為記述編目和主題編目",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "記述編目是對資訊物件作主題內容上的分析",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主題編目是對資訊物件作形體上的描述",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "編目時需依據 ISBD 規定記載十大著錄項目",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "編目分為記述編目和主題編目",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "圖書編目主要分為記述編目（形體描述、責任說明）與主題編目（內容分析、賦予分類號與標題）兩大部分。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_004",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "英美編目規則（Anglo-American Cataloguing Rules, AACR）中所規定的資料類型標示（General Material Designation, GMD），在資源描述與檢索（Resource Description & Access, RDA）中被取消，而改由下列何者取代？\n(A)生產、出版、經銷、製造 (B)內容類型、媒體類型、載體類型\n(C)作品形式、作品或內容形式之其他區別特性 (D)圖書、視聽資料、電子資源、地圖、樂譜、善本",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "生產、出版、經銷、製造",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "內容類型、媒體類型、載體類型",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "作品形式、作品或內容形式之其他區別特性",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "圖書、視聽資料、電子資源、地圖、樂譜、善本",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "RDA 取消了 GMD，改採「內容類型」、「媒體類型」與「載體類型」（即 CMC）三項元素詳細描述資源。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_005",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "一書之書目紀錄的稽核項著錄為 1, 124 + 面，依據《中國編目規則》第三版，下列敘述何者正確？\n(A)該書有 1124 面 (B)該書有 124 面 (C)該書有 125 面 (D)該書超過 125 面",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "該書有 1124 面",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "該書有 124 面",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "該書有 125 面",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "該書超過 125 面",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "在《中國編目規則》中，「1, 124 + 面」表示有 1 面序文與 124 面正文，加上符號「+」代表有其他未計入的頁面。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_006",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "國際圖書館協會聯盟（IFLA）為電子資源發展趨勢，所訂定之書目著錄標準最新版為何？\n(A) ISBD（Revised Edition） (B) ISBD（New Edition）\n(C) ISBD（Electronic Resources） (D) ISBD（Consolidated Edition）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "ISBD（Revised Edition）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "ISBD（New Edition）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "ISBD（Electronic Resources）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "ISBD（Consolidated Edition）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "ISBD（聯合版）整合了先前針對各類資料的分散標準，是目前 IFLA 所發布涵蓋各類型資源的最新標準格式。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_007",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據《中國編目規則》第三版，相同標目之不同團體，需於標目後加註辨識文字，應置於下列何種符號內？\n(A)方括弧 (B)雙引號 (C)圓括弧 (D)單引號",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "方括弧",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "雙引號",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "圓括弧",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "單引號",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "根據編目規則，當團體名稱相同需要區分時，會在名稱後方的圓括弧「()」內加入地名、日期或性質等辨識文字。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_008",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "《中國編目規則》第三版未包含下列何種標目之規範？\n(A)地名標目 (B)人名標目 (C)主題標目 (D)團體標目",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "地名標目",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "人名標目",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "主題標目",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "團體標目",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "《中國編目規則》主要規範記述編目與形式標目（人、地、團體、題名），主題標目則由《中文主題詞表》等規範。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_009",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "我國國家圖書館已編印出版之資源描述與檢索（Resource Description and Access, RDA）參考書籍，不包括下列何者？\n(A)《RDA 中文手冊初稿》 (B)《RDA 中文編目範例與解析》\n(C)《RDA 書目關係編目參考手冊》 (D)《錄音及錄影資源 RDA 編目參考手冊》",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "《RDA 中文手冊初稿》",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "《RDA 中文編目範例與解析》",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "《RDA 書目關係編目參考手冊》",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "《錄音及錄影資源 RDA 編目參考手冊》",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "國家圖書館出版了手冊初稿、書目關係與視聽資源參考手冊，但並未包含名為《RDA 中文編目範例與解析》的專書。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_010",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種概念模式的實體，包含 FRBR 所定義的實體及附加的家族（family）外，另新增名稱（name）、識別碼（identifier）、受控檢索點（controlled access point）、規則（rules），以及機構（agency）？\n(A) LRM (B) FRAD (C) FRBD (D) FRSAD",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "LRM",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "FRAD",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "FRBD",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "FRSAD",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "FRAD（權威資料功能需求）旨在擴展 FRBR 實體，特別針對權威控制增加了家族、名稱、規則等相關實體定義。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_011",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "連續出版品之卷期項以數字或文字為編次者，依《中國編目規則》第三版著錄規定，下列何者正確？\n(A)新潮. -- 第 1 卷第 1 號- (B)再生. -- 臺字第一卷 8 月號-\n(C)國粹學報. -- 第 1 年第一號- (D)民間知識. -- 革新壹期-",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "新潮. -- 第 1 卷第 1 號-",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "再生. -- 臺字第一卷 8 月號-",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國粹學報. -- 第 1 年第一號-",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "民間知識. -- 革新壹期-",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依規則，連續出版品卷期項應將刊物標示之文字轉換為通用形式，如「第 1 卷第 1 號-」為標準的數字編次著錄方式。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_012",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "《中國文學大辭典》主要著錄來源所載之著者為江恆源、袁少谷合編，該書經考證其真實著者為莊適，依據《中國編目規則》第三版檢索款目應如何著錄？\n(A)以莊適立檢索款目 (B)以江恆源、袁少谷分立檢索款目\n(C)以莊適、江恆源、袁少谷分立檢索款目 (D)以莊適. 中國文學大辭典立檢索款目",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "以莊適立檢索款目",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "以江恆源、袁少谷分立檢索款目",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "以莊適、江恆源、袁少谷分立檢索款目",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "以莊適. 中國文學大辭典立檢索款目",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "當真實作者確定時，應以其立檢索款目，同時也應為書面具名者建立附加款目，以增加檢索的可獲得性。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_013",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "編目員分類圖書時，查到館內已典藏該作者同類書之其他作品，其索書號為 312.8 8766:3-3，下列何者最可能是這本在編書的索書號？\n(A) 312.8 8766:4 (B) 312.8 8766-4 (C) 312.8 8766:4-3 (D) 312.8 8766:3-4",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "312.8 8766:4",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "312.8 8766-4",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "312.8 8766:4-3",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "312.8 8766:3-4",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "索書號末尾的「:3-3」代表某作品的第3種書第3冊，下一冊應接續為同一種書的第4冊，即「:3-4」。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_014",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "五筆檢字法將中文筆形歸納為 5 種，下列何者不包括在內？\n(A)橫 (B)直 (C)點 (D)角",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "橫",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "直",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "點",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "角",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "五筆檢字法將漢字基本筆畫歸納為：橫（一）、豎（丨）、撇（丿）、點（丶）、折（乙），不包含「角」。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_015",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者主張圖書分類需遵照科學與教育共識？\n(A)布利斯（H. E. Bliss） (B)布朗（J. D. Brown）\n(C)馬特爾（Charles Martel） (D)胡爾梅（E. W. Hulme）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "布利斯（H. E. Bliss）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "布朗（J. D. Brown）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "馬特爾（Charles Martel）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "胡爾梅（E. W. Hulme）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "布利斯（H. E. Bliss）強調分類法應基於「科學與教育共識」，使其學術體系與當代知識組織相吻合。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_016",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "系統主題法與字順主題法的相同處為下列何者？\n(A)皆採線性組織方式 (B)主題概念的表達方式相同\n(C)皆以詞語之字順來組織主題概念 (D)均為揭示文獻主題內容的方法",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "皆採線性組織方式",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主題概念的表達方式相同",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "皆以詞語之字順來組織主題概念",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "均為揭示文獻主題內容的方法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "無論是分類體系（系統）或標題詞（字順），其核心目的都是為了揭示資源的主題意義，協助讀者檢索。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_017",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "《中文主題詞表》編輯結構中有參考類號，而參考類號有其功用，但不包括下列何者？\n(A)輔助解釋主題詞之詞義 (B)使主題詞之詞義更為明確\n(C)作為分類主題一體化試驗 (D)使文獻標引者及使用者用語趨於一致",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "輔助解釋主題詞之詞義",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "使主題詞之詞義更為明確",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "作為分類主題一體化試驗",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "使文獻標引者及使用者用語趨於一致",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "參考類號主要用於輔助詞義解釋及進行一體化試驗，而非直接統一標引者與使用者的用語。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_018",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於索引典的敘述，下列何者正確？\n(A)多用於後組合索引系統 (B)無須具備參照系統\n(C)使用自然語言詞彙 (D)直接引用文獻的主題詞彙",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "多用於後組合索引系統",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "無須具備參照系統",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "使用自然語言詞彙",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "直接引用文獻的主題詞彙",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "索引典（Thesaurus）主要應用於電腦化的「後組合」檢索環境中，讓使用者組合不同的敘詞進行精確查詢。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_019",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者通常不是索引典的基本展示方式？\n(A)字順 (B)圖形 (C)分類 (D)格式",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "字順",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "圖形",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "分類",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "格式",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "索引典通常以字順（主表）、分類或圖形（樹狀結構）展示其詞彙關係，而「格式」並非其內容組織的展示方式。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_020",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列圖書分類法中，何者是最晚發展出來的？\n(A)國際十進分類法 (B)美國國會圖書館分類法\n(C)杜威十進分類法 (D)冒號式分類法",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國際十進分類法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "美國國會圖書館分類法",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "杜威十進分類法",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "冒號式分類法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "冒號式分類法（CC）由阮加納桑於1933年提出，晚於 DDC（1876）、UDC（1905）與 LCC（1901）。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_021",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "《中文圖書分類法》（2007 年版）的修訂，是以下列何種圖書分類法為藍本？\n(A)杜威十進分類法 (B)何日章《中國圖書十進分類法》\n(C)賴永祥《中文圖書分類法》 (D)杜定友《世界圖書分類法》",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "杜威十進分類法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "何日章《中國圖書十進分類法》",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "賴永祥《中文圖書分類法》",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "杜定友《世界圖書分類法》",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "2007年版的《中文圖書分類法》是在承襲賴永祥先生所編製的既有體系基礎上，配合當代學術發展修訂而成的。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_022",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "第一版的杜威十進分類法於何時發表？\n(A) 1768 年 (B) 1786 年 (C) 1867 年 (D) 1876 年",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1768 年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "1786 年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "1867 年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "1876 年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "杜威（Melvil Dewey）於1876年匿名出版了第一版《圖書館圖書和手冊的分類和索引目錄》。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_023",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在索引典中，下列何者參照符號代表兩個詞有等同關係？\n(A) BT (B) NT (C) RT (D) UF",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "BT",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "NT",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "RT",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "UF",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "UF（Used For，代用）表示正式敘詞代表了其後的非敘詞，兩者具有等同關係，指引使用者從非敘詞轉向敘詞。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_024",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "主題術語之分面式應用（Faceted Application of Subject Terminology, FAST）的發展，下列敘述何者正確？\n(A)以 LCSH 詞彙為基礎發展之主題詞表 (B) FAST 與 LCSH 不相容\n(C) FAST 採前組合詞彙控制 (D)美國國會圖書館已全面採用 FAST 主題詞",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "以 LCSH 詞彙為基礎發展之主題詞表",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "FAST 與 LCSH 不相容",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "FAST 採前組合詞彙控制",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "美國國會圖書館已全面採用 FAST 主題詞",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "FAST 是由 OCLC 發展，旨在簡化 LCSH，使其更適合網路環境與分面檢索，兩者詞彙體系密切相關且相容。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_025",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關美國國會圖書館分類法（LCC）的敘述，下列何者正確？\n(A)為分析綜合分類法 (B)將知識分為 10 大類\n(C)為公共圖書館常用的分類法 (D)尚未使用類號 I、O、W、X、Y",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "為分析綜合分類法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "將知識分為 10 大類",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "為公共圖書館常用的分類法",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "尚未使用類號 I、O、W、X、Y",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "LCC 雖然使用字母作為大類號，但為預留發展空間，至今仍未使用 I、O、W、X、Y 等字母作為類號開頭。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_026",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者是《美國國會圖書館標題表》1988 年之後，不再使用之詞彙關係？\n(A) USE (B) BT、NT (C) RT (D) See",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "USE",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "BT、NT",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "RT",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "See",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "自1988年（第11版）起，LCSH 棄用傳統的「See」參照，改用索引典形式的「USE」和「UF」來表達等同關係。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_027",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "編目機構依據 RDA 規則選擇適當題名做為首選題名，建立 MARC 21 權威紀錄時，權威款目-劃一題名應著錄於下列何者？\n(A)欄位 100 (B)欄位 110 (C)欄位 130 (D)欄位 150",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "欄位 100",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "欄位 110",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "欄位 130",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "欄位 150",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "在 MARC 21 權威格式中，欄位 130 專門用於著錄不具備個人或團體責任說明的「劃一題名」作為權威標目。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_028",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何項計畫是以合作的方式進行權威檔的合作建置？①NACO ②VIAF ③CORC ④HKCAN\n(A)僅①② (B)僅③④ (C)①②④ (D)①③④",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "僅①②",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "僅③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①②④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①③④",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "NACO、VIAF 與 HKCAN 均為著名的權威資料合作建置計畫；CORC 則是早期針對網頁資源編目的實驗計畫。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_029",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關權威檔標準，下列何者正確？\n(A) FRAD、MARC 21: Format for Authority Data\n(B) FRBR、ISBD、MARC 21: Format for Authority Data\n(C) FRSAD、ISBD、MARC 21: Format for Authority Data\n(D) FGDC、FRSAD、MARC 21: Format for Authority Data",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "FRAD、MARC 21: Format for Authority Data",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "FRBR、ISBD、MARC 21: Format for Authority Data",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "FRSAD、ISBD、MARC 21: Format for Authority Data",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "FGDC、FRSAD、MARC 21: Format for Authority Data",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "FRAD 是針對權威資料的概念模式，而 MARC 21 Authority Data 是目前實務上紀錄權威資料最通用的通訊格式。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_030",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在 MARC 21 書目機讀格式欄號 041 主要記載下列何選項？\n(A)語文代碼 (B)國際標準書號 (C)杜威十進分類號 (D)美國國會分類號",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "語文代碼",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國際標準書號",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "杜威十進分類號",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "美國國會分類號",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "欄位 041 專用於記錄資源所使用的語文代碼，特別是當資源為翻譯或包含多種語言內容時。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_031",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依 MARC 21 權威機讀格式，下列那一欄號可以著錄「陳平 見 三毛」參照範例中之「陳平」？\n(A) 100 (B) 110 (C) 400 (D) 410",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "100",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "110",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "400",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "410",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "在「陳平 見 三毛」中，「陳平」是非正式標目，應著錄於 400 欄位（個人名稱的參照來源）。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_032",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "機讀編目格式（MARC）的結構，係採下列何者為基礎？\n(A) Z39.50 (B) ISO 2709 (C) CNS 13151 (D) ANSI/NISO Z39.7",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Z39.50",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "ISO 2709",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "CNS 13151",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "ANSI/NISO Z39.7",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "MARC 格式的物理結構（指標、目錄、資料區等）是基於國際標準 ISO 2709 所規範的書目資訊交換格式。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_033",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "MARC 21 每一筆書目紀錄內必備的定長欄位，除了欄位 001、003、005 之外，尚包括下列何者？\n(A) Leader 及 008 (B) Leader 及 007 (C) Leader 及 006 (D) 006 及 007",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Leader 及 008",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "Leader 及 007",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "Leader 及 006",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "006 及 007",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Leader（紀錄標頭）與 008（固定長度資料欄）是 MARC 21 紀錄中不可或缺的核心定長欄位。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_034",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "採用 RDA 進行 MARC 21 權威編目，有關著者的活躍領域或專業領域（field of activity）需著錄於下列何項欄位？\n(A) 370 (B) 371 (C) 372 (D) 373",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "370",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "371",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "372",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "373",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "MARC 21 權威格式中，欄位 372 用於記錄個人、團體或家族所屬的具體專業領域、技能或活動範疇。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_035",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據《MARC 21 機讀編目格式》，欄號 300 所記載的內容為何？\n(A)題名項 (B)附註項 (C)集叢項 (D)稽核項",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "題名項",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "附註項",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "集叢項",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "稽核項",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "欄位 300 專用於著錄資源的稽核項（物理描述），包括數量、面數、插圖情形及尺寸大小等資訊。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_036",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "ISO 2709 規範的書目資訊交換格式的結構，不包括下列何者？\n(A)指引 (B)權威檔 (C)書目資料欄 (D)紀錄標示",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "指引",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "權威檔",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "書目資料欄",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "紀錄標示",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "ISO 2709 定義了紀錄結構（標示、指引、資料欄），「權威檔」是獨立於此交換格式之外的資料庫或檔案類別。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_037",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者是 LC 與 OCLC 的共同點？\n(A)均提供編目相關服務 (B)均是國際組織 (C)均是圖書館 (D)成立時間相同",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "均提供編目相關服務",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "均是國際組織",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "均是圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "成立時間相同",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "國會圖書館（LC）與聯機圖書館中心（OCLC）皆是全球核心的書目與編目資源提供單位，引領編目標準與服務。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_038",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "書目中心的興起，主要在支援下列何種圖書館作業？\n(A)編目 (B)參考服務 (C)館際互借 (D)館藏評鑑",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "編目",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "參考服務",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "館際互借",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "館藏評鑑",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "書目中心最初建立的初衷是透過資源共享與聯合目錄，支援並減輕各館重複編目的負擔，促進編目合作。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_039",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是書目中心？\n(A) CORC (B) NBINet (C) OCLC (D) RLIN",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "CORC",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "NBINet",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "OCLC",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "RLIN",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "OCLC、RLIN 與台灣的 NBINet 均為書目中心；CORC 是 OCLC 早期的一個專屬研發合作計畫，並非書目中心本身。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_040",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者是 NBINet 會員圖書館的正確敘述？\n(A)未包含專門圖書館 (B)未包含公共圖書館\n(C)需提供書目檔案轉入 NBINet 資料庫 (D)合作編目範圍僅限中文資料",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "未包含專門圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "未包含公共圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "需提供書目檔案轉入 NBINet 資料庫",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "合作編目範圍僅限中文資料",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "NBINet 會員館透過將其書目資料上傳或轉入中心資料庫，達成台灣地區圖書館資源的聯合檢索與共享。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_041",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "著名的哈利波特（Harry Potter）系列電影中的《神秘的魔法石》（Harry Potter and the Philosopher's Stone）一片中，同時出版了 35mm 與 DVD 等兩種以上媒體類型的電影，而前述情形符合書目記錄功能需求（Functional Requirements for Bibliographic Records, FRBR）那一個實體（entity）的屬性範圍？\n(A)作品（work） (B)表現形式（expression）\n(C)具體呈現（manifestation） (D)單件（item）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "作品（work）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "表現形式（expression）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "具體呈現（manifestation）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "單件（item）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "在 FRBR 中，同一作品在不同實體載體（如 35mm 膠捲、DVD）上的發行，被定義為「具體呈現」實體。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_042",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是 OAI-PMH 的組成元件？\n(A)資料儲存器 (B)資料使用者 (C)服務提供者 (D)資料提供者",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "資料儲存器",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "資料使用者",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "服務提供者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "資料提供者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "OAI-PMH 協議主要定義了資料提供者（儲存庫）與服務提供者（收割者）間的角色，「資料使用者」不屬協議元件。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_043",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "詮釋資料權威描述綱要（Metadata Authority Description Schema, MADS）中的識別碼（identifier）元素，屬於下列 MADS 的何種類型元素？\n(A)描述語（descriptor） (B)主要（main） (C)次要（minor） (D)根本（roots）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "描述語（descriptor）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主要（main）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "次要（minor）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "根本（roots）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "在 MADS 結構中，identifier 等元素通常被歸類為輔助性質的次要元素，用以補充說明主體實體。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_044",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "EAD 主要組成元件係由<eadheader>、<frontmatter>及下列何部分組成？\n(A)<archdesc> (B)<filedesc> (C)<profiledesc> (D)<revisiondesc>",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "<archdesc>",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "<filedesc>",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "<profiledesc>",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "<revisiondesc>",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "EAD（編碼檔案描述）文件的核心層級包含紀錄檔頭、前言，以及描述檔案內容本身的最重要部分 <archdesc>。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_045",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於舒伯特所作的鱒魚五重奏（Trout quintet），下列物件在 FRBR 第一組實體中，各為何者？①舒伯特鱒魚五重奏的樂譜 ②Emanuel Ax 與 Guarneri String Quartet 所演奏的鱒魚五重奏 ③1997 年由 Deutsche Grammophon 發行的鱒魚五重奏錄音光碟\n(A)①作品（work）、②表現形式（expression）、③表現形式（expression）\n(B)①作品（work）、②具體呈現（manifestation）、③表現形式（expression）\n(C)①表現形式（expression）、②表現形式（expression）、③具體呈現（manifestation）\n(D)①表現形式（expression）、②具體呈現（manifestation）、③具體呈現（manifestation）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①作品（work）、②表現形式（expression）、③表現形式（expression）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①作品（work）、②具體呈現（manifestation）、③表現形式（expression）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①表現形式（expression）、②表現形式（expression）、③具體呈現（manifestation）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①表現形式（expression）、②具體呈現（manifestation）、③具體呈現（manifestation）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "樂譜與演奏均為「表現形式」；特定出版發行的光碟載體則是「具體呈現」。舒伯特的創作構思才是作品。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_046",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "語意網（Semantic Web），是希望全球資訊網的巨量網頁賦予機器可以存取的詮釋資料（metadata），再藉由標準、標記語言，以及軟體程式，讓機器可以理解（understand）網頁內容以及網頁間錯綜複雜的關係。此概念由 Tim Berners Lee 在何時提出？\n(A) 1988 年 (B) 1998 年 (C) 2008 年 (D) 2018 年",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1988 年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "1998 年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "2008 年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2018 年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "全球資訊網之父 Tim Berners-Lee 於1998年左右正式提出語意網願景，致力於網頁資料的可理解性。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_047",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "簡單知識組織系統（SKOS）的目標是在知識組織系統設計與應用中，建立包括圖書資訊學在內的不同社群團體之間的橋樑。對於 SKOS 的敘述，下列何者錯誤？\n(A)將概念（concept）與標籤（label）整合為一，不予區分處理\n(B)以主題概念為中心，定義了主題詞表結構中最基本的語意屬性\n(C)使用 RDF 展現與分享控制詞彙\n(D)概念用 URI 識別符來辨識",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "將概念（concept）與標籤（label）整合為一，不予區分處理",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "以主題概念為中心，定義了主題詞表結構中最基本的語意屬性",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "使用 RDF 展現與分享控制詞彙",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "概念用 URI 識別符來辨識",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "SKOS 嚴格區分「概念」本身與其使用的各種「標籤（名稱）」，使多語系或異稱能正確關聯至同一核心概念。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_048",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "資源描述框架（Resource Description Framework, RDF）是構成鏈結資料最核心的內涵之一，其運算式的基本結構是運用三元組（triples）的集合，其中不包含下列何項來敘述資源？\n(A)主體（subject） (B)客體（object） (C)補語（complement） (D)謂詞（predicate）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主體（subject）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "客體（object）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "補語（complement）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "謂詞（predicate）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "RDF 三元組的基本結構由主體、謂詞與客體（S-P-O）組成，透過這種語義連結構建全球範圍的資料網。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_049",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "圖書館參考模式（Library Reference Model, LRM）共定義五種使用者任務（user task），其中一項使用者任務名稱並未出現在 FRBR 的四種使用者任務項目中，而是來自主題權威資料功能需求（Functional Requirements for Subject Authority Data, FRSAD），是下列何項使用者任務名稱？\n(A)尋找（find） (B)探索（explore） (C)選擇（select） (D)識別（identify）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "尋找（find）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "探索（explore）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "選擇（select）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "識別（identify）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "LRM 的「探索（explore）」任務源於 FRSAD，描述使用者利用實體間的關係進行發現與導航的行為。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_050",
+    "category": "chinese",
+    "stageId": "110_110010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關 Program for Cooperative Cataloging 的敘述，下列何者錯誤？\n(A)國際合作編目計畫 (B)美國國會圖書館主導\n(C)包含書目資料的權威控制處理 (D)圖書館要先自行培訓好編目館員才能加入",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國際合作編目計畫",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "美國國會圖書館主導",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "包含書目資料的權威控制處理",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "圖書館要先自行培訓好編目館員才能加入",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "PCC 成員館通常會接受該計畫提供的標準培訓，並非必須在加入前就完全自行培訓完成所有編目規則。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "中文圖書分類編目大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  }
+]

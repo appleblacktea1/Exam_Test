@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "111_111010_001",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設 A 國只生產香蕉與電腦兩種產品，如果強烈颱風吹倒 A 國一半香蕉樹，則 A 國的生產可能曲線將會如何變化？ (A)外移 (B)內縮 (C)不變 (D)無法判斷外移或內縮",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "外移",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "內縮",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "不變",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "無法判斷外移或內縮",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "颱風摧毀生產設備導致生產資源減少，使生產可能曲線向原點方向內縮。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_002",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "A 國對 B 國進口的機車實施進口限額管制導致機車進口量下降，相對於進口限額政策實施前，實施後 A 國機車市場的變化為何？ (A)消費者剩餘上升 (B)生產者剩餘上升 (C)社會福利上升 (D)社會福利不變",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "消費者剩餘上升",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "生產者剩餘上升",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "社會福利上升",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "社會福利不變",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "進口限額減少供給量並推升市場價格，使本國廠商的生產者剩餘增加。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_003",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設 A 國只生產小麥與腳踏車兩種產品且每月有效率的生產小麥 5 萬公噸、腳踏車 8 萬部，A 國換過行政團隊後，每個月可以提供小麥 6 萬公噸、腳踏車 9 萬部供 A 國民眾消費，請問新行政團隊可能做了什麼事？ (A)調降所得稅 (B)補貼生產者 (C)引導本國貨幣升值 (D)開放國際貿易",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "調降所得稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "補貼生產者",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "引導本國貨幣升值",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "開放國際貿易",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "開放國際貿易可使一國透過分工與交換，使消費組合超越其原本的生產可能邊界。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_004",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於經濟學相關的敘述，下列何者錯誤？ (A)經濟學之父為亞當斯密（Adam Smith） (B)規範經濟學是講述真假的事實，而不涉及好壞的價值判斷 (C)經濟學是教導在資源有限、慾望無窮下，如何進行選擇的科學 (D)資訊不對稱、公共財、外部性等課題都是屬於市場失靈的範疇",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "經濟學之父為亞當斯密（Adam Smith）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "規範經濟學是講述真假的事實，而不涉及好壞的價值判斷",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "經濟學是教導在資源有限、慾望無窮下，如何進行選擇的科學",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "資訊不對稱、公共財、外部性等課題都是屬於市場失靈的範疇",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "規範經濟學涉及「應該如何」的價值判斷與主觀分析，而非僅描述客觀事實。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_005",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "甲一天可以生產 5 單位磚房或是 1 單位木屋，乙一天可以生產 6 單位磚房或是 2 單位木屋，若以比較利益原則來看，下列敘述何者正確？ (A)甲應專業化生產磚房 (B)乙在生產磚房上具有比較利益 (C)甲都不需要生產，均由乙來生產 (D)甲在生產磚房與木屋上均沒有比較利益",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "甲應專業化生產磚房",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "乙在生產磚房上具有比較利益",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "甲都不需要生產，均由乙來生產",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "甲在生產磚房與木屋上均沒有比較利益",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "甲生產磚房的機會成本（0.2木屋）低於乙（0.33木屋），故甲在磚房生產具比較利益。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_006",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "設甲國生產電腦需用 100 單位勞動，乙國則需 40 單位勞動，而甲國生產汽車產品需用 150 單位勞動，乙國則需 30 單位勞動，甲、乙兩國之貿易方向為： (A)甲、乙兩國無法進行之貿易 (B)甲國出口電腦，乙國出口汽車 (C)甲國出口汽車，乙國出口電腦 (D)甲國出口電腦，汽車則自給自足",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "甲、乙兩國無法進行之貿易",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "甲國出口電腦，乙國出口汽車",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "甲國出口汽車，乙國出口電腦",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "甲國出口電腦，汽車則自給自足",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "甲國電腦對汽車的相對成本較低，乙國汽車對電腦的相對成本較低，各具比較利益並出口。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_007",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "生產可能性曲線（production possibilities curve）主要是介紹： (A)一個經濟體應該生產的產品數量的集合 (B)一個經濟體應該消費的產品數量的集合 (C)一個經濟體可以生產的產品數量的集合 (D)一個經濟體可以消費的產品數量的集合",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "一個經濟體應該生產的產品數量的集合",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "一個經濟體應該消費的產品數量的集合",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "一個經濟體可以生產的產品數量的集合",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "一個經濟體可以消費的產品數量的集合",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "生產可能曲線定義為在技術與資源固定下，經濟體所能生產出的各種產品最大數量組合。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_008",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當颱風帶來豪雨，淹沒國內蔬菜田，國產蔬菜供給減少致使價格上漲，進口蔬菜的價格亦隨之上漲。根據前段敘述，下列何者正確？ (A)國產蔬菜與進口蔬菜為互補品，進口蔬菜對國產蔬菜的交叉價格彈性為正 (B)國產蔬菜與進口蔬菜為互補品，進口蔬菜對國產蔬菜的交叉價格彈性為負 (C)國產蔬菜與進口蔬菜為替代品，進口蔬菜對國產蔬菜的交叉價格彈性為正 (D)國產蔬菜與進口蔬菜為替代品，進口蔬菜對國產蔬菜的交叉價格彈性為負",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國產蔬菜與進口蔬菜為互補品，進口蔬菜對國產蔬菜的交叉價格彈性為正",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國產蔬菜與進口蔬菜為互補品，進口蔬菜對國產蔬菜的交叉價格彈性為負",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國產蔬菜與進口蔬菜為替代品，進口蔬菜對國產蔬菜的交叉價格彈性為正",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國產蔬菜與進口蔬菜為替代品，進口蔬菜對國產蔬菜的交叉價格彈性為負",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "國產與進口蔬菜互為替代品，其價格變動方向相同且交叉價格彈性為正值。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_009",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當廠商生產活動排放污染時，政府若欲處理此一問題，下列何者無法達成污染減量的目的？ (A)由自由市場機制決定 (B)設定污染排放權 (C)課徵污染稅 (D)命令與管制",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "由自由市場機制決定",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "設定污染排放權",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "課徵污染稅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "命令與管制",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "污染具外部負效應，自由市場機制無法將其成本內部化，進而導致市場失靈，難以減量。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_010",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "市場由供給與需求決定均衡價格與數量時，下列敘述何者正確？ (A)無謂損失最大 (B)社會福利最大 (C)生產者剩餘最小 (D)消費者剩餘等於零",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "無謂損失最大",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "社會福利最大",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "生產者剩餘最小",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "消費者剩餘等於零",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "在競爭市場均衡下，資源配置具效率，此時消費者剩餘與生產者剩餘之總和達到最大。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_011",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關劣等財的敘述，下列何者正確？ (A)給定其他條件不變下，當所得提高時，劣等財的需求線右移 (B)一財貨是否屬劣等財，會因人、因時、因地、因所得不同階段而異 (C)劣等財必定為季芬財（Giffen good） (D)劣等財的需求曲線為正斜率",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "給定其他條件不變下，當所得提高時，劣等財的需求線右移",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "一財貨是否屬劣等財，會因人、因時、因地、因所得不同階段而異",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "劣等財必定為季芬財（Giffen good）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "劣等財的需求曲線為正斜率",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "劣等財的主觀定義取決於消費者的所得水平與偏好，會隨個人環境與階段而改變。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_012",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當商品市場價格高於均衡價格時，通常市場會發生什麼狀況？ (A)會有超額需求 (B)消費者剩餘會增加 (C)會出現供不應求的現象 (D)成交數量會比均衡數量少",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "會有超額需求",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "消費者剩餘會增加",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "會出現供不應求的現象",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "成交數量會比均衡數量少",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "價格高於均衡時會產生超額供給，實際成交量取決於需求端，低於均衡產量。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_013",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "若 A、B 兩物品互為互補品，當 A 物品價格上漲而 B 物品價格不變下，通常可促使 B 財貨需求量的： (A)減少 (B)不變 (C)增加 (D)先增加後減少",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "減少",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "不變",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "增加",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "先增加後減少",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "互補品需成對使用，當其中之一價格上升導致需求量減少時，另一者的需求量也會隨之下降。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_014",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設香蕉市場需求的價格彈性大於供給的價格彈性，政府對香蕉農民課徵每公斤 10 元的銷售稅，相對於課稅前的均衡價格，課稅後香蕉消費者每公斤需增加支付多少？ (A) 10 元 (B)小於 10 元大於 5 元 (C) 5 元 (D)小於 5 元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "10 元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "小於 10 元大於 5 元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "5 元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "小於 5 元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "當需求彈性大於供給彈性時，租稅負擔較大比例落在生產者身上，消費者負擔少於稅額的一半。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_015",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "小雄在夜市擺攤賣雞排，假設夜市雞排市場需求的價格彈性為 1.5，如果小雄想提高營收，他不應該： (A)漲價 (B)降價 (C)改良雞排口味 (D)延長工作時間",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "漲價",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "降價",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "改良雞排口味",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "延長工作時間",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "當需求價格彈性大於1（富於彈性）時，調漲價格會導致營收下降。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_016",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設 A 國民眾對於奶茶（M）和珍珠（P）有相當齊一的效用函數 U = min{aM, bP}，a > 0，b > 0。則當奶茶的價格下降，在珍珠市場的供給需求平面將可以觀察到： (A)需求曲線上點的移動，往右下方移動 (B)需求曲線上點的移動，往左上方移動 (C)需求曲線向右平移 (D)需求曲線向左平移",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "需求曲線上點的移動，往右下方移動",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "需求曲線上點的移動，往左上方移動",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "需求曲線向右平移",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "需求曲線向左平移",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "效用函數代表兩者為完全互補品，當奶茶降價增加需求量時，珍珠的需求曲線會向右平移。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_017",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "一消費者消費 X 與 Y 兩種財貨，給定(X1, Y1) = (6, 4)與(X2, Y2) = (4, 6)位於同一條無異曲線上，若消費者覺得(X3, Y3) = (5, 5)帶給他的滿足程度等於(X1, Y1) = (6, 4)，該消費者的無異曲線滿足下列那一個性質？ (A)直線 (B)凸向原點 (C)凹向原點 (D) L 型",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "直線",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "凸向原點",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "凹向原點",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": " L 型",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "兩端點(6,4)與(4,6)的連線中點(5,5)亦在同曲線上，代表兩財貨具固定替代比例，為直線。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_018",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設 A 公司僱用 5 位員工時的總成本為 150 元，僱用 6 位員工時的總成本為 170 元。假設 A 公司的每位員工的變動成本與所僱用的員工數無關。下列何者正確？ (A) A 公司的總固定成本為 20 元，每位員工的變動成本為 0 元 (B) A 公司的總固定成本為 30 元，每位員工的變動成本為 10 元 (C) A 公司的總固定成本為 40 元，每位員工的變動成本為 15 元 (D) A 公司的總固定成本為 50 元，每位員工的變動成本為 20 元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": " A 公司的總固定成本為 20 元，每位員工的變動成本為 0 元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": " A 公司的總固定成本為 30 元，每位員工的變動成本為 10 元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": " A 公司的總固定成本為 40 元，每位員工的變動成本為 15 元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": " A 公司的總固定成本為 50 元，每位員工的變動成本為 20 元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "邊際成本為20元，代表每人變動成本為20，推算出5人總變動成本為100，固定成本為50。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_019",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設某公司生產 100 單位產量的平均變動成本為 2 元及平均固定成本為 3 元。此公司生產 100 單位產量的總成本為： (A) 100 元 (B) 200 元 (C) 300 元 (D) 500 元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": " 100 元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": " 200 元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": " 300 元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": " 500 元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "總成本等於平均總成本(2+3=5元)乘以總產量(100單位)，結果為500元。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_020",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下圖顯示麵包的市場情況，下列何者正確？ [圖中包含需求線D與供給線S，交點於價格$2.00, 數量未標] (A)價格上限為$1.00 時，需求量小於供給量 (B)價格上限為$3.00 時，需求量等於供給量 (C)價格上限為$1.00 時，生產過剩 (D)價格上限為$3.00 時，生產短缺",
+    "tableData": null,
+    "images": [
+      "@/lib/questions/images/111_111010_511_04/111_111010_511_04_q020_img01.jpeg"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "價格上限為$1.00 時，需求量小於供給量",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "價格上限為$3.00 時，需求量等於供給量",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "價格上限為$1.00 時，生產過剩",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "價格上限為$3.00 時，生產短缺",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "價格上限高於均衡價格($2.00)時對市場無效，市場會維持在原本的均衡點，需求量等於供給量。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_021",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設小甲所生產的產品是一個完全競爭市場，且該產品的市價為 7.5 元。在小甲利潤最大產量所對應的平均變動成本為 8 元，而平均總成本為 8.25 元。下列敘述何者正確？ (A)小甲短期應歇業，但長期應繼續營業 (B)小甲短期應繼續營業，但長期應退出市場 (C)小甲短期及長期都應繼續營業 (D)小甲短期應歇業，且長期應退出市場",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "小甲短期應歇業，但長期應繼續營業",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "小甲短期應繼續營業，但長期應退出市場",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "小甲短期及長期都應繼續營業",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "小甲短期應歇業，且長期應退出市場",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "市價低於平均變動成本，廠商在短期應歇業以最小化損失，且長期因虧損應退出市場。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_022",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關獨占性競爭（monopolistic competition）市場的假設，何者錯誤？ (A)廠商家數很多 (B)廠商進出市場毫無障礙 (C)商品具同質性 (D)廠商有局部的價格決定能力",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "廠商家數很多",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "廠商進出市場毫無障礙",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "商品具同質性",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "廠商有局部的價格決定能力",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "獨占性競爭市場的核心特徵之一是產品異質化，即各廠商生產具差異性的產品而非同質性。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_023",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關完全競爭市場長期市場供給曲線的敘述，何者正確？ (A)斜率一定是正值 (B)斜率一定是負值 (C)斜率一定是零 (D)斜率可能是正值、負值或是零",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "斜率一定是正值",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "斜率一定是負值",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "斜率一定是零",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "斜率可能是正值、負值或是零",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "長期供給曲線斜率取決於產業的成本結構，包含成本不變、遞增或遞減三種可能。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_024",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在完全競爭市場中，由於生產要素價格上升導致每個廠商的邊際成本皆增加。在廠商仍繼續生產的前提之下，短期而言對市場的均衡價格和數量的影響為何？ (A)均衡價格上升，均衡數量上升 (B)均衡價格上升，均衡數量下降 (C)均衡價格下降，均衡數量上升 (D)均衡價格下降，均衡數量下降",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "均衡價格上升，均衡數量上升",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "均衡價格上升，均衡數量下降",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "均衡價格下降，均衡數量上升",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "均衡價格下降，均衡數量下降",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "邊際成本增加使市場供給曲線向左平移，導致市場均衡價格上升而均衡數量減少。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_025",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當基本工資調升時，下列那一敘述比較不會發生？ (A)失業率可能會上升 (B)員工福利可能縮減 (C)勞動需求量可能會減少 (D)勞動供給量可能會減少",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "失業率可能會上升",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "員工福利可能縮減",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "勞動需求量可能會減少",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "勞動供給量可能會減少",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "工資調升通常會增加勞動供給量，而非減少。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_026",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那一項目不是生產稻米的要素投入？ (A)現金 (B)土地 (C)在收割季節時來幫忙的親朋好友 (D)租借的農業機械",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "現金",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "土地",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在收割季節時來幫忙的親朋好友",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "租借的農業機械",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "現金屬於金融資本，而非經濟學定義中直接投入生產過程的生產要素（勞動、土地、資本）。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_027",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於外部性、交易成本與政府功能之敘述，下列何者錯誤？ (A)私人市場無法有效解決外部性問題 (B)政府的存在可以協助處理外部性問題、公共財和稅制等公共事務問題 (C)政府部門可以針對負的外部性行為課徵矯正稅 (D)政府部門可以根據污染造成的危害程度對排污者徵稅，並用該稅收彌補其所造成的外部性影響",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "私人市場無法有效解決外部性問題",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "政府的存在可以協助處理外部性問題、公共財和稅制等公共事務問題",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "政府部門可以針對負的外部性行為課徵矯正稅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "政府部門可以根據污染造成的危害程度對排污者徵稅，並用該稅收彌補其所造成的外部性影響",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "根據寇斯定理，若交易成本足夠低且產權界定明確，私人市場亦可自行解決外部性問題。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_028",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "若要達到經濟效率，則市場上的定價方式應為： (A)採用產品邊際成本進行定價 (B)根據要素生產力定價 (C)採用產品之平均成本進行定價 (D)採用產品之總成本進行定價",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "採用產品邊際成本進行定價",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "根據要素生產力定價",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "採用產品之平均成本進行定價",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "採用產品之總成本進行定價",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "價格等於邊際成本符合資源配置效率，能使社會福利（消費者與生產者剩餘總和）最大化。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_029",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者情況不具有外部效果（externality）？ (A)甲在火車裡抽菸 (B)乙買了菜回家 (C)丙騎會排放黑煙的機車 (D)丁在捷運裡戴口罩",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "甲在火車裡抽菸",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "乙買了菜回家",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "丙騎會排放黑煙的機車",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "丁在捷運裡戴口罩",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "買菜回家的消費行為屬於私人的市場交易，未對未參與交易的第三人產生額外影響或成本。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_030",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某一國家，非勞動人數是勞動人數的 1/10、失業人口數也是就業人口數的 1/10。若該國現役與監管人員人口數也是就業人口數的 1/10，該國的勞動參與率為多少？ (A) 76.3% (B) 83.9% (C) 90.9% (D) 91.6%",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": " 76.3%",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": " 83.9%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": " 90.9%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": " 91.6%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "依比例計算，勞動力人口占總人口（15歲以上）之比例約為91.6%。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_031",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某一家鋼鐵廠的生產資料如下：進口鐵礦：1,000；支付勞工工資：1,500；銷售給國內汽車廠鋼材：2,000；出口鋼材：3,000。鋼鐵廠的附加價值等於多少？（單位：元） (A) 1,500 (B) 2,500 (C) 3,500 (D) 4,000",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": " 1,500",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": " 2,500",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": " 3,500",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": " 4,000",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "附加價值等於總產值(2000+3000)減去中間投入的進口成本(1000)，計算結果為4000元。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_032",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當政府大幅提高基本工資時： (A)自願性失業會增加 (B)非自願性失業會增加 (C)摩擦性失業會增加 (D)循環性失業會增加",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "自願性失業會增加",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "非自願性失業會增加",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "摩擦性失業會增加",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "循環性失業會增加",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "基本工資高於市場均衡工資會使勞動需求量減少、供給量增加，導致非自願性的結構性失業。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_033",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設我國生產的遊艇價格上漲；在其他條件不變下： (A)我國的 GDP 平減指數與消費者物價指數都會上升 (B)我國的消費者物價指數會上升，但 GDP 平減指數不會受影響 (C)我國的 GDP 平減指數會上升，但消費者物價指數不會受影響 (D)我國的 GDP 平減指數會上升，但消費者物價指數會下降",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "我國的 GDP 平減指數與消費者物價指數都會上升",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "我國的消費者物價指數會上升，但 GDP 平減指數不會受影響",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "我國的 GDP 平減指數會上升，但消費者物價指數不會受影響",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "我國的 GDP 平減指數會上升，但消費者物價指數會下降",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "GDP平減指數包含國內生產的所有物品，但消費者物價指數僅包含一般大眾消費的代表性商品。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_034",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種理論強調僅由總體需求變化引起的景氣循環？ (A)凱因斯學說和實質景氣循環理論 (B)貨幣學說和實質景氣循環理論 (C)凱因斯學說和貨幣學說 (D)供給面經濟學",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "凱因斯學說和實質景氣循環理論",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "貨幣學說和實質景氣循環理論",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "凱因斯學說和貨幣學說",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "供給面經濟學",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "凱因斯學說與貨幣學說皆認為總體需求的波動是引發經濟景氣循環的主要驅動力。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_035",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關經濟變數在景氣循環的行為上，下列何者正確？ (A)美國供應管理協會的新訂單指數（ISM new orders index）是一種順循環（procyclical）且領先（leading）的變數 (B)消費是一種逆循環（countercyclical）且同時性（coincident）的變數 (C)企業固定投資（business fixed investment）是一種順循環且同時性的變數，並且其波動幅度小於消費 (D)股價是一種順循環且落後（lagging）的變數",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "美國供應管理協會的新訂單指數（ISM new orders index）是一種順循環（procyclical）且領先（leading）的變數",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "消費是一種逆循環（countercyclical）且同時性（coincident）的變數",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "企業固定投資（business fixed investment）是一種順循環且同時性的變數，並且其波動幅度小於消費",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "股價是一種順循環且落後（lagging）的變數",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "ISM新訂單指數與經濟擴張正相關且能提前預示景氣變化，屬於領先指標。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_036",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "人口成長率提高會對長期經濟成長率造成有利的影響，是因為它導致： (A)人力資本增加 (B)資本—勞動比率提高 (C)資本—勞動比率降低 (D)儲蓄率提高",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "人力資本增加",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "資本—勞動比率提高",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "資本—勞動比率降低",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "儲蓄率提高",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "在梭羅模型中，人口成長率上升會使每位勞工分配到的資本（資本勞動比）下降。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_037",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列敘述使失業率一定會降低者有幾項？①小敏大學畢業後立刻找到工作 ②小英大學畢業後開始找工作但尚未找到 ③小華在工作了 30 年後退休了 (A) 0 項 (B) 1 項 (C) 2 項 (D) 3 項",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": " 0 項",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": " 1 項",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": " 2 項",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": " 3 項",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "只有第①項中由「非勞動力」轉為「就業人口」能直接降低失業率。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_038",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "經常帳餘額波動的主要來源為何？ (A)淨利息收入 (B)淨移轉 (C)淨出口 (D)淨稅收",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "淨利息收入",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "淨移轉",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "淨出口",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "淨稅收",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "淨出口（商品與服務的進出口差額）通常是經常帳中規模最大且變動最頻繁的項目。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_039",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "若Ａ國在某年度的國際收支帳為：商品及服務出口 200 億美元、利息所得收入 20 億美元、外國投資為 120 億美元、商品及服務進口 190 億美元、利息所得支出 25 億美元、淨片面移轉支出負 10 億美元、對國外投資為 130 億美元，以及官方外匯存底減少 15 億美元。Ａ國該年度的國際收支為： (A)逆差 15 億美元 (B)順差 15 億美元 (C)平衡，是 0 億美元 (D)順差 5 億美元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "逆差 15 億美元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "順差 15 億美元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "平衡，是 0 億美元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "順差 5 億美元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "國際收支帳根據會計借貸原則恆等於零，官方儲備資產的變動會使整體帳面達到平衡。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_040",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "美元相對英鎊升值時，下列敘述何者正確？ (A)美國牛仔褲出口至倫敦增加 (B)蘇格蘭毛衣出口至紐約增加 (C)美國官方經常帳結算餘額上升 (D)美國通貨膨脹率相對於英國通貨膨脹率高",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "美國牛仔褲出口至倫敦增加",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "蘇格蘭毛衣出口至紐約增加",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "美國官方經常帳結算餘額上升",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "美國通貨膨脹率相對於英國通貨膨脹率高",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "本幣升值使進口品價格降低，利於英國商品出口至美國市場。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_041",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當勞工對一般物價水準沒有完整的資訊時，依據總合供給與總合需求模型，中央銀行若採行未預料到的（unanticipated）寬鬆貨幣政策，則下列敘述何者正確？ (A)短期均衡下，物價變動不確定，但產出確定增加 (B)短期均衡下，物價水準上漲，且產出增加 (C)長期均衡達成時，物價漲幅和產出增幅都等於貨幣供給的增幅 (D)長期均衡達成時，物價漲幅等於貨幣供給的增幅，然而產出不變，並且預期物價水準不等於實際物價水準",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "短期均衡下，物價變動不確定，但產出確定增加",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "短期均衡下，物價水準上漲，且產出增加",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "長期均衡達成時，物價漲幅和產出增幅都等於貨幣供給的增幅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "長期均衡達成時，物價漲幅等於貨幣供給的增幅，然而產出不變，並且預期物價水準不等於實際物價水準",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "未預料到的擴張政策使物價上升高於預期，在短期使廠商與勞工增加產出並推升物價。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_042",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "考慮一個簡單凱因斯模型中，假設沒有政府部門、沒有進出口且僅存在自發性投資。當均衡所得為 1,000 單位時，總消費為 600 單位；當均衡所得為 2,000 單位時，總消費為 1,100 單位。若目前的均衡所得為 3,000 單位，則下列敘述何者正確？ (A)自發性消費支出為 200 單位 (B)誘發性消費為 1,600 單位 (C)自發性投資為 1,400 單位 (D)總儲蓄為 1,500 單位",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "自發性消費支出為 200 單位",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "誘發性消費為 1,600 單位",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "自發性投資為 1,400 單位",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "總儲蓄為 1,500 單位",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "在均衡所得3000下，儲蓄等於所得減消費為1400，因模型僅有投資與儲蓄，故投資為1400。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_043",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在短期內，下列何項是廠商會在價格上漲時擴大生產的原因？ (A)貨幣工資保持不變下，產品的較高價格使公司擴大生產變得有利可圖 (B)每家公司都必須使其產量保持在其競爭對手的水平，有些公司會隨著價格上漲而擴大產量 (C)較高的價格使企業可以透過提供更高的工資來僱用更多的工人，從而提高生產力和利潤 (D)廠商可以透過增加維護機器來增加利潤",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "貨幣工資保持不變下，產品的較高價格使公司擴大生產變得有利可圖",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "每家公司都必須使其產量保持在其競爭對手的水平，有些公司會隨著價格上漲而擴大產量",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "較高的價格使企業可以透過提供更高的工資來僱用更多的工人，從而提高生產力和利潤",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "廠商可以透過增加維護機器來增加利潤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "短期內工資僵固，物價上漲增加單位利潤，誘導廠商增加勞動投入與產出。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_044",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設甲公司處於均衡狀態，且其資本存量處於公司所想要的水準。現在，中央銀行降低名目利率，以致於預期的實質利率（expected real interest rate）下降，則甲公司想要的資本存量（desired capital stock）會有什麼變化及其原因為何？ (A)降低；因為資本的未來邊際生產力（the future marginal productivity of capital）降低了 (B)提高；因為資本的未來邊際生產力上升了 (C)降低；因為目前資本的使用者成本（the user cost of capital）提高了 (D)提高；因為目前資本的使用者成本降低了",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "降低；因為資本的未來邊際生產力（the future marginal productivity of capital）降低了",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "提高；因為資本的未來邊際生產力上升了",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "降低；因為目前資本的使用者成本（the user cost of capital）提高了",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "提高；因為目前資本的使用者成本降低了",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "實質利率下降會降低資本的使用者成本，提高企業最適資本存量水準。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_045",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假定全體商業銀行資產負債表中，負債包括 500 億元的存款以及向中央銀行借款 100 億元，而資產包括 150 億元的政府債券以及放款 300 億元。若法定存款準備率為 20%，則下列敘述何者正確？ (A)商業銀行同業間放款利率高於重貼現率，因此超額準備為 50 億元 (B)商業銀行同業間放款利率低於重貼現率，因此超額準備為 50 億元 (C)商業銀行同業間放款利率等於重貼現率，因此超額準備為 0 億元 (D)商業銀行同業間放款利率等於重貼現率，因此超額準備為 50 億元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "商業銀行同業間放款利率高於重貼現率，因此超額準備為 50 億元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "商業銀行同業間放款利率低於重貼現率，因此超額準備為 50 億元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "商業銀行同業間放款利率等於重貼現率，因此超額準備為 0 億元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "商業銀行同業間放款利率等於重貼現率，因此超額準備為 50 億元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "銀行總準備金為150億元，扣除法定準備金(500億*20%=100億)後，超額準備為50億元。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_046",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者並非中央銀行的工作內容？ (A)向立法院報告臺灣銀行與中央信託局的合併案 (B)某商銀短期資金不足，其負責人請求給予資金融通 (C)與外商銀行負責人喝咖啡，並研討新臺幣匯率走勢 (D)與七大行庫代表開會檢討近期資金情勢",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "向立法院報告臺灣銀行與中央信託局的合併案",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "某商銀短期資金不足，其負責人請求給予資金融通",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "與外商銀行負責人喝咖啡，並研討新臺幣匯率走勢",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "與七大行庫代表開會檢討近期資金情勢",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "商業銀行的合併案屬於行政院金融監督管理委員會與財政部的職權範圍。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_047",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當中央銀行在公開市場賣出所持有的 100 億元的政府債券時，下列敘述何者正確？ (A)貨幣基數與全體商業銀行準備金皆同時減少 100 億元 (B)貨幣基數減少 100 億元，全體商業銀行準備金可能會減少 (C)貨幣基數減少 100 億元，全體商業銀行準備金不受影響 (D)貨幣基數不受影響，全體商業銀行準備金減少 100 億元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "貨幣基數與全體商業銀行準備金皆同時減少 100 億元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "貨幣基數減少 100 億元，全體商業銀行準備金可能會減少",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "貨幣基數減少 100 億元，全體商業銀行準備金不受影響",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "貨幣基數不受影響，全體商業銀行準備金減少 100 億元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "央行公開市場賣出使銀行準備金流回央行，直接導致貨幣基數等量減少。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_048",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在封閉體系並且考慮政府部門下，政府以定額稅方式課稅，假設邊際消費傾向為 0.8，政府購買增加 1,000 萬元並且完全以定額稅融通，則均衡產出： (A)增加 800 萬元 (B)增加 1,000 萬元 (C)增加 5,000 萬元 (D)增加 200 萬元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "增加 800 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "增加 1,000 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "增加 5,000 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "增加 200 萬元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "在平衡預算乘數定理下，政府支出與定額稅等額增加時，產出增加量等於支出增加量。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_049",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列是一簡單凱因斯模型： 消費：C＝95+0.8 (Y－T) 投資：I＝32+0.03Y 稅收：T＝62+0.1Y 請問這個經濟體系的政府支出乘數為多少？ (A) 4 (B) 5 (C) 6 (D) 7",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": " 4",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": " 5",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": " 6",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": " 7",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依公式 1 / [1 - 0.8(1-0.1) - 0.03] 計算可得政府支出乘數為4。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_050",
+    "category": "economics",
+    "stageId": "111_111010_511",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當政府的預算有赤字時，可以透過下列何種方法改善赤字？ (A)減少稅收 (B)增加開支 (C)擴大政府投資 (D)提高所得稅率",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "減少稅收",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "增加開支",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "擴大政府投資",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "提高所得稅率",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "提高所得稅率能增加政府稅收收入，直接達到縮減財政赤字的目的。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "511",
+      "經建行政",
+      "經濟學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  }
+]

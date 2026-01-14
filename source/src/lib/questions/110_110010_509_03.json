@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "110_110010_001",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政院應編製國富統計、綠色國民所得帳之報告，前項報告內容應如何公開？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "於村里長公布欄公開",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "於學校公布欄公開",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "於政府網站公開",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "採郵寄給每位國民公開",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "預算法第29條規定，國富統計及綠色國民所得帳之報告應於政府網站公開。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_002",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依決算法規定，國庫之年度出納終結報告，國庫主管機關應於年度結束後幾日內，分送中央主計機關及審計機關查核？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "10 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "20 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "25 日",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "30 日",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "決算法第18條規定，國庫主管機關應於年度結束後25日內，分送中央主計機關及審計機關查核。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_003",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依決算法規定，機關如在年度中改組，其決算如何編造？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主管機關一併編造",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "改組前及改組後機關分別編造",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "改組前之機關一併編造",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "改組後之機關一併編造",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "決算法第12條規定，機關在年度中改組者，其決算由改組後之機關一併編造。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_004",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "管理特種財物機關，關於所管不動產，應備地圖、圖樣等備查簿，其程式由何者定之？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "各該政府之主計機關",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "各該政府之審計機關",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "各該政府之立法機關",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "各特種財物機關長官",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "會計法第121條規定，管理特種財物之備查簿，其格式由各該政府之主計機關定之。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_005",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公營事業有永久性財物之折舊，與無永久性財物之盤存消耗，應以何者為標準？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "成本",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "市價",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "成本與市價孰低",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "淨值",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "會計法第123條規定，公營事業永久性財物之折舊與盤存消耗，應以成本為標準。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_006",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依審計法規定，下列何者屬於審計職權？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "債權之發生、處理及收取",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "債務之發生、處理及清償",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "核定收支命令",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "預算之成立、分配與執行",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "審計法第2條規定，審計機關職權包含核定收支命令。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_007",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "審計機關審理審計案件，有關審計文書之敘述，正確者有幾項？①審計機關審核各機關月份會計報告及收支憑證，審核結果相符者，填發審核通知 ②審計機關審核各機關月份會計報告及收支憑證，審核結果如有不符者，填發核准通知 ③各機關年度決算，應送審計機關審核，審計機關審定後，應發給審定書 ④審計長於中央政府總決算送達三個月內完成審核，提出查核報告於立法院",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "一項",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "二項",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "三項",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "四項",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依審計法規定，各機關年度決算經審定後應發給審定書為正確敘述。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_008",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政院於年度總預算外，得提出特別預算的情形為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "依法律增加業務或事業致增加經費時",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國家經濟發生重大變故時",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "依法律增設新機關時",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "所辦事業經費超過法定預算時",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "預算法第83條規定，國家經濟發生重大變故時得提出特別預算。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_009",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各機關之歲出分配預算，其計畫或業務科目之各用途別科目中有一科目之經費不足，而他科目有賸餘時，得辦理流用，流用之規定為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "流入數額不得超過原預算數額百分之二十，流出數額不得超過原預算數額百分之二十",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "流入數額不得超過原預算數額百分之三十，流出數額不得超過原預算數額百分之三十",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "得流用為立法院審議刪除或刪減之預算項目",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "得流用為用人經費",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "預算法第63條規定，各科目間經費流用，流入及流出數額均不得超過原預算數額20%。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_010",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各分會計機關之事務簡單者，其原始憑證經下列何者簽名或蓋章後，得用作記帳憑證，免製傳票？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主辦會計人員及其佐理人員",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "機關長官及主辦會計人員",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "主辦會計人員及審計人員",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "機關長官及審計人員",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "會計法第63條規定，事務簡單機關之原始憑證經長官及主辦會計人員簽名，得免製傳票。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_011",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關決算編造之敘述，正確者有幾項？①各主管機關接到各機關決算，應即查核彙編，如發現其中有不當或錯誤，應修正彙編之，連同單位決算，轉送中央主計機關 ②主管機關彙編各機關決算時，所提出之修正事項，應通知原編造機關及審計機關 ③特別預算之收支，應於執行期滿後，依會計法之規定，編造其決算 ④特別預算之收支，跨越兩個年度以上者，應由主管機關依決算法所定程序，分年編送年度會計報告",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "一項",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "二項",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "三項",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "四項",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "決算法第21與25條規定，主管機關應彙編各機關決算，及特別預算執行期滿後編造決算。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_012",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公務或公營事業之會計事務，各帳目整理後，有關資產、負債性質各帳目之餘額，應如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "分別結入歲入預算及經費預算之各種帳目",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "結入總損益之各種帳目",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "轉入下年度或下期各該帳目",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "轉入準備",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "會計法第65條規定，資產、負債等性質帳目之餘額，應轉入下年度或下期。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_013",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各機關或基金應辦理結帳或結算的情形，不包括下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "會計年度終了時",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主辦會計人員異動時",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "機關裁撤或基金結束時",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "有每月、每季或每半年結算一次之必要者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "會計法第65條規定結帳時機包括年度終了、計畫終了、機關裁撤或定期必要結算。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_014",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依審計法之規定，下列有關核定財務責任之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "各機關主辦及經辦出納人員簽發支票或給付現金，如查明有超過核准人員核准數額者，應負損害賠償責任",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "審計機關審核各機關會計簿籍或報告，如發現所載事項與原始憑證不符，致公款遭受損害者，該主辦及經辦會計人員應負損害賠償責任",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "各機關經管現金、票據、證券、財物或其他資產，如有其他意外事故而致損失者，經查明未盡善良管理人應有之注意時，該主辦及經辦會計人員應負損害賠償責任",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "各機關人員對於財務上行為應負之責任，非經審計機關審查決定，不得解除",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依審計法規定，意外損失之損害賠償責任係由保管、收發人員而非主辦會計人員負擔。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_015",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "預算法對國營事業虧損填補之順序為何？①出資填補 ②折減資本 ③撥用未分配盈餘 ④撥用公積",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "②①③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "③④①②",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "③④②①",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "預算法第85條規定，國營事業虧損填補順序為撥用未分配盈餘、公積、折減資本及出資填補。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_016",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關預算執行之限制，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "各機關執行歲出分配預算遇經費有不足時，應報請上級主管機關同意，轉請中央主計機關核定，始得動支第一預備金",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "中央主計機關對於各機關執行預算，得視事實需要，隨時派員調查之",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "各機關重大工程之投資計畫，超過 6 年未動用預算者，其預算應重新審查",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "依法得出售之國有財產及股票，市價高於預算者，得依市價出售",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "預算法第70條規定，中央主計機關得視事實需要，隨時派員調查各機關執行預算之情形。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_017",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關會計人員交代之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主辦會計人員辦理交代，應由所在機關長官或其代表及上級機關主辦會計人員或其代表監交",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "會計人員經解除或變更其職務者，應辦交代",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "會計佐理人員辦理交代，應由主辦會計人員或其代表監交",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "主辦會計人員應自後任接替之日起三日內交代清楚",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "會計法第119條規定，主辦會計人員應自後任接替之日起五日內交代清楚。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_018",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各機關對所經管之財物已達報廢程度而欲報廢時，若在一定金額以上應報審計機關查核，而該一定金額由下列何機關訂定？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政院",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政院主計總處",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政院公共工程委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "審計部",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "審計法第57條規定，財物報廢之一定金額由行政院定之。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_019",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各機關會計制度及有關內部審核規章，其有另行訂定業務檢核或績效考核辦法者，應通知何機關？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政機關",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "立法機關",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "司法機關",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "審計機關",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "會計法第13條規定，會計制度及內部審核規章涉及績效考核者，應通知審計機關。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_020",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "審計機關或審計人員，對於各機關違背預算或有關法令之不當支出，該如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "得事前拒簽或事後剔除追繳",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "逕行決定",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "查明後依法處理",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "糾正",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "審計法第11條規定，審計人員對於違背預算或法令之支出，得事前拒簽或事後剔除追繳。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_021",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "政府發行債券或借款，應由主管機關將發行條例或借款契約送下列何機關備查？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政院",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "立法院",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "審計機關",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "財政部",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "審計法第31條規定，政府發行債券或借款，主管機關應將條例或契約送審計機關備查。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_022",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依預算法規定，預算書表格式，由何機關定之？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政院",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "立法院",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "中央主計機關",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "審計部",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "預算法第94條規定，預算書表格式由中央主計機關定之。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_023",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "機關經管現金、票據、證券、財物或其他資產，如有因其他意外事故而致損失者，應如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "應由保管該項支出之人員，負損害賠償責任",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "由該機關核定以損失列帳",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "應即移送法院強制執行",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "應檢同有關證件，報審計機關審核",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "審計法第58條規定，財物意外損失應檢同有關證件報審計機關審核。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_024",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "會計報告、帳簿或憑證內之記載如有繕寫錯誤，而於事後發現且其錯誤影響結數者，應如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "另製傳票更正",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "劃線註銷更正",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "呈報機關長官",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "視情況而定",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "會計法第101條規定，發現繕寫錯誤且影響結數者，應另製傳票更正。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_025",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各機關於會計年度結束後，應編製年度決算，送何機關審核？經該機關審定後，應發給何種文書？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "審計機關、查核報告書",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主計機關、核准通知書",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "主計機關、審核通知書",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "審計機關、審定書",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "決算法第26條規定，各機關年度決算應送審計機關審核，並由其發給審定書。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_026",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關會計憑證、會計報告、帳簿之保存年限，下列敘述正確者有幾項？①各種會計憑證，應自總決算公布或令行日起，至少保存 2 年 ②各種會計報告、帳簿，自總決算公布或令行日起，在總會計至少保存 20 年 ③各種會計報告、帳簿，自總決算公布或令行日起，在單位會計至少保存 10 年 ④各種會計報告、帳簿，自總決算公布或令行日起，在附屬單位會計至少保存 5 年",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "一項",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "二項",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "三項",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "四項",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "會計法第109條規定各類會計資料保存年限，包含憑證2年及各層級會計報告、帳簿之特定年限。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_027",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政院應編製國富統計、綠色國民所得帳及關於稅式支出及下列何者之報告？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "移轉性支付",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "經費支出",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "財務支出",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "委辦支出",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "預算法第29條規定，行政院應編製稅式支出及移轉性支付之報告。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_028",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下年度之預算編製辦法，係由中央主計機關遵照下列何者予以擬定？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "預算籌編原則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "施政方針",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "施政計畫",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "上年度之預算編製辦法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "預算法第32條規定，中央主計機關應遵照施政方針，擬定下年度之預算編製辦法。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_029",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "決算所列各項應收款、應付款，於其年度終了屆滿幾年，而仍未能實現者，可免予編列？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "一年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "三年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "四年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "七年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "決算法第7條規定，年度終了屆滿四年未能實現之應收、應付款項，免予編列。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_030",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是總會計？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "直轄市之會計",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "村里之會計",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "鄉（鎮、市）之會計",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "直轄市山地原住民區之會計",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "會計法第4條規定總會計層級，村里並非一級政府，故其會計不屬於總會計。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_031",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "政府會計均應用複式簿記，但下列何者之事務簡單者不在此限？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "總會計",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "單位會計",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "附屬單位會計",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "附屬單位會計之分會計",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "會計法第6條規定，附屬單位會計之分會計事務簡單者，得不應用複式簿記。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_032",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各公有營業及事業機關編送結算表及年度決算表時，應附何種報告？又其適用成本會計者，應附何種報告？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "業務報告、成本分析報告",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "施政報告、成本分析報告",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "業務報告、毛利分析報告",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "施政報告、毛利分析報告",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "決算法第15條規定，公有營業機關應附業務報告，適用成本會計者應附成本分析報告。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_033",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "審計機關辦理公有營業及事業機關審計業務，下列何者非為應注意之事項？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "重大建設事業之興建效能",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "財務狀況及經營效能",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "違法失職或不當情事之有無",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "營業盛衰之趨勢",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "審計法第59條規範公有事業審計應注意事項，違法失職屬共通事項，非專列於該條。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_034",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "附屬單位預算是指：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "政府每一會計年度，各就其歲入與歲出、債務之舉借與以前年度歲計賸餘之移用及債務之償還全部所編之預算",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "在公務機關，有法定預算之機關單位之預算",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在特種基金，應於總預算中編列全部歲入、歲出之基金之預算",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "特種基金，應以歲入、歲出之一部編入總預算者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "預算法第16條規定，附屬單位預算係指特種基金以歲入、歲出一部編入總預算者。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_035",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "內部審核之範圍包括：①工作審核 ②績效審核 ③財務審核 ④財物審核",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "僅①②③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "僅①③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "僅②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "會計法第95條規定，內部審核之範圍包括工作審核、財務審核及財物審核。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_036",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "政府每一會計年度歲入與歲出、債務之舉借與以前年度歲計賸餘之移用及債務之償還，均應編入其決算；其上年度報告未及編入決算之收支，應如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "重編上年度報告",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "重編今年度報告",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "轉列為準備",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "另行補編附入",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "決算法第27條規定，上年度報告未及編入決算之收支，應另行補編附入。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_037",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公有營業及事業機關應編製結算表、年度決算表，送下列何者審核？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主計機關",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "立法機關",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "司法機關",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "審計機關",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "決算法第21條及審計法相關規定，各機關決算與結算表應送審計機關審核。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_038",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "審計機關審核中央政府總決算時，歲入歲出如不平衡時，應如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "查明不平衡之原因",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "追究不平衡之責任",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "退回重編",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "不予處理",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "決算法第28條規定，審計機關審核總決算時，歲入歲出不平衡者應查明其原因。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_039",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不得就預算事件，為機關或附屬單位起訴、上訴或參加其訴訟？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主計官",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "審計官",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "檢察官",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "立法委員",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "預算法第14條規定，主計官、審計官及檢察官得參與訴訟，並未包含立法委員。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_040",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依預算法規定，經立法院審議而公布之預算，稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "概算",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "預算案",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "分配預算",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "法定預算",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "預算法第11條規定，經立法機關通過並經公布之預算，為法定預算。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_041",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依決算法之規定，決算之科目及其門類，應如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "應依照上級主管機關之規定",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "應依照其年度之預算科目門類",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "應依照年度預算執行結果而定",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "應依照審計機關之規定",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "決算法第6條規定，決算之科目及其門類，應依照其年度之預算。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_042",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關會計制度設計、核定之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央總會計制度之設計、核定，由中央主計機關為之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "地方政府之總會計制度由該政府之主計機關設計，呈報中央主計機關核定",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "各機關之會計制度，由該機關之會計機構設計，簽報機關長官後，呈請各該政府之主計機關核定頒行",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "各機關會計制度之設計應經各關係機關及該管審計機關會商後始得核定",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "會計法第10條規定地方政府總會計制度由主計機關設計並核定，非呈報中央核定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_043",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "非政府機關代理政府事務者，其報告與會計人員之報告發生差額時，應由何者加編差額解釋表？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "會計人員",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "上級會計人員",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "機關長官",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "審計人員",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "會計法第84條規定，代理政府事務之報告發生差額時，由會計人員加編差額解釋表。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_044",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各機關長官及主辦會計人員，簽證各項支出，對於審計有關法令，遇有疑義或爭執時，得如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "以書面向上級審計機關諮詢",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "以口頭向主管機關諮詢",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "以書面向該管審計機關諮詢",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "以口頭向上級主計機關諮詢",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "審計法第10條規定，對於審計法令有疑義時，得向該管審計機關書面諮詢。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_045",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "審計機關為行使職權，得派員持下列何種證件，向有關之公私團體或個人查詢，或調閱簿籍、憑證或其他文件？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "審計部識別證",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "審計部稽察證",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "審計部搜索票",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "審計部傳票",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "審計法第14條規定，審計人員調閱資料時應持有審計部稽察證。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_046",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各主管機關依其施政計畫初步估計之收支稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "預算案",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "法定預算",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "概算",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "分配預算",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "預算法第11條規定，主管機關依施政計畫初步估計之收支為概算。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_047",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依會計法規定，有關會計科目名稱之變更，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "變更須經該管審計機關核定",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "變更僅需機關首長核定",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "變更須經該政府主計機關或其負責主計人員核定",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "科目名稱不可變更",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "會計法第16條規定，會計科目名稱之變更須經主計機關或負責主計人員核定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_048",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "除有關債權、債務者外之各種會計憑證，保存期限屆滿二年後得如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "經機關長官之同意，得予銷毀",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "經中央主計機關之同意，得予銷毀",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "經該管上級機關與該管審計機關之同意，得予銷毀",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "經該管上級機關或該管審計機關之同意，得予銷毀",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "會計法第109條規定，憑證保存屆滿後應經上級機關及審計機關同意後銷毀。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_049",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依會計法規定，規範公務機關之歲入或經費之預算實施，屬於何種普通公務會計事務？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務財務之會計事務",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務財物之會計事務",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公務出納之會計事務",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公務歲計之會計事務",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "會計法第8條規定，規範公務機關歲入或經費預算實施者為公務歲計之會計事務。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_050",
+    "category": "economics",
+    "stageId": "110_110010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "審計機關審核各機關或各基金決算，應注意事項為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "歲入、歲出是否與預算相符；如不相符，其不符之原因",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "歲入、歲出是否平衡；如不平衡，其不平衡之原因",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "歲入、歲出是否與國民經濟能力及其發展相適應",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "施政計畫、事業計畫或營業計畫已成與未成之程度",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "決算法第28條規定，審計機關審核決算應注意施政計畫或營業計畫已成與未成之程度。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "會計",
+      "會計審計法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  }
+]

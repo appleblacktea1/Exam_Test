@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "110_110010_001",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者為中央銀行貨幣政策的操作目標？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "貨幣總計數 M2",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "法定存款準備率",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "經濟成長率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "貨幣基數",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "貨幣基數是中央銀行可直接控制的變數，作為貨幣政策的最底層操作目標。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_002",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據費利德曼的現代貨幣需求理論，下列何者與貨幣需求呈正相關？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "債券報酬率與貨幣報酬率的差距",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "預期通貨膨脹率",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "恆常所得",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "權益證券報酬率與貨幣報酬率的差距",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "在費利德曼的理論中，恆常所得是影響貨幣需求的主要因素，兩者具有正向變動關係。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_003",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "若目前新臺幣利率 3%，美元利率 2%，假設購買力平價說與拋補利率平價說、未拋補利率平價說均成立，則下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "臺灣通貨膨脹率小於美國通貨膨脹率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "美元呈現溢價",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "美元遠期匯率低於現貨匯率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "預期新臺幣升值",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "當國內利率高於外國利率時，根據拋補利率平價，低利率貨幣（美元）的遠期匯率會呈現溢價。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_004",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是 Basel III 所新增的資本規範？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "槓桿比率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "逆循環緩衝資本計提",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保留緩衝資本計提",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "市場紀律",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "市場紀律屬於 Basel II 三大支柱中的內容，並非 Basel III 額外新增的資本規範。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_005",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關菲力普曲線（Phillips curve）的敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "其衡量通貨膨脹率與失業率之間的關係",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "長期菲力普曲線是一條垂直於自然失業率的直線",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "預期通貨膨脹率上升時，使短期菲力普曲線向右上方移動",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "緊縮性的財政政策，使短期菲力普曲線向右上方移動",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "緊縮性財政政策導致總需求減少，僅會使經濟點在短期菲力普曲線上移動，而非使曲線位移。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_006",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據凱因斯的流動性偏好理論，「閒置貨幣」（idle money）是屬於何種動機持有的貨幣？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "交易動機",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "預防動機",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "投機動機",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險動機",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "投機動機持有的貨幣主要是為了資產保值或等待獲利時機，這類不具交易用途的資金即為閒置貨幣。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_007",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當中央銀行提高定期存款的法定準備率時， M1B與 M2的貨幣乘數將如何變動？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "M1B與 M2的貨幣乘數均上升",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "M1B與 M2的貨幣乘數均下降",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "M1B的貨幣乘數不變，M2的貨幣乘數上升",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "M1B的貨幣乘數不變，M2的貨幣乘數下降",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "提高法定準備率會增加銀行放款限制，導致存款創造能力減弱，使得兩類貨幣乘數皆下降。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_008",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在貨幣乘數的決定因素中，下列那一項是由銀行決定？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "法定存款準備率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "超額準備率",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "定期存款與活期存款比率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "通貨比率",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "超額準備率取決於商業銀行對流動性需求與放款風險的評估，由銀行端自主控管。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_009",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "中央銀行在公開市場操作賣給銀行 20 億公債，對銀行有何影響？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "借入準備增加 20 億",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "借入準備減少 20 億",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "非借入準備增加 20 億",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "非借入準備減少 20 億",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "央行賣出公債會回收銀行體系的資金，直接導致銀行端持有的非借入準備金減少。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_010",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當中央銀行自公開市場買入 20 億債券時，貨幣供給從 200 億增加到 300 億，則貨幣乘數為多少？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "5",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "10",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "15",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "25",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "貨幣乘數為貨幣供給增加量(100億)除以準備金增加量(20億)的比值，結果為 5。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_011",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種貨幣政策的傳導機制，主要是透過改變銀行的可貸資金數量，進而影響投資支出與消費支出？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "匯率效果",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "信用分配效果",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "資產選擇效果",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "財富效果",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "信用分配效果是指央行透過影響銀行的放款意願與信貸供應量，進而帶動民間的投資與消費。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_012",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關中央銀行重貼現率政策的敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央銀行運用重貼現率政策扮演「發行銀行」的角色",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "中央銀行居於主動地位",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "重貼現率形成短期利率的「下限」",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "具有明顯的宣示效果",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "重貼現率的調整能明確向市場發放信號，反映央行對於未來景氣與貨幣政策走向的態度。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_013",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者在國內為具有法償效力的交易媒介？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央銀行發行的紙鈔",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "銀行發行的信用卡",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "民間發行的地區通貨",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "私人發行的電子貨幣",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "由中央銀行發行的法定紙鈔與硬幣在中華民國境內具有絕對的強制法償效力。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_014",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "美國聯準會（Fed）在 2009~2015 年間採取量化寬鬆政策（QE），此政策對其資產負債表具體的影響為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "資產面的長期政府公債增加",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "負債面的銀行準備金存款減少",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "資產面的對銀行放款增加",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "權益減少",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "量化寬鬆期間，美聯準會大量購入長期公債以壓低長端利率，直接擴張了其資產面。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_015",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者將會使貨幣基數增加？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央銀行發行中央銀行定期存單",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "銀行償還向中央銀行的借款",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "中央銀行買進長期債券，同時賣出等額短期債券",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中央銀行在外匯市場買進外匯",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "央行買進外匯會向市場釋出本國貨幣，進而增加準備金總量與貨幣基數。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_016",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關「泰勒法則」（Taylor rule）的敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "假定貨幣流通速度（velocity of money）固定",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "以聯邦資金利率（federal funds rate）為操作目標",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "以物價穩定與匯率穩定為目標",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "當通膨缺口擴大時，以調降利率因應",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "泰勒法則提供了一種利率定價準則，協助央行調整名目利率（如聯邦資金利率）以回應通膨與產出。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_017",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者屬於選擇性的信用管制？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "提高存款準備率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "發行中央銀行定期存單",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "提高重貼現率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "降低購屋貸款成數",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "限制購屋貸款成數是針對特定產業或特定用途的信用量控制，屬於選擇性管制工具。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_018",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者屬於銀行的表外業務？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "承作房屋貸款",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "發行銀行可轉讓定期存單",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在金融業拆款市場的借出",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "為企業發行公司債保證",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "提供信用保證屬於銀行的或有負債，不列於資產負債表內項目，故稱為表外業務。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_019",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "銀行對放款客戶要求補償性存款，可以降低何種風險？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "法律風險",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "信用風險",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "利率風險",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "流動性風險",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "補償性存款要求借款人保留部分資金，能在違約發生時作為抵銷資產，從而降低信用損失風險。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_020",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設目前的 1 年期利率為 2%，預期 1、2、3 年後的 1 年期利率分別為 1.8%，1.7%，1.6%，則殖利率曲線的型態為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "上升型",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "水平型",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "下降型",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "峰狀",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "當市場預期未來的短期利率逐年下降時，各期平均後的長期利率將低於短期利率，呈現下降趨勢。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_021",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在利率期間結構理論中，何者假設長期債券與短期債券之間具有完全替代性？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "期限偏好理論",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "流動性貼水理論",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "市場區隔理論",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "預期理論",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "純粹預期理論假設投資者對期限無偏好，不同期限債券間為完全替代品，僅考量報酬。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_022",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "金融機構將能產生現金流量的資產，做為還款來源或擔保基礎，所發行的證券，稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "資產擔保證券",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "存託憑證",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "受益憑證",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "轉換證券",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "資產擔保證券(ABS)是指以特定資產所產生的預期現金流量為支撐，經過信用增強後發行的證券。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_023",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列臺灣的金融中介機構，何者屬於存款貨幣機構？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "郵政公司",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "信託投資公司",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "基層金融機構",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險公司",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "信用合作社、農漁會信用部等基層金融機構具備收受存款與創造信用功能，屬於存款貨幣機構。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_024",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者為初級市場中主要的金融市場機構？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "經紀商",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "自營商",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "承銷商",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "代理商",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "承銷商在發行市場(初級市場)扮演核心角色，協助發行人訂價並將新發行證券銷售給投資者。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_025",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某民眾將手中活期儲蓄存款等額移轉為銀行發行之貨幣市場共同基金，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "M1B減少，M2增加",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "M1B減少，M2不變",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "M1B增加，M2增加",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "M1B增加，M2不變",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "活期儲蓄存款屬於 M1B，貨幣市場共同基金僅屬 M2，兩者轉移會導致 M1B 減少但總 M2 不變。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_026",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關影子銀行的敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "以借短貸長之方式行使金融中介的功能",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "資金來源主要為發行短天期票券",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "受到金融主管當局高度的管制與監理",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "操作高槓桿的金融工具",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "影子銀行是指游離於傳統銀行監管體系外，缺乏中央銀行流動性支持與高度法規監管的金融機構。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_027",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那一項貨幣政策工具具有中立性的優點？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "存款準備率政策",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "貼現政策",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公開市場操作",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "直接管制",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "公開市場操作由央行主動進行且具備高度彈性，不具行政強制性或特定產業導向，具有政策中立性。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_028",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當國內利率與國外利率差距（本國利率減外國利率）擴大時，在其他情況不變下，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "外國流入本國的資金增加，本國貨幣升值",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "本國流至外國的資金增加，本國貨幣升值",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "外國流入本國的資金增加，本國貨幣貶值",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "本國流至外國的資金增加，本國貨幣貶值",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "本國利差擴大會吸引尋求高收益的外資流入，增加對本國貨幣的需求，進而促使本幣升值。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_029",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據利率期限結構之預期理論，若目前（時點 t）的 1 年期利率為 4%，2 年期利率為 5%，3 年期利率為 6%，則預期 2 年後（t+2 時點）的 1 年期利率為多少？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "5%",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "6%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "7%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "8%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "根據預期理論，利用複利均值公式計算，預期兩年後的單年期利率約為 8%。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_030",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在其他情況不變下，下列何種事項，會使準備貨幣減少？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央銀行國外資產增加",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "中央銀行對政府債權增加",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "政府存款減少",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中央銀行對金融機構債權減少",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "央行收回對金融機構的貸款或債權，會導致準備金回流央行，從而減少貨幣基數（準備貨幣）。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_031",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設存款貨幣淨額=2,000 萬，通貨發行額=1,200 萬，存款貨幣機構庫存現金=150 萬，中央銀行庫存現金=50 萬，存款貨幣機構在中央銀行的準備金=250 萬。試求貨幣供給額與存款貨幣機構實際準備金：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "3,000 萬，400 萬",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "3,250 萬，150 萬",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "3,000 萬，150 萬",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "3,250 萬，400 萬",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "貨幣供給為流通中通貨加上存款(1000+2000)；實際準備金為庫存現金加上在央行存款(150+250)。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_032",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設存款貨幣淨額=2,000 萬，通貨發行額=1,200 萬，存款貨幣機構庫存現金=150 萬，中央銀行庫存現金=50 萬，存款貨幣機構在中央銀行的準備金=250 萬。承上題，試求準備貨幣與貨幣乘數，兩者分別為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1,400 萬，2.1",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "1,200 萬，3.2",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "1,500 萬，3.2",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "1,100 萬，3.5",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "準備貨幣為流通中通貨加實際準備金(1000+400)；貨幣乘數為貨幣供給除以準備貨幣(3000/1400)。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_033",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關公開市場操作之敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央銀行在春節期間的公開市場操作是屬於動態性操作",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "中央銀行利用防禦性操作釋出資金代表寬鬆性的貨幣政策",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "若銀行準備金因民眾擠兌而減少，此時中央銀行利用公開市場操作釋出資金是屬於動態性操作",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中央銀行認為不景氣即將來臨，釋出資金是屬於動態性操作",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "動態性操作是指央行主動發起以改變貨幣政策強度的操作，如因應景氣變動而調整資金水位。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_034",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設甲商業銀行的財務資料如下： 請問：甲銀行的流動準備比率為何？依臺灣銀行法規定是否符合流動準備比率規範？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "9.56%，不符合",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "13.25%，不符合",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "15.20%，符合",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "20.10%，符合",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "根據銀行流動資產與存款總額的比值計算，該行的流動準備比率為 20.10% 且符合法規要求。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_035",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "中央銀行採取下列何種政策會使拆款市場利率上升？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "進行公開市場買入有價證券",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "進行公開市場賣出有價證券",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "調降貼現率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "調降法定準備率",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "央行賣出債券會回收銀行體系資金，導致拆款市場流動性緊縮，進而推升拆款利率。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_036",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "中央銀行賣出國外資產對貨幣基數的影響與下列那一政策措施類似？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "降低重貼現率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "降低法定準備率",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在公開市場買進政府債券",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "在公開市場賣出政府債券",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "賣出國外資產與在公開市場賣出債券均會回收市場資金，直接導致貨幣基數減少。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_037",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關貨幣政策傳遞管道的敘述，何者是錯誤的？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "凱因斯學派重視利率管道",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "小型開放經濟體的匯率效果較明顯",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在相當仰賴銀行中介的金融體系，信用分配管道很重要",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "托賓 q 理論強調貨幣政策透過股價影響消費",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "托賓 q 理論主要在解釋貨幣政策如何透過資產價格影響企業的投資支出，而非消費支出。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_038",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "金融機構間為因應準備金提存需要而形成的資金借貸市場稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "商業本票市場",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國庫券市場",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "金融業拆款市場",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "銀行承兌匯票市場",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "金融業拆款市場是銀行間調度短期頭寸與滿足法定準備金要求的核心場外交易市場。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_039",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關短期菲力普曲線（Phillips curve）的敘述，何者為正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "短期菲力普曲線為正斜率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "該曲線說明物價上漲率與失業率間為正向關係",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "該曲線說明物價上漲率與失業率間具有抵換關係",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "預期通貨膨脹率提高，將使短期菲力普曲線左移",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "短期菲力普曲線描述通膨與失業率呈負相關，反映了兩者在短期內存在抵換(trade-off)關係。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_040",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在貨幣流通速度短期內固定的假設之下，可以將交易方程式轉換為貨幣數量學說。根據貨幣數量學說，當貨幣供給變為原來的兩倍時，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "物價水準將變為原來的一半",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "實質所得將變為原來的兩倍",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "名目所得將變為原來的一半",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "名目所得將變為原來的兩倍",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "根據 MV=PY 交易方程式，當貨幣流通速度與實質產出固定時，貨幣量與名目所得呈同比例變動。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_041",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據「流動性偏好理論」，當貨幣供給減少時，下列何種效果將使利率上升？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "流動性效果",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "所得效果",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "物價水準效果",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "預期通貨膨脹效果",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "流動性效果是指在其他條件不變下，貨幣供給量減少會直接導致名目利率上升的即時反應。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_042",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據 IS-LM 模型，中央銀行買進政府公債會導致：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "均衡利率上升；均衡產出下降",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "均衡利率下降；均衡產出上升",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "均衡利率與均衡產出都上升",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "均衡利率與均衡產出都下降",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "買入公債增加貨幣供給使 LM 曲線右移，在總需求架構下會拉低利率並刺激均衡產出。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_043",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在固定匯率制度下，若外匯需求大於供給，為維持固定的匯率，中央銀行必須：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "買入外匯",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "賣出外匯",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "調降利率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "增加貨幣供給",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "當外匯市場供不應求使本幣面臨貶值時，央行須賣出外匯準備以沖銷超額需求，維持匯率穩定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_044",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於中央銀行的扭轉操作（又稱為互換操作，operation twist），下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央銀行進行互換操作是利用公開市場操作買賣出等額的長短期債券",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "準備金不變",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "貨幣基數會增加",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中央銀行進行互換操作會影響長短期利率結構",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "扭轉操作是藉由等額買賣不同期限的債券，旨在調整利率曲線結構，故總貨幣基數維持不變。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_045",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有一零息債券的面額為$1,000、2 年後到期，現在債券價格為$907，則到期收益率約為多少？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "4%",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "5%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "6%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "7%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "將兩年後面額折現至現值 907 元，反推得出的年化到期收益率約為 5%。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_046",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "若殖利率曲線為水平線，則根據「期限偏好理論」表示未來的短期利率將：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "小幅上升",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "小幅下跌",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "大幅上升",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "不變",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "由於長期債券包含流動性貼水，當曲線水平時，意指市場預期未來短期利率會有些微下降的趨勢。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_047",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "如果活期存款有 1,500 億元，郵政儲金 2,000 億元，支票存款 1,000 億元，通貨淨額 3,000 億元，活期儲蓄存款 800 億元，商業銀行在中央銀行的存款 700 億元，則 M1B為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "9,000 億元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "7,500 億元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "6,300 億元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "5,500 億元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "M1B 為通貨淨額、支票存款、活期存款及活期儲蓄存款之加總，計算結果為 6,300 億元。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_048",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設中央銀行欲使貨幣供給額從 9,000 億增加至 10,500 億，在貨幣乘數為 3 的情況下，貨幣基數必須：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "2,500 億增加到 5,000 億",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "2,500 億增加到 4,000 億",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "3,000 億增加到 3,500 億",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "27,000 億增加到 31,500 億",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "貨幣供給增量 1,500 億除以乘數 3，得出基數需增加 500 億，即由 3,000 億增至 3,500 億。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_049",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某銀行的利率敏感性資產（亦稱為浮動利率資產）為 3 億元，利率敏感性負債（亦稱為浮動利率負債）為 5 億元，則根據缺口管理模型：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "該銀行有 2 億元的正缺口",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "該銀行有 8 億元的正缺口",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "該銀行有 8 億元的負缺口",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "利率上升該銀行利潤將下降",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "該行存在 2 億元的負缺口，當利率上升時，利息支出增加量大於收入，導致淨利潤下降。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_050",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那一項貨幣政策工具，主要係透過改變貨幣乘數，進而影響貨幣供給？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公開市場操作",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "存款準備率",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "貼現政策",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "選擇性信用管制",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "存款準備率直接決定了銀行資金的擴張倍數（乘數），是控制貨幣創造能力的核心工具。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "貨幣銀行學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  }
+]

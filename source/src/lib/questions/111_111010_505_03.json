@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "111_111010_001",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者是由 iSchools 成員共同建立的網路學習平台，旨在利用先進技術，透過課程共用和合作教學，來豐富和完善圖書資訊學教育，改進學生、教師和院校之間的關係，以全面提升圖書資訊學教育品質？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "OCWC（Open Course Ware Consortium）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "OER（Open Educational Resources）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "WDL（World Digital Library）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "WISE（Web-based Information Science Education）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "WISE 是由圖書資訊學院聯盟（iSchools）成員建立的網路教學合作平台，旨在透過資源共享提升專業教育。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_002",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "就中國目錄學的角度而言，目錄的主要功能不包括下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "考證學術源流",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "檢索圖書文獻",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "讀書治學指引",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "學術研究評論",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "中國目錄學核心在於「辨章學術，考鏡源流」，提供文獻檢索與治學指引，而非對具體內容進行研究評論。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_003",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那位學者提出「意義建構論」（Sense Making）的主張？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "B. Dervin",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "B. Frohmann",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "T. Leahey",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "F. Miksa",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Brenda Dervin 提出的意義建構論是資訊尋求行為研究中的重要理論，探討個人如何跨越資訊缺口。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_004",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列學術出版品的類型說明，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "通常學術期刊屬於白色文獻",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "正式出版之圖書屬於白色文獻",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "未出版之研討會論文集屬於灰色文獻",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "科技部研究計畫之結案報告屬於黑色文獻",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "研究報告或結案報告屬於灰色文獻，指非經由一般商業管道出版、發行量較小且取得較難的資料。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_005",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "以資訊的上、中、下游來強調圖書資訊之知識內容，資訊的下游所指為下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "資訊蒐集與整理",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "資訊傳輸與服務",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "資訊產生過程",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "資訊產生機構",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "資訊生命週期中，下游階段聚焦於資訊的傳播、傳輸與提供給終端使用者的各種應用服務。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_006",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "資訊科學史上知名的 Cranfield 研究（包含 Cranfield I 與 Cranfield II）包含下列那些評估項目？①索引語言 ②分類系統 ③詞彙切截 ④使用者介面 ⑤系統反應速度",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "②③⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "③④⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "克蘭菲爾德研究實驗了不同索引語言與分類系統，藉此評估資訊檢索系統的效能（如召回率與精確率）。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_007",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "管理大師彼得．杜拉克（Peter Drucker）認為下列何者將取代土地、勞動、資本、機器設備成為最重要的生產要素？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "資料",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "資訊",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "知識",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "智慧",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "杜拉克在「知識社會」的概念中，指出知識已取代傳統生產要素，成為社會最重要的經濟資源。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_008",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "美國圖書館學家 Michael Gorman 認為圖書館事業之核心價值有八個，其中關於「致力於維護自由社會中所有民眾自由閱聽的理念，維護少數意見的自由發抒，確保圖書館的設備與項目能為所有民眾利用」為下列那一種價值？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "閱讀自由（freedom to read）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "智識自由（intellectual freedom）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "民主自由（democratic freedom）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "開放取用（open access）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "智識自由強調圖書館應捍衛所有公民自由尋求、獲取與接收各種觀點的權利而不受內容審查限制。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_009",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公共出借權係政府為保障創作者權益所為之補償金制度，下列何者為世界第一個實施公共出借權的國家？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "日本",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "丹麥",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "瑞典",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "德國",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "丹麥於 1946 年首創公共出借權制度，由政府編列預算補償因圖書館提供免費借閱而受影響的創作者。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_010",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「臺灣原住民族圖書資訊中心」是原住民族委員會委託下列那一個機構所規劃設立？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國家圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國立臺灣圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國立臺灣大學圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中央研究院臺灣史研究所",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "臺灣原住民族圖書資訊中心（TIPRC）係由原民會委託國立臺灣大學圖書館承辦，負責典藏原民文獻。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_011",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "美國在 1862 年通過下列那法案，提供經費建設大學，促進期刊出版，使得大學圖書館開始發展？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "胡佛法案（Hoover Act）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "摩里法案（Morrill Act）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "尼爾森法案（Nelson Act）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "威爾森法案（Wilson Act）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "摩里法案（Morrill Act）透過捐贈公地補助建立贈地大學，極大地推動了美國高等教育與其圖書館的發展。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_012",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於圖書館員職涯停滯高原期之敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "在外部組織中已無升遷機會的結構停滯",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "每天都只執行例行業務的結構停滯",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在組織中已無升遷機會的內容停滯",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "在組織中已無升遷機會的結構停滯",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "結構停滯是指在目前的層級體系中，個人已經升到最高點或已無進一步向上流動機會的情況。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_013",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "考量圖書館服務資源的運用，中華民國圖書館績效指標（CNS15543）訂定成本指標「每筆借閱之成本」，評估圖書館的服務成本。有關於該指標之敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "指標以館藏數量評估圖書館服務成本",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "指標僅適用於大學圖書館的成本分析",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "指標計算方式為經常開支總額除以館藏數",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "指標中的經常開支項目中包括工作人員費用",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "計算圖書館服務成本時，經常開支包含人事費用、館藏購置與維護費等，以完整反映服務運作的投入成本。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_014",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "圖書館準備訂購，但還沒訂購的檔案紀錄，通常稱為下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "訂購檔",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "處理檔",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "擬購檔",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "介購檔",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "擬購檔（Desiderata file）記錄圖書館計畫購買但尚未正式下單的書目清單，作為採訪作業的依據。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_015",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "圖書館設置創客空間（maker space）是近年趨勢，下列何者並非創客空間的特色或功能？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "強調新技術的引進，如 3D 列印機以提供實作",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "必須是專業創作者，如作家、畫家、音樂家等才能使用該空間設施",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "促進非正式學習機會",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "培養創造而不是消費的文化",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "創客空間強調開放參與及社群學習，不侷限於專業人士，旨在讓所有使用者都能動手實作與學習。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_016",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據現行著作權法規定，圖書館得重製下列已公開發表之著作所附之摘要，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "依學位授予法撰寫之碩士論文，著作人已取得學位者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "依學位授予法撰寫之博士論文，著作人已取得學位者",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "刊載於期刊中之學術論文",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "未公開發表之研討會論文集或研究報告",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "著作權法規定得重製摘要的前提是該著作需為「已公開發表」，未公開發表的文獻不在此範圍內。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_017",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "邁入高齡社會，下列敘述何者有助於公共圖書館因應高齡讀者之空間規劃改善？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "在書架區增添柔軟的懶骨頭沙發",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "警示與辨識功能設計之顏色宜採用紫色或藍色",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "館內所有高齡者活動區的地面應避免出現高低變化",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "閱報區宜採用低照度與低亮度的柔光",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "為確保高齡者行動安全，無障礙環境設計要求地面平整，避免任何可能造成絆倒的高低差。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_018",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "圖書館就所執行之業務，蒐集各種數據，下列針對圖書館統計項目的敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "「參考諮詢量」是指圖書館館員經由本人或通訊方式，以專業知識或利用各種資訊來源，提供資訊服務的數量",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "「館內使用」是指使用者要求館員取得閉架區館藏資料提供其使用",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "「借閱」是指圖書館直接出借非電子型圖書或具實體包裝的電子文件，如光碟，在限期內使用的數量。透過網路傳遞之電子化文獻不在計算範圍內",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "「外部服務者」係指透過網路使用圖書館館藏資源的圖書館有效讀者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "參考諮詢量統計涵蓋了館員在各種管道（親身、電話或網路）回答讀者專業問題與引導資訊獲取的次數。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_019",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據我國圖書館設立及營運標準，某國中教學設備費有 300 萬元，每年館藏購置費至少應為多少？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "24 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "30 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "36 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "45 萬元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "依營運標準，國中館藏購置費應占教學設備費之 10% 以上，300 萬元的 10% 即為 30 萬元。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_020",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「全國圖書館調查統計系統」包括「圖書館名錄」及「圖書館調查統計」兩部分，維護單位為下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國立公共資訊圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國家圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國立臺灣圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國家實驗研究院",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "國家圖書館負責全國圖書館的統計調查工作，並維護統計系統以掌握國內各類型圖書館的發展動向。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_021",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "美國圖書館學會的「圖書館權利宣言」（Library Bill of Rights）第三條主張為善盡提供資訊及啟發他人的責任，圖書館應該勇於挑戰什麼？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "世界文盲",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "差別待遇",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "檢查制度",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "資訊落差",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "圖書館權利宣言明確指出，圖書館應與審查制度挑戰，以確保公眾能自由地獲取各種觀點與資訊。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_022",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「控制」是管理者在組織內執行的主要職能之一，請選擇下列歸屬於控制的項目，並依序排列其流程：①修正偏差 ②建立願景 ③內外部環境掃描 ④建立標準 ⑤以標準評估績效",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "③②④",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "③④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "④⑤①",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "④⑤②",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "管理中的控制流程包含設定績效標準、衡量實際表現與標準之差異，最後進行必要的偏差修正作業。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_023",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「贈送」為圖書館建立館藏的方法之一，下列針對「贈送」的敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "透過「贈送」，圖書館可能免費蒐集絕版或無法購買得到的資源",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "藉由「贈送」，圖書館不需負擔任何成本即可獲得館藏資源",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "為能持續透過「贈送」獲得館藏，圖書館應接受所有受贈資源",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "「受贈」館藏的典藏與處理成本，較以其他方式所獲得的館藏低",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "贈送是圖書館獲取已絕版、非賣品或特殊珍貴文獻的重要管道，能補充採購管道無法取得的資料。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_024",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者為圖書資料交換贈送的主要優點？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "增加圖書館館藏",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "減少人力負擔",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "節省處理時間",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "節省空間",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "交換與贈送是擴充館藏量的重要途徑，特別是在預算有限的情況下，能以此充實館藏的多樣性。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_025",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬於二次文獻？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "書評",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "目錄",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "索引",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "期刊",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "期刊（學術期刊）主要刊載原創研究，屬於一次文獻；目錄與索引則是對一次文獻進行整理加工後的二次文獻。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_026",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關我國政府出版品的敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "政府出版品統一編號為 ISBN",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "可自行定價銷售或委託代售",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "資料形式含圖書、連續性出版品、電子出版品及其他非書資料",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "由政府機關及其所屬機構、學校之經費或名義出版或發行之資料",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "我國政府出版品的專屬編號為政府出版品統一編號（GPN），而非一般圖書使用的 ISBN。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_027",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "參考資源的特性，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "使用時需要全冊閱讀",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主要功能為解決資訊問題",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "通常需要持續修訂，以維持內容的新穎性",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "有特殊編排，以方便查檢",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "參考工具書是供使用者在遇到特定問題時查檢局部內容，而非供人從頭到尾整本閱讀的書籍。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_028",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "臺灣圖書醫院是下列那一所機構創辦的？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國立臺灣大學圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國家圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國立臺灣圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國史館臺灣文獻館",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "國立臺灣圖書館設有「臺灣圖書醫院」，致力於古籍修復與圖書保存教育工作。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_029",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "電子資源採購模式可分為租賃、買斷與讀者閱覽後付費等不同方式，買斷方式較不常用於下列何種類型的電子資源？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "字辭典資料庫",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "現期期刊資料庫",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "大英百科全書資料庫",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "回溯性書目資料",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "現期期刊更新速度快且具時效性，通常採用年度訂閱（租賃）模式，較少以永久買斷方式處理。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_030",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "電子資源採購是圖書館界常見合作事項之一，下列何者未提供協助圖書館採購電子資源之服務？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "全國學術電子資訊資源共享聯盟",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "臺灣學術電子書暨資料庫聯盟",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "TEBSCo 臺灣電子書供給合作社",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公共圖書館圖書資源共享服務平台",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "公共圖書館圖書資源共享服務平台主要提供區域性的圖書通借服務，並非以電子資源採購聯盟為核心功能。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_031",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "引文分析（citation analysis）館藏評估法最不適用於下列何種類型的圖書館？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "學術圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "大學圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "專門圖書館",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公共圖書館",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "引文分析適用於學術性研究，公共圖書館讀者以大眾閱讀為主，較少產出具引文價值的研究著作。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_032",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於全國文獻傳遞服務系統（Nationwide Document Delivery System, NDDS）之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "系統前身為「全國館際合作系統」",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "僅限「中華圖書資訊館際合作協會」會員使用",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "由國家實驗研究院科技政策中心負責維運",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "會員需繳交系統使用費才取得使用資格",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "NDDS 系統之運作涉及多種層面，並非僅侷限於特定協會會員，而是開放予簽約之各類圖書館加入。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_033",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關「世界書香日」之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "由聯合國教科文組織（United Nations Educational, Scientific and Cultural Organization，簡稱 UNESCO）提出",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "可稱為 World Reading Day",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "可稱為 World Book and Copyright Day",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "在每年 5 月 23 日",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "世界書香日是每年的 4 月 23 日，該日期也是多位著名作家的忌日或生日。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_034",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何項屬於特殊檢索性參考問題？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "地球科學類的書在圖書館那一區？",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "阿爾卑斯山位於何處？有多高？",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "要怎麼找有關著作權法的中文期刊論文？",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "如何申請文獻傳遞服務？",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "特殊檢索問題涉及檢索策略的運用與特定工具的操作，指導讀者如何透過系統尋獲特定主題之資訊。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_035",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關特藏及其服務之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "指某圖書館於普通收藏外，特別蒐集某一形式或某一時期或某一地區的資料為圖書館特殊蒐藏",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "指某圖書館於普通收藏外，特別蒐集某一作家或某一主題的資料為圖書館特殊蒐藏",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "包括名人手稿及善本圖書",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "特藏之流通及閱覽規則比照指定參考書處理",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "特藏資料通常極為珍貴且具獨特性，其保存與閱覽規則比一般圖書嚴格，通常不外借且需在指定區域閱覽。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_036",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "由 Eisenberg 與 Berkowitz 提出以問題解決為導向，內容包括定義、尋找、取得、使用、統整及評估等步驟的資訊素養教學模式稱之為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "資訊素養六大技能（Big Six Skills）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "資訊素養六大支柱法（The Six Pillars of Information Literacy）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "資訊素養能力六標準法（The Six Information Literacy Competency Standards）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "資訊搜尋歷程六步驟法（The Six Steps of Information Search Process）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Big Six 技能模式是由艾森柏格與柏克維茲提出的著名資訊問題解決模式，廣泛應用於資訊素養教育。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_037",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "圖書館針對個別讀者建立其興趣檔，透過定期檢索或新進資源的主題比對，將符合讀者興趣的館藏資源書目資料、摘要或全文文獻，主動傳遞給讀者，這樣的服務稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "書目查證服務",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "文獻傳遞服務",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "即時型參考服務",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "專題選粹服務",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "專題選粹服務（SDI）是根據讀者個人興趣設定（興趣檔），由系統主動推送最新相關資訊的主動服務。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_038",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者是引文索引資料庫？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "EndNote",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "JCR",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "RefWorks",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "SCOPUS",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "JCR（Journal Citation Reports）是分析學術期刊引用數據與評估影響力的核心資料庫。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_039",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那項不適合做為國內公共圖書館與學校合作服務的項目？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "班級到館參訪",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "電子書推介",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "作業解答",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "寒暑期閱讀活動",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "圖書館參考服務應協助讀者掌握找尋資料的方法，而非直接提供學生作業的最終標準解答。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_040",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關「IFLA/UNESCO 多元文化圖書館宣言」（IFLA/UNESCO Multicultural Library Manifesto）的內容，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "圖書館應以適合的語言和文字傳播資訊",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "圖書館應公平對待並服務社區所有民眾而無任何歧視",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "口述傳統與文化遺產之保存未列入宣言中",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "鼓勵來自不同文化背景的人投入與參與",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "多元文化圖書館宣言強調應保存並推廣口述傳統、文化遺產等多元形式的文化表達，以展現包容性。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_041",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者為失真壓縮（lossy compression）的圖片存檔格式？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "BMP",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "JPEG",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "GIF",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "PNG",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "JPEG 是常見的失真壓縮格式，透過捨棄人類視覺較不敏感的細節來減少檔案體積。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_042",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "透過手機或平板電腦攝影鏡頭影像的位置及角度，並經圖像分析，讓螢幕呈現之虛擬世界能夠與現實世界結合與互動的技術，稱之為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "虛擬實境（virtual reality）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "擴增實境（augmented reality）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "深度學習（deep learning）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "樣式識別（pattern recognition）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "擴增實境（AR）將虛擬物件疊加在真實影像上，實現虛實互動，常見於現代手持裝置應用中。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_043",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者為我國資訊安全管理系統規範之標準？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "CNS 16000",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "CNS 17000",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "CNS 23000",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "CNS 27001",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "CNS 27001 是我國參照國際標準 ISO/IEC 27001 所訂定之資訊安全管理體系（ISMS）國家標準。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_044",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在二元樹的巡訪法中，先探訪父節點、再探訪左子節點、最後探訪右子節點的方法，稱之為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中序巡訪法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "前序巡訪法",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "後序巡訪法",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "循序巡訪法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "前序巡訪（Pre-order Traversal）的定義即為順序存取父節點、左子節點，最後才是右子節點。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_045",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種程式語言是宣示性程式語言（declarative program language）？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Python",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "Java",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "SQL",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "C#",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "SQL（結構化查詢語言）屬於宣告式語言，強調「要做什麼」而非「如何去做」的具體流程。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_046",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "資訊檢索時使用切截法的指令，如「phone？」（？代表切截指令），下列何者不會被檢索出來？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "phoney",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "phoenix",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "phonetic",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "phoneme",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "phoenix 的拼寫中不包含 phone 這個完整的前綴詞根，因此在使用 phone 切截時無法匹配。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_047",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有一類檢索需求是針對特定作品進行搜尋，此類檢索被稱為「已知書目檢索」。下列那一檢索屬於此種型態？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "查找出所需資料的內容主題，列出相關詞彙，再利用 OR 連結詞彙",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "想要查找龍應台所寫的《野火集》",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "利用期刊文獻索引查找有關太陽能發電的文章",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "找到一篇相關文獻，進一步搜尋作者所參考的文獻",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "已知書目檢索是指讀者已經知道特定作品的書名或作者等明確訊息，直接在系統中尋找該特定資源。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_048",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關圖書館自動化的敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "整合式圖書館自動化採取模組化的系統設計，建構各個支援圖書館技術服務與讀者服務所需運用之功能",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "廣義而言，任何以機械設備或電子設施來取代人工處理圖書館業務，均可視為圖書館自動化的範圍",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "圖書館自動化的目的包括簡化工作流程、提升工作效率、減少作業錯誤並促進資源分享",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "為個人化與客製化的資訊服務需求，各館只能以自行開發的方式來建置圖書館自動化系統",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "圖書館自動化系統多由廠商開發商業套裝軟體提供各館使用，不一定需要各館自行獨立開發系統。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_049",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者屬於社群媒體網站（social networking websites），可應用於圖書館與讀者的互動？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Moodle",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "Khan Academy",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "Facebook",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "Art & Architecture Thesaurus Online",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Facebook 是典型的社群媒體，提供發文、留言與訊息互動功能，圖書館常用其建立粉絲專頁進行服務推廣。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_050",
+    "category": "economics",
+    "stageId": "111_111010_505",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何項是指將大學成員創作的作品予以數位化，而提供數位資源的管理與傳播之服務？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "金色公開取用（gold open-access）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "藍色公開取用（blue open-access）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "機構典藏（institutional repository）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "自我典藏（self-archiving）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "機構典藏是指大學或研究機構蒐集其成員之數位研究成果，進行長期保存並提供開放取用服務的系統。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "505",
+      "圖書資訊管理",
+      "圖書館學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  }
+]

@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "111_111010_001",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教育基本法之規定，下列敘述何者錯誤？\n(A)人民享有請求學力鑑定之權利\n(B)國民基本教育之各類學校的編制，應以小班小校為原則\n(C)直轄市及縣（市）政府得設立教育審議委員會\n(D)政府為鼓勵私人興學，得將公立學校委託私人辦理",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "人民享有請求學力鑑定之權利",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國民基本教育之各類學校的編制，應以小班小校為原則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "直轄市及縣（市）政府得設立教育審議委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "政府為鼓勵私人興學，得將公立學校委託私人辦理",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "教育基本法規定，直轄市及縣（市）政府「應」設立教育審議委員會，而非「得」設立。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_002",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教育人員任用條例之規定，有關學校人員之任用程序，下列敘述何者正確？\n(A)由校長就合格人員中任用主計人員，並報主管教育行政機關核備\n(B)由校長就合格人員中任用人事人員，並報主管教育行政機關核備\n(C)各級學校專任運動教練之資格，由教育局定之\n(D)有痼疾不能任事，或曾服公務交代未清者，不得任用為教育人員",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "由校長就合格人員中任用主計人員，並報主管教育行政機關核備",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "由校長就合格人員中任用人事人員，並報主管教育行政機關核備",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "各級學校專任運動教練之資格，由教育局定之",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "有痼疾不能任事，或曾服公務交代未清者，不得任用為教育人員",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "教育人員任用條例明定，有痼疾不能任事或曾服公務交代未清者，不得任用為教育人員。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_003",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依家庭教育法之規定，高級中等以下學校每學年應在正式課程外，實施多少小時家庭教育課程及活動？\n(A)四小時以上 (B)五小時以上 (C)六小時以上 (D)八小時以上",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "四小時以上",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "五小時以上",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "六小時以上",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "八小時以上",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "家庭教育法規定，高級中等以下學校每學年應在正式課程外，實施四小時以上家庭教育課程。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_004",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依高級中等以下教育階段非學校型態實驗教育實施條例之規定，下列何者不是實驗教育辦理方式？\n(A)國際實驗教育 (B)機構實驗教育 (C)團體實驗教育 (D)個人實驗教育",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國際實驗教育",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "機構實驗教育",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "團體實驗教育",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "個人實驗教育",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "法律規定的辦理方式僅包含個人實驗教育、團體實驗教育及機構實驗教育三種。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_005",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依學校衛生法規定，學校對患有下列那項疾病的學生應加強輔導與照顧？\n(A)營養不良 (B)肝炎 (C)寄生蟲病 (D)心臟病",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "營養不良",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "肝炎",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "寄生蟲病",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "心臟病",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "學校衛生法規定，學校對患有心臟病、氣喘、癲癇等疾病之學生，應加強輔導與照顧。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_006",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依特殊教育法之規定，高級中等以下各教育階段學校得設特殊教育班，下列何者不是其辦理方式？\n(A)集中式特殊教育班 (B)分散式資源班 (C)巡迴輔導班 (D)資源輔導班",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "集中式特殊教育班",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "分散式資源班",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "巡迴輔導班",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "資源輔導班",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "特殊教育法規定之班別為集中式特殊教育班、分散式資源班及巡迴輔導班。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_007",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依性別平等教育法之規定，學校校長、教師或職工知悉服務學校發生疑似校園性侵害、性騷擾或性霸凌事件者，除應立即依相關法律規定通報外，並應向學校及當地直轄市、縣（市）主管機關通報，至遲不得超過幾小時？\n(A)十二小時 (B)二十四小時 (C)八小時 (D)六小時",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "十二小時",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "二十四小時",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "八小時",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "六小時",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "性別平等教育法規定知悉校園性平事件後，通報至遲不得超過二十四小時。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_008",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依性別平等教育法之規定，中央主管機關應設性別平等教育委員會，以下何者不是其任務？\n(A)研擬全國性之性別平等教育相關法規、政策及年度實施計畫\n(B)推動性別平等教育之課程、教學、評量與相關問題之研究與發展\n(C)推動全國性有關性別平等之家暴防治\n(D)規劃及辦理性別平等教育人員之培訓",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "研擬全國性之性別平等教育相關法規、政策及年度實施計畫",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "推動性別平等教育之課程、教學、評量與相關問題之研究與發展",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "推動全國性有關性別平等之家暴防治",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "規劃及辦理性別平等教育人員之培訓",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "家暴防治推動非屬性別平等教育委員會之法定任務，該業務屬社政主管機關權責。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_009",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依幼兒教育及照顧法之規定，除了離島、偏遠及原住民族地區之幼兒園外，下列敘述何者錯誤？\n(A)三歲以上至入國民小學前幼兒，每班以三十人為限\n(B)三歲以上至入國民小學前幼兒，每班以二十人為限\n(C)二歲以上未滿三歲幼兒，不得與其他年齡幼兒混齡\n(D)幼兒園二歲以上未滿三歲幼兒，每班以十六人為限",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "三歲以上至入國民小學前幼兒，每班以三十人為限",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "三歲以上至入國民小學前幼兒，每班以二十人為限",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "二歲以上未滿三歲幼兒，不得與其他年齡幼兒混齡",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "幼兒園二歲以上未滿三歲幼兒，每班以十六人為限",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "幼兒教育及照顧法規定三歲以上至入國小前幼兒，每班以三十人為限。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_010",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依大學法之規定，大學應建立何種制度，對於教師之教學、研究、輔導及服務成效進行評鑑，作為教師升等、續聘、長期聘任、停聘、不續聘及獎勵之重要參考？\n(A)教學評量制度 (B)教師評鑑制度 (C)教師同儕評鑑制度 (D)教師自我評鑑制度",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "教學評量制度",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "教師評鑑制度",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "教師同儕評鑑制度",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教師自我評鑑制度",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "大學法規定大學應建立教師評鑑制度，評核教師各項成效作為升等與聘任之參考。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_011",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依國民教育法之規定，下列敘述何者錯誤？\n(A)為適應學生個別差異，國民中學三年級學生，由學校提供必修技藝課程\n(B)國民小學及國民中學應設置圖書館（室）並訂定閱讀課程\n(C)國民小學及國民中學之教科圖書，由教育部審定\n(D)國民小學及國民中學之教科圖書，由學校校務會議訂定辦法公開選用之",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "為適應學生個別差異，國民中學三年級學生，由學校提供必修技藝課程",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國民小學及國民中學應設置圖書館（室）並訂定閱讀課程",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國民小學及國民中學之教科圖書，由教育部審定",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國民小學及國民中學之教科圖書，由學校校務會議訂定辦法公開選用之",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "國民教育法規定，國民中學三年級學生之技藝課程為提供學生「選修」而非必修。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_012",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依大學評鑑辦法之規定，下列何者不是大學評鑑之類別？\n(A)校務評鑑 (B)院、系、所及學位學程評鑑 (C)學門評鑑 (D)教師評鑑",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "校務評鑑",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "院、系、所及學位學程評鑑",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "學門評鑑",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教師評鑑",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "大學評鑑辦法規定評鑑類別為校務評鑑、院系所學位學程評鑑及學門評鑑。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_013",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依高級中等以下學校特殊教育班班級及專責單位設置與人員進用辦法之規定，下列敘述何者錯誤？\n(A)學校實施資賦優異教育，設集中式特殊教育班者，每班不得超過二十人\n(B)學校實施資賦優異教育，設集中式特殊教育班者，每班不得超過三十人\n(C)學校實施資賦優異教育，設巡迴輔導班者，依各級主管機關之規定\n(D)學校實施資賦優異教育，設分散式資源班者，依各級主管機關之規定",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "學校實施資賦優異教育，設集中式特殊教育班者，每班不得超過二十人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "學校實施資賦優異教育，設集中式特殊教育班者，每班不得超過三十人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "學校實施資賦優異教育，設巡迴輔導班者，依各級主管機關之規定",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "學校實施資賦優異教育，設分散式資源班者，依各級主管機關之規定",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "法規規定高級中等以下學校設資賦優異集中式特教班，每班學生人數不得超過三十人。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_014",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教師法之規定，有關教師解聘，且終身不得聘任之條件，下列敘述何者錯誤？\n(A)知悉服務學校發生疑似校園性侵害事件，未依性別平等教育法規定通報\n(B)經學校性別平等教育委員會或依法組成之相關委員會調查確認有性侵害行為屬實\n(C)體罰或霸凌學生，造成其身心嚴重侵害\n(D)升等著作或發表違反學術倫理",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "知悉服務學校發生疑似校園性侵害事件，未依性別平等教育法規定通報",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "經學校性別平等教育委員會或依法組成之相關委員會調查確認有性侵害行為屬實",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "體罰或霸凌學生，造成其身心嚴重侵害",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "升等著作 or 發表違反學術倫理",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "違反學術倫理情節重大者，依教師法應予以解聘，且一至四年不得聘任，而非終身。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_015",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教師法之規定，有關教師資遣，應通過下列何項會議審議？\n(A)教師評審委員會 (B)校務會議 (C)教師申訴評議委員會 (D)教師工會",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "教師評審委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "校務會議",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "教師申訴評議委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教師工會",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "教師法規定教師之資遣應由學校教師評審委員會審議通過。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_016",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教師法之規定，教師接受聘任後，除應遵守法令履行聘約外，下列何者不是義務？\n(A)依有關法令及學校安排之課程，實施適性教學活動\n(B)擔任行政職務\n(C)參與學校學術、行政工作及社會教育活動\n(D)輔導或管教學生，導引其適性發展",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "依有關法令及學校安排之課程，實施適性教學活動",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "擔任行政職務",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "參與學校學術、行政工作及社會教育活動",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "輔導或管教學生，導引其適性發展",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "擔任行政職務並非教師法規定的基本義務，教師基本義務主要聚焦於教學與輔導。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_017",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教育部教育經費分配審議委員會設置及審議辦法之規定，下列敘述何者錯誤？\n(A)主任委員，由教育部部長兼任\n(B)執行秘書由教育部會計處處長兼任\n(C)本會置委員十三人至十七人\n(D)開會時，應有全體委員二分之一以上出席始得開議",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主任委員，由教育部部長兼任",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "執行秘書由教育部會計處處長兼任",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "本會置委員十三人至十七人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "開會時，應有全體委員二分之一以上出席始得開議",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "法規規定該委員會主任委員由教育部部長指定一名次長兼任，而非部長本人兼任。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_018",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教師申訴評議委員會組織及評議準則之規定，專科以上學校申評會之組成方式及運作等規定，由各校訂定，經何種會議通過後實施？\n(A)教務會議 (B)校務會議 (C)教師評審委員會 (D)教師申訴評議委員會",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "教務會議",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "校務會議",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "教師評審委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教師申訴評議委員會",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "專科以上學校申評會之組成及運作規定應經校務會議通過後實施。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_019",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教師申訴評議委員會組織及評議準則之規定，各級主管機關申評會主席如何產生？\n(A)校長為主席 (B)教師會長為主席 (C)由委員互選之 (D)推選社會賢達人士為主席",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "校長為主席",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "教師會長為主席",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "由委員互選之",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "推選社會賢達人士為主席",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "教師申訴評議委員會組織準則規定，申評會主席由委員互選產生。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_020",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依公立高級中等以下學校教師成績考核辦法之規定，考核會委員應出席委員會議，經多少委員出席，始得開議？\n(A)二分之一以上 (B)三分之一以上 (C)三分之二以上 (D)四分之三以上",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "二分之一以上",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "三分之一以上",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "三分之二以上",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "四分之三以上",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "教師成績考核辦法規定考核會會議應有全體委員二分之一以上出席始得開議。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_021",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依高級中等以下學校教師專業審查會組成及運作辦法之規定，有關該會委員的任期與資格，下列敘述何者錯誤？\n(A)專審會委員任期二年\n(B)由主管機關首長聘（派）兼之\n(C)由行政機關代表、教育學者、法律專家、兒童及少年福利學者專家、全國或地方校長團體代表、全國或地方家長團體代表及全國或地方教師會推派代表\n(D)召集人及擔任會議主席由委員互推一人",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "專審會委員任期二年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "由主管機關首長聘（派）兼之",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "由各界代表組成",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "召集人及擔任會議主席由委員互推一人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "專審會召集人由主管機關首長或其指定之人擔任，並為會議主席，非由互推產生。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_022",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依學生輔導法之規定，學校應視學生身心狀況及需求，提供三級輔導，但不包含下列何者？\n(A)發展性輔導 (B)介入性輔導 (C)矯正性輔導 (D)處遇性輔導",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "發展性輔導",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "介入性輔導",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "矯正性輔導",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "處遇性輔導",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "學生輔導法規定的三級輔導體制為發展性輔導、介入性輔導及處遇性輔導。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_023",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依學生輔導法之規定，下列敘述何者錯誤？\n(A)高級中等以下學校主管機關應設學生輔導諮商中心\n(B)專任輔導教師必須排課\n(C)各級主管機關為促進學生輔導工作發展，應召開學生輔導諮詢會\n(D)學校校長、教師及專業輔導人員，均負學生輔導之責任",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "高級中等以下學校主管機關應設學生輔導諮商中心",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "專任輔導教師必須排課",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "各級主管機關為促進學生輔導工作發展，應召開學生輔導諮詢會",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "學校校長、教師及專業輔導人員，均負學生輔導之責任",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "學生輔導法規定，專任輔導教師原則上不排課，以專職輔導為主。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_024",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教育經費編列與管理法之規定，下列敘述何者錯誤？\n(A)各級政府教育經費預算合計應不低於該年度預算籌編時之前三年度決算歲入淨額平均值之百分之二十三\n(B)為保障原住民、身心障礙者及其他弱勢族群之教育，並扶助其發展，各級政府應從寬編列預算\n(C)直轄市、縣（市）政府之各項教育經費收入及支出，應設立地方教育發展基金\n(D)教育經費基準委員會隸屬教育部",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "各級政府教育經費預算合計應不低於百分之二十三",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保障弱勢族群教育應從寬編列預算",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "縣市政府應設立地方教育發展基金",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教育經費基準委員會隸屬教育部",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "教育經費編列與管理法規定教育經費基準委員會隸屬行政院，而非教育部。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_025",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關中華民國憲法第 158 條規定教育文化應發展國民的事項，下列何者不包括在內？\n(A)民主精神 (B)國民道德 (C)健全體格 (D)科學及生活智能",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "民主精神",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國民道德",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "健全體格",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "科學及生活智能",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "憲法第 158 條明定教育文化之目的為發展國民之民族精神、國民道德、健全體格、科學及生活智能。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_026",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關幼兒教育及照顧法規定的教保服務內容，下列何者不包括在內？\n(A)提供健康飲食、衛生保健安全之相關服務及教育\n(B)提供讀寫算識字學習活動\n(C)提供生理、心理及社會需求滿足之相關服務\n(D)提供增進身體動作、語文、認知、美感、情緒發展與人際互動等發展能力",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "提供健康飲食、衛生保健安全相關服務",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "提供讀寫算識字學習活動",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "提供生理、心理及社會需求滿足相關服務",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "提供身體動作、語文、認知等發展能力",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "幼兒教育及照顧法規定教保服務應以遊戲方式帶動，不應採讀寫算識字學習方式。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_027",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "國民教育法對於國民小學專任輔導教師員額編制的規定為何？\n(A)每校置一人 (B)二十一班以上者增置一人 (C)十二班以上者置一人 (D)二十四班以上者置一人",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "每校置一人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "二十一班以上者增置一人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "十二班以上者置一人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "二十四班以上者置一人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "國民教育法規定，國民小學二十四班以上者，應增置專任輔導教師一人。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_028",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "國民教育法規定學生認為學校有關其個人管教措施有違法或不當致損害其權益，應如何提出申訴？\n(A)由其法定代理人聘請律師代為向學校提出申訴\n(B)由其法定代理人以書面代為向學校提出申訴\n(C)由其法定代理人以書面代為向學校所在地之直轄市、縣（市）主管機關提出申訴\n(D)由其自己以書面向學校提出申訴",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "由其法定代理人聘請律師代為向學校提出申訴",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "由其法定代理人以書面代為向學校提出申訴",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "由其法定代理人以書面代為向主管機關提出申訴",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "由其自己以書面向學校提出申訴",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "國民教育法規定學生認為權益受損時，應由其法定代理人以書面代為向學校提出申訴。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_029",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依高級中等教育法之規定，除那類高級中等學校外，得設群、科、學程？\n(A)普通型高級中等學校 (B)技術型高級中等學校 (C)單科型高級中等學校 (D)綜合型高級中等學校",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "普通型高級中等學校",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "技術型高級中等學校",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "單科型高級中等學校",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "綜合型高級中等學校",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "高級中等教育法規定，單科型以外之各類型高級中等學校均得設群、科、學程。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_030",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依高級中等教育法之規定，校務會議的學生代表人數為何？\n(A)不得少於成員總數百分之八 (B)不得少於成員總數三分之一 (C)不得少於成員總數百分之五 (D)不得少於成員總數五分之一",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "不得少於成員總數百分之八",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "不得少於成員總數三分之一",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "不得少於成員總數百分之五",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "不得少於成員總數五分之一",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "高級中等教育法第 25 條規定校務會議應有學生代表，其人數不得少於成員總數百分之八。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_031",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依高級中等教育法之規定，國立高級中等學校免試入學直升名額不得高於國民中學部應屆畢業學生人數的比例為何？\n(A)百分之二十五 (B)百分之三十五 (C)百分之五十 (D)百分之六十",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "百分之二十五",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "百分之三十五",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "百分之五十",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "百分之六十",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "國立高級中等學校免試入學直升名額，不得高於其國中部應屆畢業學生人數百分之三十五。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_032",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "私立學校法規定校長出缺時，學校法人應於多少時間內另行遴選？\n(A)一年內 (B)三個月內 (C)九個月內 (D)六個月內",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "一年內",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "三個月內",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "九個月內",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "六個月內",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "私立學校法第 42 條規定校長出缺時，學校法人應於六個月內另行遴選。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_033",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依特殊教育法之規定，地方政府應從寬編列特殊教育預算的比例為何？\n(A)不得低於當年度教育主管預算百分之五 (B)不得低於當年度教育主管預算百分之六 (C)不得低於當年度教育主管預算百分之七 (D)不得低於當年度教育主管預算百分之八",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "不得低於當年度教育主管預算百分之五",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "不得低於當年度教育主管預算百分之六",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "不得低於當年度教育主管預算百分之七",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "不得低於當年度教育主管預算百分之八",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "特殊教育法規定地方政府編列特教預算不得低於當年度教育主管預算百分之五。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_034",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依特殊教育法之規定，高級中等以下各教育階段學校成立特殊教育推行委員會應有那些人員參與？\n(A)身心障礙學生或家長代表 (B)身心障礙學生家長代表代表 (C)身心障礙學生或教師代表 (D)身心障礙學生代表",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "身心障礙學生或家長代表",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "身心障礙學生家長代表代表",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "身心障礙學生或教師代表",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "身心障礙學生代表",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "特殊教育法第 15 條規定校內特推會應有身心障礙學生或家長代表參與。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_035",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關教育基本法規定國家應保障的學生權利，下列何者不包括在內？\n(A)學習權 (B)身體自主權 (C)人格發展權 (D)教育選擇權",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "學習權",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "身體自主權",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "人格發展權",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教育選擇權",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "教育基本法規定保障學生之學習權、受教育權、身體自主權及人格發展權，選擇權非屬學生端。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_036",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "偏遠地區學校教育發展條例所列的立法目的，下列何者不包括在內？\n(A)實踐教育機會平等原則 (B)確保各地區教育均衡發展 (C)因應偏遠地區學校教育之特性及需求 (D)促進偏遠地區學校教育因材施教",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "實踐教育機會平等原則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "確保各地區教育均衡發展",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "因應偏遠地區學校教育之特性及需求",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "促進偏遠地區學校教育因材施教",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "偏鄉教育條例之目的包含機會平等、均衡發展及因應特性，因材施教不屬其特定立法目的。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_037",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "偏遠地區學校教育發展條例對於辦理偏遠地區教育會議的規定為何？\n(A)中央主管機關應每三年辦理全國偏遠地區教育會議\n(B)地方主管機關應每三年辦理地方偏遠地區教育會議\n(C)中央主管機關應每二年辦理地方偏遠地區教育會議\n(D)地方主管機關應每二年辦理全國偏遠地區教育會議",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央主管機關應每三年辦理全國偏遠地區教育會議",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "地方主管機關應每三年辦理地方偏遠地區教育會議",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "中央主管機關應每二年辦理地方偏遠地區教育會議",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "地方主管機關應每二年辦理全國偏遠地區教育會議",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "偏遠地區學校教育發展條例規定中央主管機關應每三年辦理全國偏遠地區教育會議。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_038",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依偏遠地區學校教育發展條例施行細則規定，師資培育大學應保留偏遠地區學生修習師資職前教育課程的名額為何？\n(A)各師資培育之大學該學年度經核定師資生名額之百分之四\n(B)各師資培育之大學該學年度經核定師資生名額之百分之五\n(C)各師資培育之大學該學年度經核定師資生名額之百分之三\n(D)各師資培育之大學該學年度經核定師資生名額之百分之六",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "各師資培育之大學核定師資生名額之百分之四",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "各師資培育之大學核定師資生名額之百分之五",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "各師資培育之大學核定師資生名額之百分之三",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "各師資培育之大學核定師資生名額之百分之六",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "偏鄉條例施行細則規定師培大學應保留核定名額之百分之四供偏遠地區學生修習。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_039",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依師資培育法規定，中央主管機關設教師資格考試審議會，其成員應有至少一位下列的那類人員？\n(A)師資培育專業之學者專家 (B)原住民族教育專業之學者專家 (C)特殊教育專業之學者專家 (D)學科教育專業之學者專家",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "師資培育專業之學者專家",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "原住民族教育專業之學者專家",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "特殊教育專業之學者專家",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "學科教育專業之學者專家",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "師資培育法規定，教師資格考試審議會成員應有至少一位原住民族教育專業之代表。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_040",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "師資培育法所稱為培育教師依師資類科所需教育知能之教育學分課程為何？\n(A)普通課程 (B)專門課程 (C)教育素養課程 (D)教育專業課程",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "普通課程",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "專門課程",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "教育素養課程",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教育專業課程",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "師資培育法明定培育教師所需之教育知能課程為教育專業課程。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_041",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "師資培育法規定所稱半年全時教育實習包括那些實習？\n(A)教學實習、導師（級務）實習、行政實習、學生輔導實習\n(B)教學實習、導師（級務）實習、學生輔導實習、研習活動\n(C)教學實習、導師（級務）實習、行政實習、研習活動\n(D)教學實習、行政實習、學生輔導實習、研習活動",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "教學、導師、行政、學生輔導實習",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "教學、導師、學生輔導、研習活動",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "教學、導師、行政、研習活動",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教學、行政、學生輔導、研習活動",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "半年全時教育實習包含教學實習、導師（級務）實習、行政實習及研習活動。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_042",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "教師法規定對教師當然暫時予以停聘的情形為何？\n(A)體罰或霸凌學生，造成其身心嚴重侵害 (B)依刑事訴訟程序被通緝或羈押 (C)違反聘約情節重大 (D)服公務，因貪污行為經有罪判決確定",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "體罰或霸凌學生造成嚴重侵害",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "依刑事訴訟程序被通緝或羈押",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "違反聘約情節重大",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "服公務因貪污經判決確定",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "教師法規定教師依刑事訴訟程序被通緝或羈押時，應當然暫時予以停聘。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_043",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依教保服務人員條例規定，修畢國內高級中等學校幼兒保育相關學程、科課程，並取得畢業證書者，可擔任下列何者職務？\n(A)園長 (B)教師 (C)助理教保員 (D)教保員",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "園長",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "教師",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "助理教保員",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教保員",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依規定取得高級中等學校幼保科畢業證書者，具備擔任助理教保員之資格。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_044",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依專科學校法之規定，對於專科學校教育實施的說明，下列何者敘述錯誤？\n(A)專科學校畢業應修學分數，二年制不得少於一百二十學分\n(B)專科學校學生，得以遠距教學方式修習部分科目學分\n(C)專科學校各科均應注重學生實習\n(D)專科學校之課程，應以專業課程為重點",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "專科學校畢業應修學分數，二年制不得少於一百二十學分",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "專科學校學生，得以遠距教學方式修習部分科目學分",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "專科學校各科均應注重學生實習",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "專科學校之課程，應以專業課程為重點",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "專科學校法規定，二年制專科學校畢業應修學分數不得少於八十學分。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_045",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依社區大學發展條例規定設立社區大學的目的，下列何者錯誤？\n(A)提升人民現代公民素養及公共事務參與能力 (B)強化在地認同及地方創生 (C)發展地方文化、地方知識學 (D)促進促進國家永續發展",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "提升現代公民素養及公共參與",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "強化在地認同及地方創生",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "發展地方文化、地方知識學",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "促進促進國家永續發展",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "社區大學發展條例之立法目的未包含促進國家永續發展，該項並非其法定主要目的。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_046",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依補習及進修教育法規定，志願增進生活知能之國民，得受下列何種教育？\n(A)回流教育 (B)短期補習教育 (C)國民補習教育 (D)進修教育",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "回流教育",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "短期補習教育",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國民補習教育",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "進修教育",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "補習及進修教育法規定，志願增進生活知能之國民，得受短期補習教育。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_047",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依學生輔導法規定，下列那類輔導須對學生實施生活輔導、學習輔導及生涯輔導相關措施？\n(A)發展性輔導 (B)介入性輔導 (C)處遇性輔導 (D)團體性輔導",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "發展性輔導",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "介入性輔導",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "處遇性輔導",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "團體性輔導",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "發展性輔導之定義即包含針對全校學生提供生活、學習及生涯輔導之各項措施。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_048",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依學校衛生法規定，學校每週檢查餐飲場所的紀錄應保存幾年？\n(A)保存五年 (B)保存二年 (C)保存三年 (D)保存一年",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保存五年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保存二年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保存三年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保存一年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "學校衛生法規定，餐飲場所每週應進行衛生檢查，且檢查紀錄應保存一年。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_049",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依高級中等學校建教合作實施及建教生權益保障法，所稱使學生於寒暑假或學期中至建教合作機構接受職業技能訓練，是屬於下列何種建教合作？\n(A)輪調式建教合作 (B)體驗式建教合作 (C)實習式建教合作 (D)階梯式建教合作",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "輪調式建教合作",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "體驗式建教合作",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "實習式建教合作",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "階梯式建教合作",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "實習式建教合作定義即指學生於寒暑假或學期中至機構接受職業技能訓練。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_050",
+    "category": "economics",
+    "stageId": "111_111010_504",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依高級中等以下教育階段非學校型態實驗教育實施條例規定，實施團體實驗教育的學生總人數以多少人為限？\n(A)三十人 (B)二十五人 (C)三人 (D)一百二十五人",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "三十人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "二十五人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "三人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "一百二十五人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "實驗教育條例規定，實施團體實驗教育之學生總人數以三十人為限。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "504",
+      "教育行政",
+      "教育法規大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  }
+]

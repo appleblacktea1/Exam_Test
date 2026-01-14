@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "111_111010_001",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於硬碟（Hard Disk）的描述，下列何者錯誤？\n(A)磁碟片上的一個同心圓稱為磁軌（Track）\n(B)外圈的磁軌比內圈的磁軌可以儲存更多資料\n(C)各個磁碟片上相同半徑磁軌的集合稱為磁柱（Cylinder）\n(D)轉速越高，存取效率越佳",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "磁碟片上的一個同心圓稱為磁軌（Track）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "外圈的磁軌比內圈的磁軌可以儲存更多資料",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "各個磁碟片上相同半徑磁軌的集合稱為磁柱（Cylinder）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "轉速越高，存取效率越佳",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "在傳統磁碟中，不論外圈或內圈磁軌，其所包含的磁區數量相同，故儲存資料量亦相同。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_002",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者是 CPU 的主要元件？\n(A)主記憶體（Main Memory）\n(B)匯流排（Bus）\n(C)控制單元（Control Unit）\n(D)北橋晶片（Northbridge）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主記憶體（Main Memory）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "匯流排（Bus）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "控制單元（Control Unit）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "北橋晶片（Northbridge）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "控制單元負責指揮協調電腦各部件的運作，是中央處理器（CPU）的三大核心組成之一。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_003",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於 CPU 的精簡指令集（RISC）與複雜指令集（CISC）之描述，下列何者錯誤？\n(A) RISC 指令種類較少、CISC 指令種類較多\n(B) RISC 指令格式較無彈性、CISC 指令格式較有彈性\n(C) RISC 指令無明顯最佳化、CISC 指令進行最佳化\n(D) RISC 指令功能較簡單、CISC 指令功能較複雜",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "RISC 指令種類較少、CISC 指令種類較多",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "RISC 指令格式較無彈性、CISC 指令格式較有彈性",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "RISC 指令無明顯最佳化、CISC 指令進行最佳化",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "RISC 指令功能較簡單、CISC 指令功能較複雜",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "RISC 設計重點在於簡化指令以方便管線化執行，並針對常用指令進行編譯器的優化提升效能。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_004",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "主機板通常內建許多連接埠與擴充槽，下列何者的傳輸速度最慢？\n(A) ISA\n(B) PCI\n(C) AGP\n(D) IEEE 1394",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "ISA",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "PCI",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "AGP",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "IEEE 1394",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "ISA 為早期的工業標準架構匯流排，其資料傳輸頻寬與速度在上述選項中均為最低。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_005",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬於作業系統的主要功能？\n(A)即時通訊\n(B)行程管理\n(C)記憶體管理\n(D)裝置驅動程式",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "即時通訊",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行程管理",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "記憶體管理",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "裝置驅動程式",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "即時通訊屬於應用層級的軟體服務，並非作業系統核心所提供的基本資源管理功能。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_006",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那個 Linux 指令可以用來查看檔案與子目錄？\n(A) ls\n(B) mkdir\n(C) pwd\n(D) chmod",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "ls",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "mkdir",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "pwd",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "chmod",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "ls 指令代表 list，用於列出當前目錄或指定路徑下的檔案清單與子目錄資訊。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_007",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬於嵌入式作業系統？\n(A) iOS\n(B) Debian\n(C) Windows 10 IoT\n(D) Android",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "iOS",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "Debian",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "Windows 10 IoT",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "Android",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Debian 是一套通用的 Linux 發行版，主要針對伺服器與個人電腦設計，而非專用的嵌入式系統。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_008",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "一張 1024 x 768 的全彩影像，未壓縮前的檔案大小約為：\n(A) 393 KB\n(B) 786 KB\n(C) 1.6 MB\n(D) 2.3 MB",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "393 KB",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "786 KB",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "1.6 MB",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2.3 MB",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "全彩通常指 24 位元，計算式為 1024*768*3 位元組，約等於 2.3 MB。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_009",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那種資訊系統，整合了公司營運所需的各種流程（例如，生產、配銷、人力資源、研發、財務會計……等）於單一平台之上？\n(A)供應鏈管理（SCM）\n(B)企業資源規劃（ERP）\n(C)管理資訊系統（MIS）\n(D)知識管理（KM）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "供應鏈管理（SCM）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "企業資源規劃（ERP）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "管理資訊系統（MIS）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "知識管理（KM）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "企業資源規劃（ERP）系統旨在將企業內部所有核心業務流程整合至統一的資訊平台與資料庫中。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_010",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "1 Petabyte（PB）約等於多少 Bytes？\n(A) 10^6\n(B) 10^9\n(C) 10^12\n(D) 10^15",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "10^6",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "10^9",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "10^12",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "10^15",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "在十進位制的資料單位中，Peta 代表 10 的 15 次方。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_011",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列遞迴函數，當執行 FR(51)後，回傳值為何？\nint FR(int N){\nif(N <= 1)return 1;\nelse return N * FR(N/3);\n}\n(A) 3375\n(B) 4000\n(C) 4335\n(D) 5000",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "3375",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "4000",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "4335",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "5000",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "遞迴過程為 51 * FR(17), 17 * FR(5), 5 * FR(1)，最終結果為 51 * 17 * 5 * 1 = 4335。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_012",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "分治法（Divide and Conquer）是將問題拆分為子問題，對子問題求解、最終合併結果的一種演算法技巧，下列何種排序法使用分治法的概念？\n(A)氣泡排序法（Bubble Sort）\n(B)合併排序法（Merge Sort）\n(C)選擇排序法（Selection Sort）\n(D)插入排序法（Insertion Sort）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "氣泡排序法（Bubble Sort）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "合併排序法（Merge Sort）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "選擇排序法（Selection Sort）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "插入排序法（Insertion Sort）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "合併排序法透過遞迴地將數列對半切分至最小單元後進行排序與合併，是典型的分治法應用。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_013",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列程式片段的時間複雜度為何？\nfor(i=n; i>0; i/=2)x++;\n(A) O(NlogN)\n(B) O(N)\n(C) O(logN)\n(D) O(1)",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "O(NlogN)",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "O(N)",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "O(logN)",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "O(1)",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "迴圈計數器 i 每次執行後均除以二，表示其執行次數與 n 的對數呈正比，故為 O(logN)。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_014",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種語言主要用來定義網頁的外觀（例如，編排、顯示、格式化、特殊效果……等）？\n(A) CSS\n(B) JavaScript\n(C) PHP\n(D) XML",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "CSS",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "JavaScript",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "PHP",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "XML",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "CSS（階層式樣式表）專門用於定義 HTML 文件的呈現方式，包括佈局、顏色與字型等。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_015",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於資料庫資料獨立性（Data Independence）的描述，下列何者正確？\n(A)資料庫內部儲存結構的改變，不會影響應用程式的存取\n(B)資料檔案與資料庫管理系統（DBMS）可以分別在不同的伺服器上運行\n(C)資料庫中的資料表可以獨立設計，不受其他資料表內容的影響\n(D)資料庫系統與應用程式可以分別獨立設計與實作",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "資料庫內部儲存結構的改變，不會影響應用程式的存取",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "資料檔案與資料庫管理系統（DBMS）可以分別在不同的伺服器上運行",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "資料庫中的資料表可以獨立設計，不受其他資料表內容的影響",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "資料庫系統與應用程式可以分別獨立設計與實作",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "實體資料獨立性指當資料庫的實體儲存結構改變時，不需要修改高層的邏輯綱要與應用程式。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_016",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於資料庫正規化（Normalization）的描述，下列何者正確？\n(A)第一正規式去除多值屬性與複合屬性\n(B)第二正規式去除遞依相依\n(C)第三正規式去除部分相依\n(D) BC 正規式去除多值相依",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "第一正規式去除多值屬性與複合屬性",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "第二正規式去除遞依相依",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "第三正規式去除部分相依",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "BC 正規式去除多值相依",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "第一正規化（1NF）要求資料表中的每個欄位均為原子值，必須消除所有多值屬性或重複群組。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_017",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "資料庫設計通常採用三層式資料架構，下列何者不屬於這三層？\n(A)內部層\n(B)概念層\n(C)外部層\n(D)網路層",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "內部層",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "概念層",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "外部層",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "網路層",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "ANSI/SPARC 資料庫架構僅包含外部層、概念層與內部層三種視圖級別，不包含網路層。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_018",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於資料倉儲（Data Warehouse）的描述，下列何者錯誤？\n(A)較小型的資料倉儲稱為資料超市（Data Mart）\n(B)資料探勘（Data Mining）是資料倉儲的重要應用之一\n(C)具有主題導向、整合性、時間變動性與非揮發性等特點\n(D)支援線上交易處理（Online Transaction Processing, OLTP）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "較小型的資料倉儲稱為資料超市（Data Mart）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "資料探勘（Data Mining）是資料倉儲的重要應用之一",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "具有主題導向、整合性、時間變動性與非揮發性等特點",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "支援線上交易處理（Online Transaction Processing, OLTP）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "資料倉儲主要用於支援線上分析處理（OLAP），而 OLTP 是用於日常作業交易的傳統資料庫系統。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_019",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於 TCP/IP 參考模型的描述，下列何者正確？\n(A)應用層負責提供網路服務給應用程式，IP 為知名通訊協定\n(B)傳輸層負責分段排序、錯誤控制、流量控制等工作，UDP 為知名通訊協定\n(C)網路層負責定址與路由等工作，TCP 為知名通訊協定\n(D)連結層負責與硬體溝通，HTTP 為知名通訊協定\n",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "應用層負責提供網路服務給應用程式，IP 為知名通訊協定",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "傳輸層負責分段排序、錯誤控制、流量控制等工作，UDP 為知名通訊協定",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "網路層負責定址與路由等工作，TCP 為知名通訊協定",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "連結層負責與硬體溝通，HTTP 為知名通訊協定",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "傳輸層包含 TCP 與 UDP 協定，負責管理主機間的通訊流、數據分段、排序及錯誤偵測。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_020",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行動支付的熱潮來臨，下列何種無線通訊標準適合實作行動支付應用？\n(A) 5G\n(B) WiMAX\n(C) NFC\n(D) WiFi",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "5G",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "WiMAX",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "NFC",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "WiFi",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "NFC（近場通訊）具有短距離、高安全性的通訊特點，廣泛應用於感應式行動支付。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_021",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "連結教育部全球資訊網時，僅須在瀏覽器輸入 www.edu.tw，而不用去查詢伺服器的真實 IP，是因為有什麼服務？\n(A) Proxy\n(B) ADSL\n(C) DNS\n(D) BBS",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "Proxy",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "ADSL",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "DNS",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "BBS",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "DNS（網域名稱系統）負責將易於記憶的網域名稱翻譯為電腦溝通所需的 IP 位址。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_022",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "以下那種網路犯罪模式，主要利用假訊息、網站或社交工程，對個人和企業騙取敏感資訊或金錢？\n(A)駭客攻擊\n(B)網路竊聽\n(C)勒索軟體\n(D)網路釣魚",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "駭客攻擊",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "網路竊聽",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "勒索軟體",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "網路釣魚",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "網路釣魚（Phishing）透過偽裝成合法機構發送欺騙性訊息，藉此獲取使用者的私密資料。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_023",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "電子商務四流中，何者處理產品所有權轉移的方式或過程？\n(A)商流\n(B)金流\n(C)物流\n(D)資訊流",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "商流",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "金流",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "物流",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "資訊流",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "商流涉及交易行為、契約訂定及商品所有權的移轉過程，是電子商務的核心交易環節。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_024",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "創用 CC 授權是一種新的著作權分享方式，下列何者不是其授權要素？\n(A)非商業性\n(B)禁止改作\n(C)任意分享\n(D)姓名標示",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "非商業性",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "禁止改作",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "任意分享",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "姓名標示",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "創用 CC 核心要素包含姓名標示、非商業性、禁止改作及相同方式分享，不包含「任意分享」。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_025",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "現代的作業系統通常在下列那兩種模式下交互運行？①使用者模式（user mode） ②實體模式（physical mode） ③特權模式（privileged mode） ④核心模式（kernel mode）\n(A)使用者模式與實體模式\n(B)實體模式與特權模式\n(C)特權模式與核心模式\n(D)核心模式與使用者模式",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "使用者模式與實體模式",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "實體模式與特權模式",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "特權模式與核心模式",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "核心模式與使用者模式",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "作業系統透過核心模式執行特權指令管理硬體，並在使用者模式下執行一般應用程式以確保安全。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_026",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者被作業系統用來預防使用者的程序因為無窮迴圈占據整個電腦系統，導致其他程序無法獲得 CPU 執行？\n(A)快取控制器（cache controller）\n(B)計時器（timer）\n(C)程式計數器（program counter）\n(D)系統除錯器（system debugger）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "快取控制器（cache controller）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "計時器（timer）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "程式計數器（program counter）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "系統除錯器（system debugger）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "作業系統設定計時器產生硬體中斷，強制收回 CPU 控制權，避免單一程式無止盡占用系統資源。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_027",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "多程序（process）在作業系統中執行，要預防死結（deadlock prevention），下列敘述何者錯誤？\n(A)要求程序執行前，請求所有資源並獲得配置\n(B)要求程序未握有資源下，才能請求資源\n(C)若程序已握有資源但無法立即獲得請求資源，放棄握有的所有資源\n(D)指定各種類別資源的整體循環排序，要求程序依序請求資源",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "要求程序執行前，請求所有資源並獲得配置",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "要求程序未握有資源下，才能請求資源",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "若程序已握有資源但無法立即獲得請求資源，放棄握有的所有資源",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "指定各種類別資源的整體循環排序，要求程序依序請求資源",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "為預防死結，需對資源類型進行線性排序並規定依序請求，以打破循環等待條件，確保系統安全。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_028",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於電腦周邊的常用語，下列敘述何者錯誤？\n(A) USB-C 是一種電腦與周邊連接的連線接頭規格標準\n(B) GPIO 是一種遊戲周邊輸出入的專用標準\n(C) PCIe 是一種電腦周邊元件高速擴充匯流排標準\n(D) USB PD 是一種充電標準與技術規格",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "USB-C 是一種電腦與周邊連接的連線接頭規格標準",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "GPIO 是一種遊戲周邊輸出入的專用標準",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "PCIe 是一種電腦周邊元件高速擴充匯流排標準",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "USB PD 是一種充電標準與技術規格",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "GPIO 代表通用輸出入介面，是用於微控制器等硬體上通用的、不具特定目的之數位訊號接腳。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_029",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "10 進位-1020 表示為 16 位元 2 補數，以 16 進位表示，下列何者正確？\n(A) 8C0316\n(B) FC0316\n(C) 8C0416\n(D) FC0416",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "8C0316",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "FC0316",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "8C0416",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "FC0416",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "正值 1020 為 0x03FC，取 1 補數為 0xFC03，加 1 得到 2 補數為 0xFC04。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_030",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "將 10 進位(66.375)10轉換為 2、4、8、16 進位，下列何者錯誤？\n(A) 0100 0010.01102\n(B) 1002.124\n(C) 112.38\n(D) 42.616",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "0100 0010.01102",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "1002.124",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "112.38",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "42.616",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "10 進位 66 轉換為 8 進位應為 102，故 66.375 等於八進位的 102.3。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_031",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "對於 N 個位元的整數表示方式，下列敘述何者錯誤？\n(A)無號（unsigned）格式所能表示的最大整數是 2^N - 1\n(B)符號帶大小（signed-magnitude）格式所能表示的最小整數是 –(2^(N-1)-1)\n(C) 1 補數（1’s complement）格式所能表示的最大整數是 +(2^(N-1)-1)\n(D) 2 補數（2’s complement）格式所能表示的最小整數是 –(2^N-1)",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "無號（unsigned）格式所能表示的最大整數是 2^N - 1",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "符號帶大小（signed-magnitude）格式所能表示的最小整數是 –(2^(N-1)-1)",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "1 補數（1’s complement）格式所能表示的最大整數是 +(2^(N-1)-1)",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2 補數（2’s complement）格式所能表示的最小整數是 –(2^N-1)",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "在 2 補數系統中，N 位元能表示的最小整數公式應為 –2^(N-1)。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_032",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "8 位元二進位數 x = 1010 1100(2)與 y = 0011 1101(2)進行邏輯運算，下列敘述何者正確？\n(A) NOT（x AND y）結果是 1101 0101(2)\n(B) NOT（x OR y）結果是 0100 0100(2)\n(C)（x XOR y）結果是 1010 0001(2)\n(D)（x OR(NOT y)）結果是 1110 1110(2)",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "NOT（x AND y）結果是 1101 0101(2)",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "NOT（x OR y）結果是 0100 0100(2)",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "（x XOR y）結果是 1010 0001(2)",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "（x OR(NOT y)）結果是 1110 1110(2)",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "NOT y 為 1100 0010，與 x（1010 1100）進行 OR 運算，結果為 1110 1110。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_033",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於程式語言與執行，下列敘述何者錯誤？\n(A) 8086 組合語言程式經組譯器（assembler）翻譯為機器語言執行\n(B) C 語言程式經編譯器（compiler）翻譯為機器碼執行\n(C) Java 語言程式經 Java 虛擬機器（virtual machine）翻譯為虛擬碼執行\n(D) BASIC 語言程式經解譯器（interpreter）翻譯後執行",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "8086 組合語言程式經組譯器（assembler）翻譯為機器語言執行",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "C 語言程式經編譯器（compiler）翻譯為機器碼執行",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "Java 語言程式經 Java 虛擬機器（virtual machine）翻譯為虛擬碼執行",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "BASIC 語言程式經解譯器（interpreter）翻譯後執行",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Java 原始碼先編譯成虛擬碼（Bytecode），再由 Java 虛擬機器將其轉換為機器碼執行。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_034",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某個以列為主（row-major）儲存的三維陣列 A[3][4][5]，若 A[0][2][4] 的位址是 2048(10)，A[1][2][2] 的位址是 2084(10)，則 A[2][1][2] 的位址為何？\n(A) 2112(10)\n(B) 2114(10)\n(C) 2122(10)\n(D) 2124(10)",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "2112(10)",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "2114(10)",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "2122(10)",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2124(10)",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "根據偏移量計算，每個元素佔 2 位元組，代入列優先公式計算出 A[2][1][2] 位址為 2114。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_035",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "對於下列 C 程式片段執行 Cfun(3)的輸出內容，下列敘述何者錯誤？\nvoid Cfun(int n)\n{\nwhile(n !=1){\nn =(n%2)? 3*n+1 : n/2 ;\nprintf(\"%d \", n);\n}\n}\n(A)輸出內容中有整數 5\n(B)輸出內容中有整數 8\n(C)輸出內容中有整數 9\n(D)輸出內容中有整數 16",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "輸出內容中有整數 5",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "輸出內容中有整數 8",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "輸出內容中有整數 9",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "輸出內容中有整數 16",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "代入 n=3 追蹤，輸出序列為 10, 5, 16, 8, 4, 2, 1，其中不包含整數 9。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_036",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "執行下列 C 程式片段後，下列敘述何者正確？\nfor(i = j = k = 0; i < 5; i++, j++){\nk++ ;\nif(j%2 ==0)continue ;\nk++;\nif(i%3 ==0)break ;\n}\nprintf(“i = %d, j = %d, k = %d”, i, j, k);\n(A)印出 i = 3, j = 3, k = 6\n(B)印出 i = 3, j = 6, k = 10\n(C)印出 i = 6, j = 3, k = 6\n(D)印出 i = 6, j = 3, k = 10",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "印出 i = 3, j = 3, k = 6",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "印出 i = 3, j = 6, k = 10",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "印出 i = 6, j = 3, k = 6",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "印出 i = 6, j = 3, k = 10",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "當 i 增加到 3 且符合 i%3==0 條件時，迴圈會中斷（break），此時變數 i, j, k 分別為 3, 3, 6。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_037",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "將後序表示式（postfix expression）abc*+de-*進行轉換，下列敘述何者正確？\n(A)中序表示式（infix expression）為 a+b*c*d-e\n(B)中序表示式（infix expression）為 (a+b)*c*(d-e)\n(C)中序表示式（infix expression）為 (a+b*c)*(d-e)\n(D)中序表示式（infix expression）為 a+b*(c*d-e)",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中序表示式（infix expression）為 a+b*c*d-e",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "中序表示式（infix expression）為 (a+b)*c*(d-e)",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "中序表示式（infix expression）為 (a+b*c)*(d-e)",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中序表示式（infix expression）為 a+b*(c*d-e)",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "根據運算子優先順序與堆疊處理，abc*+ 轉換為 a+(b*c)，de- 為 d-e，最後結合為 (a+b*c)*(d-e)。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_038",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "以 C、Java 與 PHP 三種程式語言來考慮，就①程序式（procedural） ②物件導向式（object-oriented）\n③腳本式（scripting）三種程式語言類別，以及最適合開發④網路程式 ⑤網頁程式 ⑥系統程式三種應\n用需求而言，下列敘述何者正確？\n(A) C:①⑥、Java:③④、PHP:②⑤\n(B) C:①⑥、Java:②④、PHP:③⑤\n(C) C:①⑤、Java:③⑥、PHP:②④\n(D) C:①④、Java:②⑤、PHP:③⑥",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "C:①⑥、Java:③④、PHP:②⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "C:①⑥、Java:②④、PHP:③⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "C:①⑤、Java:③⑥、PHP:②④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "C:①④、Java:②⑤、PHP:③⑥",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "C 是程序式且常用於系統開發；Java 是物件導向且常用於網路程式；PHP 則是腳本語言且專於網頁開發。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_039",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "若關聯綱要（relation schema）R（A, B, C, D, E）已符合 1NF（第一正規式），但具有以下功能相依（functional dependency）：{B}→{C}以及{D}→{E}。下列敘述何者正確？\n(A)將 R 拆解為 R1（A, B, C）與 R2（D, E）可以符合 2NF（第二正規式）\n(B)將 R 拆解為 R1（A, D, E）與 R2（B, C）可以符合 2NF（第二正規式）\n(C)將 R 拆解為 R1（A, B, C, D）與 R2（D, E）可以符合 2NF（第二正規式）\n(D)將 R 拆解為 R1（A, B, D, E）與 R2（B, C）可以符合 2NF（第二正規式）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "將 R 拆解為 R1（A, B, C）與 R2（D, E）可以符合 2NF（第二正規式）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "將 R 拆解為 R1（A, D, E）與 R2（B, C）可以符合 2NF（第二正規式）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "將 R 拆解為 R1（A, B, C, D）與 R2（D, E）可以符合 2NF（第二正規式）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "將 R 拆解為 R1（A, B, D, E）與 R2（B, C）可以符合 2NF（第二正規式）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "透過將 R1 與 R2 進行拆解，能有效消除原始關聯中的部分相依關係，進而使其符合第二正規化的規範。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_040",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "給予以下的設計：①概念設計（conceptual design） ②表格設計（table design） ③邏輯設計（logical design） ④實體設計（physical design）。關於資料庫的設計，在需求分析階段完後，包括那些階段？\n(A)①②③\n(B)①②④\n(C)①③④\n(D)②③④",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①②④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "①③④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "②③④",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "資料庫設計標準流程包含概念設計、邏輯設計與實體設計三個主要階段。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_041",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於網路廣告收費方式，下列敘述何者正確？\n(A)點擊率（Click Through Rate, CTR）計價方式：每千次廣告曝光的成本，廣告曝光是指廣告成功地傳給符合的使用者\n(B)引導數（Click Per Lead, CPL）計價方式：依照用戶有效的訪問數量來收取費用，需要實際填寫表單或產生消費行為才計費\n(C)單次購買成本（Cost Per Purchase, CPP）計價方式：消費者點選某網路廣告後，連結到另一個廣告網頁或網路廣告主所設置的網站，以觀看較詳細的廣告內容\n(D)單次銷售成本（Click Per Sale, CPS）計價方式：以用戶的每一個回應計價，也就是以回應成本計價",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "點擊率（Click Through Rate, CTR）計價方式：每千次廣告曝光的成本，廣告曝光是指廣告成功地傳給符合的使用者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "引導數（Click Per Lead, CPL）計價方式：依照用戶有效的訪問數量來收取費用，需要實際填寫表單或產生消費行為才計費",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "單次購買成本（Cost Per Purchase, CPP）計價方式：消費者點選某網路廣告後，連結到另一個廣告網頁或網路廣告主所設置的網站，以觀看較詳細的廣告內容",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "單次銷售成本（Click Per Sale, CPS）計價方式：以用戶的每一個回應計價，也就是以回應成本計價",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "CPL 是一種依據潛在客戶引導行為（如填寫表單）成功與否來計算費用的廣告行銷模式。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_042",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "傳送敏感的電子資料時，有必要防止來源端及目的端的否認行為。下列何者可以達成此不可否認（Non-repudiation）之安全防護？\n(A)對稱式加密法\n(B)非對稱式加密法\n(C)數位簽章\n(D)數位摘要",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "對稱式加密法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "非對稱式加密法",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "數位簽章",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "數位摘要",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "數位簽章結合了非對稱加密與訊息摘要，可驗證發送者身份並提供具法律效益的不可否認性。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_043",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於加解密，下列敘述何者錯誤？\n(A)加密保護的方式可分為對稱式加密法與非對稱式加密法兩種\n(B)非對稱式加密法最具代表性的方法是 DES，可用來做數位簽名\n(C)非對稱式加密法加密或解密時，使用兩組不同的一對金鑰，即公開金鑰與私有金鑰\n(D)對稱式加密法加密或解密時，必須使用同一把金鑰",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "加密保護的方式可分為對稱式加密法與非對稱式加密法兩種",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "非對稱式加密法最具代表性的方法是 DES，可用來做數位簽名",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "非對稱式加密法加密或解密時，使用兩組不同的一對金鑰，即公開金鑰與私有金鑰",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "對稱式加密法加密或解密時，必須使用同一把金鑰",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "DES 屬於典型的對稱式加密演算法，加解密雙方使用同一把金鑰，不能直接用於非對稱的數位簽章。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_044",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於網路攻擊，下列何者不是主動式攻擊（Active attacks）？\n(A)窺探（Snooping）攻擊\n(B)重送（Replay）攻擊\n(C)阻斷服務（DOS）攻擊\n(D)篡改（Modify）傳送封包",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "窺探（Snooping）攻擊",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "重送（Replay）攻擊",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "阻斷服務（DOS）攻擊",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "篡改（Modify）傳送封包",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "窺探攻擊僅是在不影響正常通訊的情況下竊聽或攔截資料，屬於被動式攻擊模式。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_045",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於「不需要透過作業系統、軟體或其他系統的安裝，只要透過網路，就可以讓使用者操作應用程式。」下列敘述何者正確？\n(A)此為「軟體即服務」之概念\n(B)此為「平台即服務」之概念\n(C)此為「物聯網」之概念\n(D)此為「基礎設施即服務」之概念",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "此為「軟體即服務」之概念",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "此為「平台即服務」之概念",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "此為「物聯網」之概念",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "此為「基礎設施即服務」之概念",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "軟體即服務（SaaS）讓使用者僅需透過網頁瀏覽器連網，即可直接運行位於雲端的應用軟體。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_046",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於網路設備與 OSI 網路模型，下列敘述何者正確？\n(A)閘道器（gateway）能連接不同的網路並轉換不同通訊協定，通常在 OSI 的傳輸層（transport layer）與交談層（session layer）\n(B)路由器（router）能過濾封包並連接區域網路或廣域網路，通常在 OSI 的傳輸層（transport layer）\n(C)中繼器（repeater）能接收並增強訊號，位於 OSI 的資料鏈結層（data link layer）\n(D)橋接器（bridge）能連結網路不同的區段，位於 OSI 的網路層（network layer）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "閘道器（gateway）能連接不同的網路並轉換不同通訊協定，通常在 OSI 的傳輸層（transport layer）與交談層（session layer）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "路由器（router）能過濾封包並連接區域網路或廣域網路，通常在 OSI 的傳輸層（transport layer）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "中繼器（repeater）能接收並增強訊號，位於 OSI 的資料鏈結層（data link layer）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "橋接器（bridge）能連結網路不同的區段，位於 OSI 的網路層（network layer）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "閘道器能在不同架構或協定的網路間進行轉換，並可運作於傳輸層、交談層等較高層級。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_047",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "OSI 網路模型中，提供網際網路訊息存取協定（Internet Message Access Protocol, IMAP）服務是在下列那上一層？\n(A)資料鏈結層（data link layer）\n(B)傳輸層（transport layer）\n(C)應用層（application layer）\n(D)網路層（network layer）",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "資料鏈結層（data link layer）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "傳輸層（transport layer）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "應用層（application layer）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "網路層（network layer）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "IMAP 是一種郵件存取協定，屬於 OSI 模型中直接與應用程式介接的應用層。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_048",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "SQL 語言對文字欄位查詢是否包含特定字串時，使用下列那個關鍵字？\n(A) SIMILAR\n(B) NEAR\n(C) EQUAL\n(D) LIKE",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "SIMILAR",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "NEAR",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "EQUAL",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "LIKE",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "LIKE 運算子配合萬用字元（如 % 或 _）可用於對字串欄位進行模糊搜尋與模式比對。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_049",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "SQL 語言中的 ALTER 指令，可以完成下列那項工作？\n(A)更新資料\n(B)賦予使用者權限\n(C)修改資料表綱目\n(D)建立索引",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "更新資料",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "賦予使用者權限",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "修改資料表綱目",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "建立索引",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "ALTER TABLE 指令用於修改已存在資料表的定義結構，如增加欄位、刪除欄位或更改欄位類型。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_050",
+    "category": "economics",
+    "stageId": "111_111010_509",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於物聯網（IoT）的描述，下列何者錯誤？\n(A)智慧家庭是主要應用之一\n(B)感測技術與連線能力的進步是重要的促成科技\n(C)結合人工智慧後稱為 AIoT\n(D) T 是 Technology 的縮寫",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "智慧家庭是主要應用之一",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "感測技術與連線能力的進步是重要的促成科技",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "結合人工智慧後稱為 AIoT",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "T 是 Technology 的縮寫",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "IoT 的全稱為 Internet of Things，其中的「T」代表「Things（事物或萬物）」。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "509",
+      "統計",
+      "資料處理大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  }
+]

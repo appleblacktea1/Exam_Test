@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "110_110010_001",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關高雄市政府地政局各地政事務所組織規程之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "其性質係屬於自治規則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "其性質係屬於組織法規",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "應依地方制度法第 27 條第 3 項規定函報行政院備查，並函送高雄市議會查照",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "由高雄市政府地政局公布施行",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "各地政事務所組織規程為自治規則，應由高雄市政府公布施行，而非由地政局自行公布。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_002",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者為內部單位？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "內政部地政司",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "南投縣埔里地政事務所",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "臺北市地政局土地開發總隊",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "內政部國土測繪中心",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "內政部地政司屬於內政部之內部幕僚單位，不具備獨立預算、編制及對外行文之權限。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_003",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於行政機關與內部單位之區別，下列何者非屬區別之標準？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "有無組織法規依據",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "有無獨立之辦公處所",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "有無獨立之編制預算",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "可否獨立對外行文",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "行政機關與內部單位的區別在於有無組織法規、獨立編制預算及印信行文，與辦公處所地點無涉。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_004",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者非屬地政機關之職權範圍？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "不動產交易管理",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國土測量",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "都市更新",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "地籍清理",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "都市更新權限主要隸屬於營建或都市發展機關，並非地政機關的核心職權範疇。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_005",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "祭祀公業派下全員證明書核發後，派下現員發現不動產清冊內有誤列建物或土地者，得檢具相關資料、證件，報經下列何機關公告 30 日無人異議後，更正不動產清冊？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "所在地登記機關",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "鄉（鎮、市）公所、區公所",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "直轄市或縣（市）政府",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中央地政機關",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "祭祀公業條例規定，派下全員證明書之核發及不動產清冊異議更正係向鄉（鎮、市、區）公所報准。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_006",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依地籍測量實施規則之規定，對於辦理測量使用之儀器設備有一定之規範。下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "登記機關訂定保養校正實施計畫，應送直轄市、縣（市）主管機關備查",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保養校正實施計畫之內容，應包含儀器設備之存放管理、保養維護、檢查校正項目及週期",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "直轄市、縣（市）主管機關應就測量儀器設備之折舊情形，報中央主管機關核定",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保養校正實施計畫之校正項目，應包含將儀器設備送至國家度量衡標準實驗室辦理校正，及出具校正報告",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "地方主管機關應訂定計畫報中央備查，規則中並無要求針對折舊情形報請中央主管機關核定之規定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_007",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "重新實施地籍測量時，土地所有權人應於地政機關通知之限期內，自行設立界標並到場指界。逾期未設立界標或到場指界者，應優先依下列何者施測？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "參照舊地籍圖",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "鄰地界址",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "地方習慣",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "現使用人之指界",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "土地法規定，逾期未設立界標或到場指界者，其施測優先順序首位為「鄰地界址」。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_008",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依土地登記規則之規定，關於申請區分所有建物所有權第一次登記，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "區分所有建物申請登記時，應檢具全體起造人就專有部分所屬各共有部分及基地權利應有部分之分配文件",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "區分所有權人申請建物所有權第一次登記，登記機關受理時，應於建物登記簿所有權部適當欄記明基地權利種類及範圍",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "區分所有建物共有部分之登記僅建立標示部及加附區分所有建物共有部分附表，其建號、總面積及權利範圍，應於各專有部分之建物所有權狀中記明之，不另發給所有權狀",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "區分所有建物，區分所有權人得就其專有部分及所屬共有部分之權利，單獨申請建物所有權第一次登記",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "登記機關應於建物登記簿「標示部」而非「所有權部」記明基地權利相關資訊。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_009",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "因地籍圖重測結果確定，辦理變更登記時，依土地登記規則之規定，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "因地籍圖重測確定，經鄰界之所有權人協議後，得以協議之結果定其標示範圍",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "建物因基地重測標示變更者，應逕為辦理基地號變更登記",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "因地籍圖重測確定，辦理變更登記時，應依據重測結果清冊重造土地登記簿辦理登記",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "重測前已設定他項權利者，應於登記完畢後通知他項權利人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "地籍圖重測確定後之變更登記，應依重測結果辦理，法律並無提供以鄰界所有權人協議結果定標示之程序。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_010",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "法人或寺廟於籌備期間取得之土地所有權或他項權利，已以籌備人之代表人名義登記者，其於取得法人資格或寺廟登記後，應申請為下列何者登記？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "名義更正登記",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "管理者變更登記",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "解散登記",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "更名登記",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "依土地登記規則，籌備期間以代表人名義登記者，於成立後申請變更為法人名義，應辦理「更名登記」。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_011",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依地籍測量實施規則之規定，下列何種情形，不得申請建物複丈？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "因建物增建",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "因建物滅失",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "未完成建物所有權第一次測量者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "因建物合併",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "申請建物複丈（如增建或合併）之前提是必須已完成建物所有權第一次測量並領有建號。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_012",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依國土計畫法規定，下列有關申請使用許可審議之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "申請使用許可範圍屬農業發展地區者，由直轄市、縣（市）主管機關審議",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "申請使用許可範圍屬城鄉發展地區者，由中央主管機關審議",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "申請使用許可範圍跨二個直轄市、縣（市）行政區以上者，由中央主管機關審議",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "申請使用許可範圍為填海造地案件者，由中央主管機關審議",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "申請使用許可範圍屬城鄉發展地區者，原則上由直轄市、縣（市）主管機關辦理審議。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_013",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依國土計畫法規定，從事未符合國土功能分區及其分類使用原則之一定規模以上或性質特殊之土地使用者，由該管直轄市、縣（市）主管機關處行為人新臺幣多少之罰鍰？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "6 萬元以上 30 萬元以下",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "30 萬元以上 150 萬元以下",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "100 萬元以上 500 萬元以下",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "500 萬元以上 1,000 萬元以下",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "國土計畫法第38條規定，此類違法土地使用行為，罰鍰額度為新臺幣100萬元至500萬元。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_014",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依國土計畫法規定，違反土地使用管制，若無法發現行為人時，直轄市、縣（市）主管機關應依序命其他主體限期停止使用或恢復原狀。有關命令之對象，其順序為下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "土地或地上物之使用人、管理人或所有人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "土地或地上物之所有人、使用人或管理人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "土地或地上物之管理人、使用人或所有人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "土地或地上物之所有人、管理人或使用人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "國土計畫法規定處分對象順序應先為使用人，其次為管理人，最後為所有人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_015",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關市地重劃地區選定後，地方政府得報經上級主管機關核定後，公告禁止或限制之事項，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "得禁止建築改良物之增建",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "得禁止土地移轉",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "得禁止土地分割及設定負擔",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "禁止或限制之期間得延長一次",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "平均地權條例第59條規定，重劃地區禁止或限制事項之期間不得延長，非得延長一次。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_016",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "國土計畫法有關國土功能分區之種類，下列何者不包括在內？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "農業發展地區",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國土復育地區",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國土保育地區",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "海洋資源地區",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "國土功能分區僅包含國土保育、海洋資源、農業發展及城鄉發展四類，國土復育地區屬配套措施或專區性質。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_017",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列關於都市更新條例所定都市更新之敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "都市更新案申請建築執照之相關法規適用，一律以申請建築執照日為準",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "核准都市更新事業概要前，主管機關應舉行聽證",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "有關都市更新事業計畫之核定，在計畫核定前已無爭議者，主管機關得不舉行聽證",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "於都市更新事業概要核准前，主管機關應舉行公聽會",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依都市更新條例，核定都市更新事業計畫前若已達成合意且無爭議，主管機關可免辦理聽證。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_018",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依都市計畫法規定，都市計畫應依據現在及既往情況，並預計多少年內之發展情形訂定之？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "25 年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "30 年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "50 年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "100 年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "都市計畫法第5條明定，都市計畫應預計25年內之發展情形進行訂定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_019",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依都市計畫法規定，都市計畫發布實施後，土地上原有建築物不合土地使用分區規定者，其所有權人不得為下列何種行為？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "出售",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "修繕",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "增建或改建",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "設定他項權利",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "對於不合分區規定的原有建築物，法律准許修繕，但嚴格禁止增建或改建，以利其自然淘汰。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_020",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "實施權利變換都市更新事業時，下列何者非屬權利變換範圍內應提供為共同負擔之公共設施用地？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "綠地",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "停車場",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "道路",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國民小學",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "都市更新條例列舉之共同負擔公共設施不包含國民小學，其餘如道路、綠地、停車場皆包含在內。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_021",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "外國人得依中華民國法律應不動產經紀人考試或參加營業員訓練。下列敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "外國人請領不動產經紀人證書，應向居留地直轄市或縣（市）主管機關申請之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "外國人經許可在中華民國充任經紀人員者，其有關業務上所為之文件、圖說，應以中華民國文字為之",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "應經直轄市、縣（市）政府許可，始得受僱於經紀業為經紀人員",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "應遵守中華民國一切法令",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "外國人受僱執行業務之許可權責機關為勞動部，非直轄市或縣（市）政府地政主管機關。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_022",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "都市地價指數每年定期於何時發布？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1 月 1 日及 7 月 1 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "1 月 15 日及 7 月 15 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "3 月 1 日及 9 月 1 日",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "3 月 15 日及 9 月 15 日",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "都市地價指數由內政部每半年發布一次，定期發布日期為每年的1月15日與7月15日。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_023",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依地價調查估計規則規定，有關買賣或收益實例調查之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "得採用不動產成交案件申報登錄之實際資訊",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "得採用公寓大廈管理負責人提供之資訊",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "得採用司法機關提供之資訊",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "得採用當事人提供之資訊",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "地價調查估計規則中，並未規定「公寓大廈管理負責人」為法定的買賣或收益實例資訊提供對象。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_024",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依租賃住宅市場發展及管理條例之規定，受出租人之委託，經營租賃住宅管理業務之公司，稱為下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "租賃住宅代管業",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "不動產代租業",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "不動產經紀業",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "租賃住宅包租業",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "代管業定義為受出租人委託，經營租賃住宅日常管理（如維修、收租等）之業務型態。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_025",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "地政士借牌給無地政士證照之第三人執行業務，依法應處以下列何種懲戒？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "罰鍰或警告",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "警告或申誡",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "申誡或停止執行業務",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "停止執行業務或除名",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "地政士借牌行為屬於重大情節，依地政士法規定處以停止執行業務或除名處分。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_026",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依耕地三七五減租條例之規定，有關耕地租佃，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "耕地因災歉致收穫量不及三成時，應予免租",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "出租人不得預收地租及收取押租",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "經依法變更為非耕地使用時，得終止耕地租約",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "承租人未自任耕作時，原訂租約終止，得由出租人收回自行耕種",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "承租人未自任耕作時，原訂租約無效而非終止，地政機關應收回後重新分配或處置，非由出租人直接收回。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_027",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "中華民國 89 年 1 月 28 日農業發展條例修正生效後始成立之農業用地租賃契約，未訂定期限者，依同條例規定下列有關終止租約之敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "雙方得隨時終止租約，但應於 1 年前通知對方",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "雙方得隨時終止租約，但應於 6 個月前通知對方",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "雙方得隨時終止租約，但應於 3 個月前通知對方",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "應先徵得對方同意後始得終止租約，如協議不成，得申請鄉（鎮、市、區）公所耕地租佃委員會調解",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "農業發展條例第20條規定，新簽訂之農地租賃契約未定期限者，雙方得隨時終止，但應於6個月前通知。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_028",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關區段徵收程序，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "需用土地人申請區段徵收，應檢具區段徵收計畫書、徵收土地圖冊及土地使用計畫圖",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "需用土地人申請區段徵收，應由當地直轄市或縣（市）主管機關邀集需用土地人及土地所有權人舉行公聽會",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "區段徵收土地，應由當地直轄市或縣（市）主管機關報請行政院核准",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "內政部申請區段徵收時，應報請行政院核准",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "區段徵收應由直轄市或縣（市）主管機關報請中央主管機關（內政部）核准，並非直接報請行政院。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_029",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依司法院釋字第 400 號解釋之意旨，下列有關形成公用地役關係私有既成道路之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "該私有既成道路性質屬他有公物",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "已構成土地所有權人之特別犧牲，國家自應依法律規定辦理徵收補償",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "該既成道路具有民法不動產役權之關係",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公用地役關係成立要件之一必須為通行之初，土地所有權人未為反對",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "公用地役關係屬於公法上的法制，與民法中基於合約或取得效力之不動產役權（私法關係）不同。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_030",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "土地徵收補償費之決定，係屬下列何者之行政處分？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "內政部",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "直轄市、縣（市）政府",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "需用土地機關",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "土地徵收審議小組",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "徵收補償費由直轄市或縣（市）主管機關依核准徵收之內容予以核算並辦理發給，為其職權處分。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_031",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "外國人經我國中央目的事業主管機關核准而取得之土地，未依核定期限及用途使用，亦未於直轄市、縣（市）政府通知之期限內自行出售者，直轄市、縣（市）政府依土地法規定得如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "依法徵收",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "依法照價收買",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "由財政部國有財產署按其取得原價強制收購後，登記為國有",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "逕為標售，所得價款發還土地所有權人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "土地法第20條規定，外國人未依限使用且未自行出售者，地政機關得逕為標售，將價款發還原所有人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_032",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當事人或利害關係人向行政機關申請閱覽卷宗時，下列何種情形行政機關不得拒絕？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政決定前之擬稿或準備作業文件",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "有侵害第三人隱私",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "涉及國防軍事機密",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "關於申請人自身權益之資料",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "行政程序法保障當事人申請閱覽涉及其自身權益之卷宗，機關原則上不得拒絕。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_033",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者非中央法規標準法所稱之「法律」？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "土地徵收條例",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "區段徵收實施辦法",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "土地法施行法",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "地方稅法通則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "「辦法」屬於行政命令，非中央法規標準法所指名稱為法、律、條例、通則之「法律」。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_034",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列敘述，何者為行政處分？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政機關就違章建築因逾期未補辦建造執照手續所為應執行拆除之通知",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政機關所為單純的事實之敘述或理由之說明",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政機關就所屬機關呈請核示事項所為指示處理之命令",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政機關就法令所為之釋示",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "拆除通知具備對外直接產生法律效果之性質，屬於行政處分，其他選項則多為內部命令或事實敘述。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_035",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "土地所有權人依農村社區土地重劃條例第 9 條規定申請自辦農村社區土地重劃，因直轄市或縣（市）主管機關對於核准重劃計畫之處理期間同條例並未規定，則依行政程序法規定，其處理期間為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "2 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "3 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "6 個月",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "依行政程序法第51條，人民之申請若無明文規定期間，則機關之處理期間為2個月。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_036",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依行政訴訟法規定，關於下列行政訴訟之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "因不動產徵收、徵用或撥用之訴訟，專屬不動產所在地之行政法院管轄",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "除不動產徵收、徵用或撥用之訴訟外，其他有關不動產之公法上權利或法律關係涉訟者，得由不動產所在地之行政法院管轄",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公法上之爭議，除法律別有規定外，得依行政訴訟法提起行政訴訟",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政訴訟，指撤銷訴訟、確認訴訟、給付訴訟及一般訴訟",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "行政訴訟法規定的訴訟類型包含撤銷、確認、給付訴訟，但法典中並無「一般訴訟」之項目名稱。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_037",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政程序法關於管轄之規定，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "管轄權非依法規不得設定或變更",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "機關得依法規將權限之一部分委任所屬下級機關",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政機關應於權限範圍內相互協助",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "數行政機關於管轄權有爭議時，由各該機關協議定之",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "管轄權爭議應由共同上級機關決定，不能由各機關私下自行協議訂定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_038",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政程序法中，有關利害關係人之規定，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "利害關係人得向行政機關申請閱覽、抄寫、複印或攝影有關資料或卷宗",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "書面之行政處分，應送達相對人及已知之利害關係人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政機關作成限制或剝奪人民自由或權利之行政處分前，通知已知之利害關係人陳述意見",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政處分之利害關係人有正當理由請求確認行政處分無效時，處分機關應確認其為有效或無效",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "作成限制權利之處分前，應通知「相對人」陳述意見，而非僅通知「利害關係人」。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_039",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關訴願程序之敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "僅得撤銷違法行政處分",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "訴願之提起，應自行政處分達到或公告期滿之次日起 30 日內為之",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "訴願人不得逕向訴願管轄機關提起訴願，應經原處分機關層轉",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "原行政處分機關對於訴願決定結果，其認訴願為有理由者，應陳報訴願管轄機關，撤銷或變更原行政處分",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "訴願法規定，訴願應於處分達到或公告期滿之次日起30日內提起，以保時效。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_040",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "非不動產經紀業而經營仲介或代銷業務者，主管機關應如何處理？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "限期改正而未改正者，處新臺幣 3 萬元以上 15 萬元以下罰鍰",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "暫時停止營業，3 年內依法領得不動產經紀業證照後始得繼續營業",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "處公司、商號負責人或行為人 1 年以下有期徒刑、拘役或科或併科新臺幣 10 萬元以上 30 萬元以下罰金",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "禁止其營業，並處公司、商號負責人或行為人新臺幣 10 萬元以上 30 萬元以下罰鍰",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "經紀業管理條例規定，非經紀業擅自經營者，應禁止其營業並處10萬至30萬罰鍰。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_041",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "主管機關經聽證程序後，核定發布實施都市更新事業計畫。如土地權利關係人對該核定不服，如何尋求救濟？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "先訴願，如不服，再提起行政訴訟",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "免訴願及先行程序，直接行政訴訟",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "強制調解，調解不成再提民事訴訟",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "得選擇申請調解，或直接行政訴訟",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "行政程序法與都更相關爭訟實務中，經聽證作成之行政處分，其救濟可免除訴願程序，直接提起行政訴訟。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_042",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依司法院釋字第 758 號解釋，土地所有權人依民法第 767 條第 1 項請求返還土地事件，如其攻擊防禦方法涉及公用地役關係存否之公法關係爭議者，其審判權歸屬於下列何法院？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "普通法院民事庭",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "普通法院行政庭",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "高等行政法院",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "普通法院或行政法院皆可",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依釋字758號，土地所有權人基於物權之私法爭訟應由普通法院審理，雖涉及公法爭議仍歸民事庭管轄。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_043",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依行政罰法第 18 條第 3 項規定，依同法規定減輕處罰時，同時有免除處罰之規定者，其裁處之罰鍰，不得逾法定罰鍰最高額之多少，亦不得低於法定罰鍰最低額之多少？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "不得逾法定罰鍰最高額之二分之一，亦不得低於法定罰鍰最低額之二分之一",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "不得逾法定罰鍰最高額之二分之一，亦不得低於法定罰鍰最低額之三分之一",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "不得逾法定罰鍰最高額之三分之一，亦不得低於法定罰鍰最低額之三分之一",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "不得逾法定罰鍰最高額之三分之一，亦不得低於法定罰鍰最低額之二分之一",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "行政罰法第18條第3項明確規定，減輕處罰時之罰鍰上限與下限均為法定數額之三分之一。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_044",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依都市更新條例規定，政府主導之都市更新業務，有關都市更新公開評選之爭議申訴，申訴人不服都更評選申訴會之申訴審議判斷時，應如何救濟？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "提交仲裁",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "提起行政訴訟",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "提起訴願",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "提起民事訴訟",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "都更評選申訴會之審議判斷視同訴願決定，不服者應逕行提起行政訴訟救濟。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_045",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者非屬行政處分？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "土地鑑界",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "土地分割登記",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "預告登記",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "非都市土地使用地編定之公告",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "土地鑑界屬於單純的事實鑑定，未直接對外產生法律效果之變動，故不屬於行政處分。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_046",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種情形，原行政處分效力之喪失，不需由行政機關再行作出行政處分？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "經取得開發許可之申請人違反原許可之土地使用計畫時",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "附負擔之授益處分，處分相對人未履行負擔時",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "徵收處分因作業錯誤，致原徵收土地不在工程用地範圍內時",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "土地徵收公告後，直轄市、縣（市）主管機關未於徵收公告期滿 15 日內發放補償費時",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "依土地法，未依限發放補償費將導致徵收處分「失效」，其效力係法律自動失效，不待機關另作處分。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_047",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者之行政行為，適用行政程序法之程序規定？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "各級民意機關",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "司法機關",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "考試機關",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "監察機關",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "行政程序法明定除民意、司法、監察等機關外，其他如考試機關之行政行為原則上仍適用其規定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_048",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依平均地權條例規定，土地所有權移轉時，權利人及義務人應於買賣案件辦竣移轉登記 30 日內，向主管機關申報登錄土地及建物成交案件實際資訊；主管機關對於違反規定者，應為下列何種處分？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "罰鍰",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "罰金",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "怠金",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "禁止登記",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "平均地權條例第81條之2規定，違反實際資訊登錄者，應依法處以罰鍰處分。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_049",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政機關對於行政處分所依據之事實或法律關係，經依職權調查仍不能確定者，為有效達成行政目的，並解決爭執，得採取下列何種行為，以代替行政處分？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "採取行政指導",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "應用行政規則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "研訂法規命令",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "締結行政契約",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "行政程序法第136條規定，事實或法律關係不明確時，機關得與人民締結和解性質之行政契約。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_050",
+    "category": "economics",
+    "stageId": "110_110010_514",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種情形，不需給予人民補償或賠償？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "受益人有信賴值得保護之情形，經處分機關撤銷違法授益行政處分",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "附負擔之授益處分，因未履行負擔，經處分機關廢止該授益行政處分者",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在有情事變遷時，行政機關為維護公益，命締結行政契約之人民繼續履行原約定義務",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "原處分雖違法，但其撤銷於公益有重大損害，經行政法院以情況判決駁回原告之訴者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "當事人未履行行政處分所附負擔而遭廢止處分時，係屬可歸責之事由，故不予補償。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "514",
+      "地政",
+      "土地行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  }
+]

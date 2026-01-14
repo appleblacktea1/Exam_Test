@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "110_110010_001",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者屬於租稅行政罰？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "撤銷登記",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "罰金",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "沒收",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "拘役",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "撤銷登記屬於行政罰中之租稅行政罰。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_002",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "現行稅捐稽徵法所稱相當擔保，係指相當於擔保稅款之擔保品，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "經中央銀行掛牌之外幣、上市或上櫃之有價證券，按八折計算",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "易於變價、無產權糾紛且能足額清償之土地或已辦妥建物所有權登記之房屋亦可當擔保品",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "銀行存款單摺，按存款本金額計值",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "黃金，按市場價格計算",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "黃金擔保品應按市場價格九折計算，而非按市場價格全額計值。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_003",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依稅捐稽徵法規定，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "稅捐稽徵機關認定課徵租稅之構成要件事實時，應以實質經濟事實關係及其所生實質經濟利益之歸屬與享有為依據",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "租稅規避及課徵租稅構成要件事實之認定，稅捐稽徵機關就其事實有舉證之責任",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "納稅義務人得在從事特定交易行為前，提供相關證明文件，向稅捐稽徵機關申請諮詢，稅捐稽徵機關應於 3 個月內答覆",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "納稅義務人基於獲得租稅利益，違背稅法之立法目的，濫用法律形式，規避租稅構成要件之該當，以達成與交易常規相當之經濟效果，為租稅規避",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依稅捐稽徵法，向稅捐稽徵機關申請諮詢後，其答覆期限應為6個月，而非3個月。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_004",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據現行稅捐稽徵法之規定，法人、合夥或非法人團體解散清算時，清算人於分配賸餘財產前，應依法按稅捐受清償之順序，繳清稅捐。清算人違反前項規定者，其未清繳之稅捐應由下列何者負擔繳納義務？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公司負責人或合夥組織之合夥人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "全體股東",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "清算人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "非法人團體之負責人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "清算人違反稅捐清償順序分配財產時，應由該清算人負擔未清繳稅捐之義務。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_005",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依稅捐稽徵法規定，稅捐稽徵機關對逃漏下列那些稅捐涉有犯罪嫌疑之案件，得敘明事由，聲請當地司法機關簽發搜索票後，會同當地警察或自治人員，進入藏置帳簿、文件或證物之處所，實施搜查？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "所得稅、營業稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "貨物稅、菸酒稅",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "貨物稅、營業稅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "所得稅、遺產及贈與稅",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "稅捐稽徵機關對於涉及逃漏所得稅或營業稅之犯罪嫌疑案件，得依法聲請搜索。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_006",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據現行稅捐稽徵法之規定，下列有關強制執行之敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "納稅義務人應納稅捐，於繳納期間屆滿 30 日後仍未繳納者，由稅捐稽徵機關移送強制執行",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "納稅義務人須繳納半數稅款並依法申請復查，才能暫緩移送強制執行",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "納稅義務人依規定繳納半數稅額確有困難，經稅捐稽徵機關核准，提供相當擔保者，得暫緩移送強制執行",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "納稅義務人繳納半數稅額及提供相當擔保確有困難，但稅捐稽徵機關已就納稅義務人相當於復查決定應納稅額之財產，通知有關機關，不得為移轉或設定他項權利者，得暫緩移送強制執行",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "對復查決定不服而提出訴願時，才需繳納半數稅款或提供相當擔保，以暫緩移送執行。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_007",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "納稅義務人依所得稅法第 15 條第 5 項規定選擇就其申報戶股利及盈餘合計金額按 28%稅率分開計算應納稅額者，不適用下列何種扣除之規定？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "薪資所得特別扣除及財產交易損失之扣除",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "幼兒學前特別扣除及長期照顧特別扣除",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "幼兒學前特別扣除及儲蓄投資特別扣除",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "儲蓄投資特別扣除及長期照顧特別扣除",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "股利分開計稅者，不適用儲蓄投資特別扣除額，且受排富條款限制亦不得扣除幼兒或長照扣除額。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_008",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依所得稅法規定，下列個人所得分類之敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "短期票券到期兌償金額超過首次發售價格部分為利息所得",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "與證券商或銀行從事結構型商品交易之所得屬其他所得",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "個人一時貿易之盈餘屬營利所得",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "個人領取之資遣費為薪資所得",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "資遣費屬於所得稅法規定之退職所得，並非薪資所得。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_009",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依所得稅法規定，下列何種所得須依規定課徵所得稅？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "依法經營不對外營業消費合作社之盈餘",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員所領政府發給之特支費",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "教育、文化、公益、慈善機關或團體，符合行政院規定標準者，其本身之所得及其附屬作業組織之所得",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "取自營利事業贈與之財產",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "個人取自營利事業贈與之財產應計入其他所得，依法課徵所得稅。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_010",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依現行所得稅法規定，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "綜合所得稅課稅級距之金額每遇消費者物價指數較上次調整年度之指數上漲累計達 10%以上時，按上漲程度調整之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "綜合所得稅課稅級距共分 6 級，最高稅率為 45%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "綜合所得稅課稅級距共分 5 級，最低稅率為 6%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "營利事業全年課稅所得額超過 12 萬元未逾 50 萬元者， 109 年度營利事業所得稅稅率為 20%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "109年度起，營利事業全年課稅所得額超過12萬元者，其稅率統一調整為20%。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_011",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "營利事業遇有解散、廢止、合併或轉讓情事時，應於截至解散、廢止、合併或轉讓之日止，辦理當期決算，於多久期限內，依規定格式，向該管稽徵機關申報其營利事業所得額及應納稅額，並於提出申報前自行繳納之？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "15 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "30 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "45 日",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "3 個月",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "營利事業遇解散或廢止等情事，應於45日內辦理當期決算申報。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_012",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關我國所得稅法所稱中華民國境內居住之個人之敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "在中華民國境內有住所，並經常居住中華民國境內者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "個人於一課稅年度內在中華民國境內設有戶籍，且於一課稅年度內在中華民國境內居住合計滿 31 天",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在中華民國境內無住所，而於一課稅年度內在中華民國境內居留合計滿 183 天者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中華民國境內居住之個人應辦理就源扣繳完稅",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "中華民國境內居住之個人應按規定辦理結算申報完稅，非僅透過就源扣繳完稅。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_013",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依稅捐稽徵法規定，下列那些稅捐之徵收優先於一切債權及抵押權？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "所得稅、行政執行處執行拍賣或變賣貨物應課徵之營業稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "貨物稅、地價稅",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "房屋稅、土地增值稅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "土地增值稅、遺產及贈與稅",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "土地增值稅、地價稅及房屋稅之徵收，優先於一切債權及抵押權。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_014",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據我國現行所得稅法之規定，下列有關免稅所得之敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "個人取自營利事業贈與之財產已納贈與稅，所以免課所得稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "傷害或死亡之損害賠償金，及依國家賠償法規定取得之賠償金免稅",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公、教、軍、警人員及勞工所領政府發給之實物配給或其代金及房租津貼免稅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "個人出售家庭日常使用之衣物、家具免稅",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "個人取自營利事業贈與之財產，應併入其他所得申報課徵所得稅，不具免稅資格。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_015",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "甲公司為總機構在中華民國境內之公司，其於民國 109 年 8 月出售房地一筆，售價 5,000 萬元，該房地為民國 108 年 12 月取得，取得成本為 4,800 萬元，持有期間未滿 1 年，土地漲價總數額 300 萬元，繳納土地增值稅 60 萬元。試問下列有關該筆房地交易之敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "甲公司出售該房地之交易所得為 200 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "甲公司出售該房地應計入營利事業所得額之數額為 0",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "甲公司出售持有未滿 1 年之房地應以 45%稅率分離課稅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "甲公司出售該房地之土地增值稅 60 萬元不得列為費用扣除",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "營利事業出售房地所得應併入營利事業所得額課稅，不適用個人房地合一稅之分離課稅率。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_016",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "王先生於民國 109 年度在國內有薪資收入 100 萬元、稿費收入 10 萬元、取自銀行利息收入 20 萬元，試問王先生民國 109 年度應申報之綜合所得總額為多少元？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "80 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "100 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "120 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "130 萬元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "稿費低於免稅額、利息低於特別扣除額均無需計入，故申報總額為薪資所得100萬元。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_017",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "除依規定不計入贈與總額之贈與外，贈與人在 1 年內贈與他人之財產總值超過贈與稅免稅額時，應於超過免稅額之贈與行為發生後多久時間內，向主管稽徵機關辦理贈與稅申報？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "15 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "30 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "2 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "6 個月",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "贈與人在一年內贈與他人之財產超過免稅額時，應於行為發生後30日內辦理申報。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_018",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依遺產及贈與稅法規定，遺產稅之納稅義務人依序為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "依法選定遺產管理人、遺囑執行人、繼承人及受遺贈人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "繼承人及受遺贈人、遺囑執行人、依法選定遺產管理人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "遺囑執行人、依法選定遺產管理人、繼承人及受遺贈人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "遺囑執行人、繼承人及受遺贈人、依法選定遺產管理人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "遺產稅納稅義務人順序依序為遺囑執行人、繼承人及受遺贈人、依法選定之遺產管理人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_019",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關我國遺產及贈與稅法之規定何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "被繼承人如為經常居住中華民國境外之中華民國國民，或非中華民國國民，不能減除遺產稅免稅額 1,200 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "遺產稅或贈與稅應納稅額在 30 萬元以上，納稅義務人確有困難，不能一次繳納現金時，得於納稅期限內，向該管稽徵機關申請，分 18 期以內繳納，每期間隔以不超過 2 個月為限",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "遺產稅或贈與稅應納稅額在 30 萬元以上，納稅義務人確有困難，不能一次繳納現金時，得於納稅期限內，就現金不足繳納部分申請以在中華民國境內之課徵標的物或納稅義務人所有易於變價及保管之實物一次抵繳",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "扶養義務人為受扶養人支付之生活費、教育費及醫藥費不計入贈與總額",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "經常居住境外之中華民國國民仍得減除遺產稅免稅額，其規定與境內居住者一致。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_020",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那一個選項不是我國遺產及贈與稅法第 16 條所稱不計入遺產總額之項目？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "遺贈人、受遺贈人或繼承人捐贈各級政府及公立教育、文化、公益、慈善機關之財產",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "約定於被繼承人死亡時，給付其所指定受益人之人壽保險金額、軍、公教人員、勞工或農民保險之保險金額",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "遺產中作農業使用之農業用地及其地上農作物，由繼承人或受遺贈人承受者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "被繼承人死亡前 5 年內，繼承之財產已納遺產稅者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "農業用地係由遺產總額中扣除其價值，而非屬「不計入遺產總額」之項目。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_021",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依平均地權條例規定，已規定地價之土地，每幾年重新規定地價一次。但必要時得延長之？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1 年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "2 年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "3 年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "5 年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "依平均地權條例，已規定地價之土地，應每2年重新規定地價一次。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_022",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依土地稅法規定，下列有關土地增值稅納稅義務人之敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "土地為有償移轉者，為取得所有權之人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "土地為無償移轉者，為原所有權人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "土地設定典權者，為典權人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "受託人就受託土地，於信託關係存續中，有償移轉所有權、設定典權或依信託法第 35 條第 1 項規定轉為其自有土地時，以受託人為納稅義務人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "信託土地於信託期間有償移轉或設定典權時，應以受託人為土地增值稅納稅義務人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_023",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依土地稅法規定，下列有關地價稅納稅義務人之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "設有典權土地，為出典人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "承領土地，為承領人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "承墾土地，為耕作權人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "土地為信託財產者，於信託關係存續中，以受託人為納稅義務人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "設有典權之土地，應以典權人為地價稅之納稅義務人，而非出典人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_024",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "加值型及非加值型營業稅法第四章第一節規定計算稅額之營業人，其進項稅額憑證，未於當期申報者，得延至次期申報扣抵。次期仍未申報者，應於申報扣抵當期敘明理由。但進項稅額憑證之申報扣抵期間，以幾年為限？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1 年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "3 年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "5 年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "10 年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "依營業稅法相關規定，進項稅額憑證之申報扣抵期間，最長以10年為限。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_025",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "我國土地稅法所稱空地，指已完成道路、排水及電力設施，於有自來水地區並已完成自來水系統，而仍未依法建築使用；或雖建築使用，而其建築改良物價值不及所占基地申報地價之多少，且經直轄市或縣（市）政府認定應予增建、改建或重建之私有及公有非公用建築用地？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "2‰",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "10‰",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "5%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "10%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "空地之認定標準包含建築改良物價值不及所占基地申報地價之百分之十者。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_026",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據我國土地稅法之規定，土地所有權移轉或設定典權，其申報移轉現值之審核標準，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "申報人逾訂定契約之日起 30 日始申報者，以受理申報機關收件日當期之公告土地現值為準",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "申報人於訂定契約之日起 30 日內申報者，以訂約日當期之公告土地現值為準",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "遺贈之土地，以其受遺贈人申報遺產稅日當期之公告土地現值為準",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "依法院判決移轉登記者，以申報人向法院起訴日當期之公告土地現值為準",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "法院判決移轉者，係以申報人向法院「起訴日」當期之公告土地現值為準，此為正確描述而非錯誤。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_027",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "土地所有權人出售其自用住宅用地，適用「一生一屋」土地增值稅優惠稅率之規定，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "出售都市土地面積未超過 3 公畝部分或非都市土地面積未超過 7 公畝部分",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "出售前持有該土地 5 年以上",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "出售前 5 年內，無供營業使用或出租",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "土地所有權人或其配偶、未成年子女於土地出售前，在該地設有戶籍且持有該自用住宅連續滿 5 年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "適用一生一屋規定時，需符合土地所有權人等在該地設有戶籍且持有連續滿5年。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_028",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依土地稅法規定，企業或公營事業興建之勞工宿舍，自動工興建或取得土地所有權之日起，其用地之地價稅如何徵收？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "免徵",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "按 2‰計徵",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "按 6‰計徵",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "按 10‰計徵",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "企業或公營事業興建之勞工宿舍用地，其地價稅按千分之二不累進稅率計徵。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_029",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依房屋稅條例規定，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "房屋為信託財產者，於信託關係存續中，以委託人為房屋稅之納稅義務人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "供自住或公益出租人出租使用者，其稅率為 2%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "房屋設有典權者，向出典人徵收之",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "房屋同時作住家及非住家用者，應以實際使用面積，分別按住家用或非住家用稅率，課徵房屋稅。但非住家用者，課稅面積最低不得少於全部面積六分之一",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "房屋混合使用時應按比例計稅，但非住家部分課稅面積最低不得少於總面積1/6。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_030",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據我國房屋稅條例的規定，下列何者不能免徵房屋稅？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "農會所有之自用倉庫及檢驗場，經主管機關證明者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "監獄看守所及其辦公房屋暨員工宿舍",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "住家房屋現值在新臺幣 10 萬元以下者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "業經立案之私立學校及學術研究機構，完成財團法人登記者，其供校舍或辦公使用之自有房屋",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "農會自用倉庫及檢驗場係屬房屋稅減半徵收之項目，而非免徵項目。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_031",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依契稅條例規定，下列有關契稅之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "買賣契稅，應由買受人申報納稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "典權契稅，應由出典人申報納稅",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "交換契稅稅率為其契價 2%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "贈與契稅稅率為其契價 6%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "典權契稅應由典權人（取得典權者）申報納稅，而非由出典人申報。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_032",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依加值型及非加值型營業稅法規定，營業稅稅率為零之貨物或勞務，不包括下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "依法設立之免稅商店銷售與過境或出境旅客之貨物",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保稅區營業人銷售與課稅區營業人未輸往課稅區而直接出口之貨物",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "供沿岸、近海漁業使用之漁船、供漁船使用之機器設備、漁網及其用油",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "銷售與保稅區營業人供營運之貨物或勞務",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "供漁船使用之機器設備及用油屬於免徵營業稅之項目，而非零稅率項目。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_033",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據我國加值及非加值型營業稅法之規定，營業人申報之溢付稅額，下列何者情況不能由主管稽徵機關查明後退還之？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "因銷售適用零稅率貨物或勞務而溢付之營業稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "因為本期尚未銷售導致銷項稅額小於進項稅額",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "因合併、轉讓、解散或廢止申請註銷登記者，其溢付之營業稅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "因取得固定資產而溢付之營業稅",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "因本期尚未銷售而產生的溢付稅額，應留抵下期，不具備申請退還之條件。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_034",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依加值型及非加值型營業稅法規定，有關營業稅稅率之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保險業之再保費收入之稅率為 1%",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "銀行業、保險業經營銀行、保險本業銷售額之稅率為 5%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "證券業經營非專屬本業銷售額之稅率為 5%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "信託投資業經營專屬本業銷售額之稅率為 5%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "信託投資業經營專屬本業銷售額之稅率應為2%，而非5%。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_035",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依加值型及非加值型營業稅法規定，免徵營業稅之貨物或勞務，不包括下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "進口本國之古物",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "純金之金飾或飾金之加工費",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "出售之土地",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "肥料、農業、畜牧用藥、農耕用之機器設備、農地搬運車及其所用油、電",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "金飾或飾金之加工費屬於提供勞務，應課徵營業稅，並非免稅項目。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_036",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據我國加值型及非加值型營業稅法之規定，下列有關營業稅銷售額之敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "營業人銷售貨物或勞務所收取之全部代價，應包括營業人在貨物或勞務之價額外收取之一切費用",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "營業稅法第 14 條所稱之銷售額應包含當次銷售之營業稅額",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "空運事業中的客運，其銷售額是指自中華民國境內承載旅客至中華民國境外第一站間之票價",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "應徵貨物稅、菸酒稅或菸品健康福利捐之貨物，其銷售額應加計貨物稅額、菸酒稅額或菸品健康福利捐金額在內",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "依營業稅法規定，銷售額不應包含當次銷售時應收之營業稅額。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_037",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依法取得從事按摩資格之視覺功能障礙者經營，且全部由視覺功能障礙者提供按摩勞務之按摩業，其營業稅稅率為多少？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "免稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "0.1%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "1%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "5%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "視覺功能障礙者經營之按摩業，其營業稅稅率按1%課徵。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_038",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "住在臺灣的小明是中華民國國民，熱衷網路購物，若小明在感恩節透過美國電商亞馬遜網站直接購入咖啡機一部價值 2 萬元，並選擇直接寄送到臺灣，試問該貨物之進口營業稅應由誰繳納？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "由境外電商繳納",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "由收貨人小明繳納",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在境外購買貨物進口無須繳納我國的營業稅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "由境外電商委託臺灣的代理人繳納",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "進口貨物之營業稅，其納稅義務人為收貨人、提貨單持有人或持有人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_039",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依加值型及非加值型營業稅法規定，營業人下列進項稅額，何者得扣抵銷項稅額？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "購買交際應酬用之貨物",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "購買非供本業及附屬業務使用之貨物捐獻給政府",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "購買酬勞員工個人之貨物",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "購買自用乘人小汽車",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "營業人捐獻給政府之貨物，其進項稅額准予扣抵銷項稅額。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_040",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依貨物稅條例規定，下列何者應採從量課徵貨物稅？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "溶劑油",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "平板玻璃",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "冷暖氣機",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "農耕機用之橡膠輪胎",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "油氣類（如溶劑油）及水泥類之貨物稅係採從量課徵方式。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_041",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依貨物稅條例規定，下列應稅貨物，何者不得免徵貨物稅？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "用作製造另一應稅貨物之原料者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "運銷國外者",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "經國防部核定直接供軍用之貨物",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "參加展覽，並予出售者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "參加展覽之應稅貨物，若予以出售者，則不得免徵貨物稅。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_042",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依特種貨物及勞務稅條例規定，家具每件銷售價格或完稅價格達新臺幣多少元者，為特種貨物，應依規定課徵特種貨物及勞務稅？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "30 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "50 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "100 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "300 萬元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "家具每件銷售價格或完稅價格達新臺幣50萬元者，應課徵特種貨物及勞務稅。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_043",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依菸酒稅法規定，有關菸酒稅之納稅義務人，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國內產製之菸酒，為產製廠商",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "委託代製之菸酒，為受託之產製廠商",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "法院及其他機關拍賣尚未完稅之菸酒，為產製廠商",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國外進口之菸酒，為收貨人、提貨單或貨物持有人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "法院及其他機關拍賣尚未完稅之菸酒，納稅義務人為拍定人、承受人或買受人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_044",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "為防制老舊大型柴油車污染，改善空氣品質，自中華民國 106 年 8 月 18 日起至 111 年 12 月 31 日止，報廢符合規定之大客車、大貨車、大客貨兩用車等車輛，並購買上開車輛新車且完成新領牌照登記者，該等新車應徵之貨物稅每輛最多減徵新臺幣多少元？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "2 萬 5 千元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "5 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "10 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "40 萬元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "符合資格之老舊大型柴油車報廢換新，每輛最高可減徵貨物稅40萬元。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_045",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "離島建設條例適用地區之交通工具在該地區領照使用者，免徵使用牌照稅，但小客車汽缸總排氣量超過多少立方公分者，不予免徵？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1,500 立方公分",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "1,800 立方公分",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "2,000 立方公分",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2,400 立方公分",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "離島免徵牌照稅規定中，小客車排氣量若超過2,400立方公分則不予免徵。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_046",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依證券交易稅條例規定，代徵人依照法定程序及期限完成其代徵義務者，該管稽徵機關應按其代徵稅額給與多少比例獎金？但每一代徵人每年以新臺幣多少元為限？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1‰；2,400 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "3‰；2,400 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "1‰；1,200 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "3‰；1,200 萬元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "證券交易稅代徵人可獲代徵稅額1‰之獎金，每年最高以2,400萬元為限。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_047",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關印花稅法之敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "買賣動產契據：每件稅額 4 元，由立約或立據人貼印花稅票",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "典賣、讓售及分割不動產契據：每件按金額 3‰，由立約或立據人貼印花稅票",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "承攬契據：每件按金額 1‰，由立約或立據人貼印花稅票",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "銀錢收據：每件按金額 4‰，由立據人貼印花稅票",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "典賣、讓售及分割不動產契據，其印花稅率應按金額之1‰計課，而非3‰。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_048",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依財政收支劃分法規定，下列何者屬於國稅？①菸酒稅 ②印花稅 ③遺產及贈與稅 ④證券交易稅 ⑤娛樂稅",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "③④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "②③⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "菸酒稅、遺產及贈與稅、證券交易稅均屬於國稅項目；印花稅與娛樂稅為地方稅。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_049",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依財政收支劃分法規定，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "所得稅總收入 10％，應由中央統籌分配直轄市、縣（市）及鄉（鎮、市）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "貨物稅總收入 10%，應由中央統籌分配直轄市、縣（市）及鄉（鎮、市）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "營業稅總收入減除依法提撥之統一發票給獎獎金後之 10%，應由中央統籌分配直轄市、縣（市）及鄉（鎮、市）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "遺產及贈與稅，應以在直轄市徵起之收入 50%給該直轄市；在市徵起之收入 80%給該市；在鄉（鎮、市）徵起之收入 80%給該鄉（鎮、市）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "營業稅除依法提撥之獎金後，應由中央統籌分配，其比例並非僅為10%。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_050",
+    "category": "chinese",
+    "stageId": "110_110010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者應以其總收入 18%按人口比例分配直轄市及臺灣省各縣（市）；2%按人口比例分配福建省金門及連江二縣？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "菸酒稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "證券交易稅",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "關稅",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "所得稅",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "菸酒稅收入之18%與2%應分別按人口比例分配予各縣市及金馬地區。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "稅務法規大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  }
+]

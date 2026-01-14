@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "110_110010_001",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "違反告知對保險契約的法律效果為何？ (A)保險人應解除契約 (B)保險契約無效 (C)保險契約終止 (D)保險人得解除契約",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保險人應解除契約",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保險契約無效",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保險契約終止",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險人得解除契約",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "根據保險法第64條規定，要保人違反誠實告知義務時，保險人依法取得解除契約的權利。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_002",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設保險公司在 2020 年 7 月 1 日承保 1 千件 1 年期之汽車保險，共收取保費 2 萬元，到年底結算時，請問需提存多少未滿期保費準備金？ (A) 5 千元 (B) 1 萬元 (C) 1 萬 5 千元 (D) 2 萬元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "5 千元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "1 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "1 萬 5 千元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2 萬元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "一年期保單於七月承保，至年底僅過半年，故需提存剩下半年的保費即一萬元作為未滿期準備金。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_003",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "屬於備查制的保險商品，保險業得逕行銷售，但仍須在幾個工作日內檢附資料，送交主管機關備查？ (A) 5 日 (B) 10 日 (C) 15 日 (D) 20 日",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "5 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "10 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "15 日",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "20 日",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依保險商品銷售前程序作業準則，採備查方式辦理者應於銷售後十五個工作日內檢送相關資料。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_004",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據我國保險法的規定，人壽保險之保險費付足多久以上者，要保人得以保險契約為質，向保險人借款？ (A)半年 (B) 1 年 (C) 1 年半 (D) 2 年",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "半年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "1 年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "1 年半",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2 年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "依保險法第120條，保險費付足一年以上且有保單價值準備金者，要保人始得向保險人申請保單質借。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_005",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種保險商品可提供社會上經濟弱勢或特定身分者基本人身保險之保障，並具有低保額與低保費的特色？ (A)投資型保險 (B)外幣保單 (C)微型保險 (D)變額萬能壽險",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "投資型保險",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "外幣保單",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "微型保險",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "變額萬能壽險",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "微型保險係指為經濟弱勢者提供基本保障之保險，其保費較低、保額有限且內容簡單。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_006",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據我國保險法的規定，人身保險合作社之預定社員人數不得少於多少人？ (A) 300 人 (B) 400 人 (C) 500 人 (D) 1000 人",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "300 人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "400 人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "500 人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "1000 人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "根據保險法第155條規定，人身保險合作社之預定社員人數不得少於五百人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_007",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "保險法第 8 條之 1 所稱之業務員是為下列何者從事保險招攬之人？①保險經紀人公司 ②保險代理人公司 ③保險業 ④兼營保險經紀人業務之銀行 ⑤兼營保險代理人業務之銀行 (A)僅③④⑤ (B)僅①②④⑤ (C)僅①②③④ (D)①②③④⑤",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "僅③④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "僅①②④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "僅①②③④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "保險業務員係指為保險業、保險經紀人或代理人（含兼營銀行）從事保險招攬的人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_008",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "甲經理擔心出國參加會議，可能會在國外或飛機上感染新冠病毒（COVID-19）。所以在疫情盛行期間，為避免在國外染疫，甲經理不出國且將所有會議改為網路視訊舉行，此種危險管理方式屬於下列何者？ (A)危險迴避 (B)危險分散 (C)危險隔離 (D)危險移轉",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "危險迴避",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "危險分散",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "危險隔離",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "危險移轉",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "甲經理透過完全不出國的方式，消極地避開可能產生染疫危險的行為，屬於危險迴避。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_009",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬於保險法第 55 條所規定的基本條款？ (A)保險之標的物 (B)保險費 (C)保險事故之種類 (D)保險價額",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保險之標的物",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保險費",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保險事故之種類",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險價額",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "保險價額僅存在於財產保險中，且非保險法第55條規範所有保險契約通用的法定應記載事項。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_010",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據我國保險法的規定，要保人或被保險人為避免或減輕損害之必要行為所生之損害防阻費用，由誰負責償還？ (A)要保人 (B)被保險人 (C)貨主 (D)保險人",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "要保人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "被保險人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "貨主",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "依保險法第33條規定，為減輕損害所支出之必要費用，即使賠償金額達保額，保險人仍應負擔。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_011",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關人壽保險費率釐訂因素的敘述何者錯誤？ (A)假設其他條件相同，預定死亡率越高則保費越高 (B)假設其他條件相同，預定利率越高則保費越高 (C)假設其他條件相同，附加費用率越高則保費越高 (D)若預定附加費用率高於實際附加費用率，則有費差益產生",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "假設其他條件相同，預定死亡率越高則保費越高",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "假設其他條件相同，預定利率越高則保費越高",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "假設其他條件相同，附加費用率越高則保費越高",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "若預定附加費用率高於實際附加費用率，則有費差益產生",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "預定利率越高，表示未來支出的折現率越高，因此計算出的當前保費應該越低。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_012",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據我國保險法的規定，要保人對於下列何者的生命或身體不具人身保險上的保險利益？ (A)本人或其家屬 (B)生活費或教育費所仰給之人 (C)債權人 (D)為本人管理財產或利益之人",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "本人或其家屬",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "生活費或教育費所仰給之人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "債權人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "為本人管理財產或利益之人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依保險法第16條，債權人對債務人具備保險利益，但反之債務人（要保人）對債權人不具保險利益。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_013",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據我國保險法的規定，以未成年人為被保險人訂立之人壽保險契約，除喪葬費用外，其餘死亡給付之約定於被保險人滿幾歲時始生效力？ (A) 15 (B) 16 (C) 18 (D) 20",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "15",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "16",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "18",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "20",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依保險法第107條，以未滿十五歲之未成年人為被保險人，其死亡給付於滿十五歲後始生效力。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_014",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者並非逆選擇之現象或其發生的原因？ (A)高風險的人傾向購買更多保險 (B)低風險的人傾向購買更多保險 (C)由於資訊不對稱 (D)由於保險公司以平均費率收取保費",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "高風險的人傾向購買更多保險",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "低風險的人傾向購買更多保險",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "由於資訊不對稱",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "由於保險公司以平均費率收取保費",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "逆選擇是指高風險者比低風險者更有動機投保，低風險者購買更多保險並非逆選擇。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_015",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關再保險的敘述何者錯誤？ (A)保險公司將承受風險的一部分分出給其他保險公司，稱之再保險 (B)再保險為原保險契約的延伸 (C)再保險人為進行風險分散，將部分再保險業務轉予其他保險公司，稱為轉再保 (D)透過再保險，可以提供原保險公司擴大承保能量",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保險公司將承受風險的一部分分出給其他保險公司，稱之再保險",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "再保險為原保險契約的延伸",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "再保險人為進行風險分散，將部分再保險業務轉予其他保險公司，稱為轉再保",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "透過再保險，可以提供原保險公司擴大承保能量",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "再保險為原保險人與再保險人間簽訂之獨立契約，基於契約相對性原理，並非原保險契約之延伸。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_016",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是可保風險的要件之一？ (A)危險單位多且性質相同 (B)損失必須為意外 (C)損失需同時發生 (D)損失金額可衡量",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "危險單位多且性質相同",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "損失必須為意外",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "損失需同時發生",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "損失金額可衡量",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "可保風險要求損失須為非巨災性，即危險單位間應互不相關，不能同時發生大規模損失。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_017",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "衡量保險業在一個國家或地區的重要性有幾個指標，其中保險滲透度（Insurance Penetration）的定義為： (A)保險金額對國內生產毛額之比率 (B)保費收入對國內生產毛額之比率 (C)保險金額對人口數之比率 (D)保費收入對人口數之比率",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保險金額對國內生產毛額之比率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保費收入對國內生產毛額之比率",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保險金額對人口數之比率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保費收入對人口數之比率",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "保險滲透度是指一國保費收入佔其國內生產毛額（GDP）之百分比率。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_018",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「保險」常是下列那一種情形之風險管理方法的首選？ (A)損失頻率高、損失幅度高 (B)損失頻率低、損失幅度高 (C)損失頻率高、損失幅度低 (D)損失頻率低、損失幅度低",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "損失頻率高、損失幅度高",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "損失頻率低、損失幅度高",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "損失頻率高、損失幅度低",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "損失頻率低、損失幅度低",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "保險最適用於發生機率雖低，但一旦發生將造成嚴重財務負擔（損失幅度高）的危險。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_019",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "物流業者在全臺各地設有倉庫以方便調度貨物，為保障存放於倉庫內的貨物，物流業者可投保下列何種保險，其保險標的之內容可以交替流動，理賠也較具彈性？ (A)個別保險契約 (B)集合保險契約 (C)總括保險契約 (D)特定保險契約",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "個別保險契約",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "集合保險契約",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "總括保險契約",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "特定保險契約",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "總括保險（Blanket Policy）適用於地點不固定或標的物內容經常變動之情況，理賠較具彈性。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_020",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "臺灣對保險業之財務監理採風險基礎資本制，請問目前公布的風險基礎資本比率未達多少時，保險公司必須改善或補足資本？ (A) 100% (B) 150% (C) 200% (D) 250%",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "100%",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "150%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "200%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "250%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "我國保險法規定，保險業資本適足率（RBC）若低於百分之二百，即屬資本不足。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_021",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "臺灣保險業之安定基金的財源是由誰籌措？ (A)由各家保險業者事後分攤 (B)由各家保險業者事前提撥 (C)由中央存款保險股份有限公司提撥 (D)由金融監督管理委員會提撥",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "由各家保險業者事後分攤",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "由各家保險業者事前提撥",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "由中央存款保險股份有限公司提撥",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "由金融監督管理委員會提撥",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "安定基金財源主要來自保險業者按保費收入一定比率，於業務經營時事前提撥累積而成。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_022",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關相互保險公司的敘述何者正確？ (A)相互保險公司是由保單持有人所擁有 (B)相互保險公司必須定期召開股東大會 (C)相互保險公司以發行股票籌措資金 (D)目前各國相互保險公司的保費採賦課制",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "相互保險公司是由保單持有人所擁有",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "相互保險公司必須定期召開股東大會",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "相互保險公司以發行股票籌措資金",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "目前各國相互保險公司的保費採賦課制",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "相互保險公司為保險人與被保險人合一，其所有權歸屬於全體保單持有人而非股東。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_023",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "海上保險中，被保險人移轉保險標的物之一切權利於保險人，而請求支付該保險標的物全部保險金額之行為，稱之為： (A)移轉 (B)轉讓 (C)代位 (D)委付",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "移轉",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "轉讓",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "代位",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "委付",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "委付係海上保險標的物推定全損時，被保險人將一切權利移轉保險人並請求全額賠償之法律行為。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_024",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設汽車保險之純保險費為 1 萬元，附加費用率為總保費的 20%，請問附加費用為多少？ (A) 2 千元 (B) 2 千 5 百元 (C) 3 千元 (D) 5 千元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "2 千元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "2 千 5 百元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "3 千元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "5 千元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "總保費=純保費/(1-附加費用率)=10000/(1-0.2)=12500，故附加費用為2500元。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_025",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "保險公司行使代位求償權時，係以何人之名義行使？ (A)要保人之名義 (B)第三人之名義 (C)被保險人之名義 (D)保險公司自己之名義",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "要保人之名義",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "第三人之名義",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "被保險人之名義",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險公司自己之名義",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "依保險法第53條規定，保險人於給付賠償金額後，得以自己名義代位行使被保險人之權利。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_026",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據我國保險法的規定，複保險是指要保人： (A)對於不同保險利益，不同保險事故，與數個保險人分別訂立數個保險之契約行為 (B)對於同一保險利益，不同保險事故，與數個保險人分別訂立數個保險之契約行為 (C)對於不同保險利益，同一保險事故，與數個保險人分別訂立數個保險之契約行為 (D)對於同一保險利益，同一保險事故，與數個保險人分別訂立數個保險之契約行為",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "對於不同保險利益，不同保險事故，與數個保險人分別訂立數個保險之契約行為",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "對於同一保險利益，不同保險事故，與數個保險人分別訂立數個保險之契約行為",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "對於不同保險利益，同一保險事故，與數個保險人分別訂立數個保險之契約行為",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "對於同一保險利益，同一保險事故，與數個保險人分別訂立數個保險之契約行為",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "保險法第35條規定，複保險係指要保人就同一保險利益、同一保險事故，與數個保險人訂立數個契約。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_027",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "就財產保險而言，保險利益需存在於何時？ (A)訂立契約時 (B)繳交保費時 (C)保險事故發生時 (D)不需保險利益",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "訂立契約時",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "繳交保費時",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保險事故發生時",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "不需保險利益",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "財產保險旨在填補實際損失，故保險利益必須在保險事故發生時存在，否則即無損害可言。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_028",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "保險契約中有關申請恢復保單效力之期限，根據我國保險法的規定，自停止效力之日起不得低於多久，並不得遲於保險期間之屆滿日？ (A) 30 日 (B) 6 個月 (C) 1 年 (D) 2 年",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "30 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "6 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "1 年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2 年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "保險法第116條規定，保險契約停效後，申請復效之期限自停效日起不得低於六個月。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_029",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "不由於要保人或被保險人之行為所致之危險增加，根據我國保險法的規定，應於知悉後幾日內通知保險人？ (A) 3 日 (B) 5 日 (C) 10 日 (D) 15 日",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "3 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "5 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "10 日",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "15 日",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "依保險法第59條，非因要保人或被保險人行為所致之危險增加，應於知悉後十五日內通知。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_030",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設有一批貨物投保海上保險並採取優先賠償制（primary coverage basis），該批貨物原產地之保險價額為 200 萬，保險單 A 承保生效日期較早，保額為 150 萬；保險單 B 承保生效日期較晚，保額為 100 萬。若兩張保險單皆生效後發生海難，貨物損失金額為 200 萬，則保險單 A 與 B 各應分擔多少賠款？ (A)保險單 A 為 100 萬，保險單 B 為 100 萬 (B)保險單 A 為 120 萬，保險單 B 為 80 萬 (C)保險單 A 為 150 萬，保險單 B 為 50 萬 (D)保險單 A 為 200 萬，保險單 B 為 0 元",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保險單 A 為 100 萬，保險單 B 為 100 萬",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保險單 A 為 120 萬，保險單 B 為 80 萬",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保險單 A 為 150 萬，保險單 B 為 50 萬",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險單 A 為 200 萬，保險單 B 為 0 元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "優先賠償制係由生效在先之保單先行賠付，超額部分才由次一保單負擔，但本題A保單限額即足以Cover。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_031",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "乙為某棟建築物投保商業火險，保險金額為 360 萬並約定 80%共保條款，若發生火災損失金額為 300 萬，當時建築物實際價值為 600 萬，試問乙可獲得理賠金額為何？ (A) 180 萬 (B) 225 萬 (C) 300 萬 (D) 360 萬",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "180 萬",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "225 萬",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "300 萬",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "360 萬",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "應保金額為600萬*80%=480萬。理賠金額 = 損失300萬 * (實投360萬/應保480萬) = 225萬。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_032",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那些項目是我國財產保險業計算風險資本時的風險項目？①資產風險 ②信用風險 ③利率風險 ④保險風險 ⑤資產負債配置風險 (A)僅①②⑤ (B)僅①④⑤ (C)僅①②④⑤ (D)①②③④⑤",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "僅①②⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "僅①④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "僅①②④⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "財產保險風險資本不包含人壽保險特有的利率風險，其餘項目皆為計算範疇。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_033",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "國際財務報導準則第 17 號公報（International Financial Reporting Standards 17, IFRS 17）是有關「保險合約」的會計準則公報，未來對保險業的經營與財務報表編制將有重大之影響。請問臺灣預定何時實施 IFRS 17？ (A) 2023 年 (B) 2024 年 (C) 2025 年 (D) 2026 年",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "2023 年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "2024 年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "2025 年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2026 年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "我國金管會規劃保險業自2026年1月1日起正式適用國際財務報導準則第17號（IFRS 17）。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_034",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種風險並非保險可保的風險？ (A)投機風險 (B)人身風險 (C)財產風險 (D)責任風險",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "投機風險",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "人身風險",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "財產風險",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "責任風險",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "投機風險同時包含獲利與損失可能，因涉及人為操縱且不符社會公益，通常為保險所不保。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_035",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "非比例再保險是以何種金額作為再保的責任基礎？ (A)帳面金額 (B)保險價額 (C)保險金額 (D)損失金額",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "帳面金額",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保險價額",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保險金額",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "損失金額",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "非比例再保險（如超額賠款再保）係依據實際發生損失金額的高低來決定再保責任之分攤。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_036",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "人壽保險的定價因素包含死亡率、利率、附加費用率，假設其他條件不變，利率由 5%降為 3%，則新的費率： (A)不一定較高或較低 (B)比較低 (C)比較高 (D)不影響",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "不一定較高或較低",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "比較低",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "比較高",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "不影響",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "利率降低代表未來保險金給付的折現值提高，因此保險公司必須收取較高的費率以補足缺口。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_037",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "保險人在核保時會對於可能發生逆選擇風險之個體採取因應措施，假設核保人員面對危險較高的被保險人，下列那項因應措施較為不合理？ (A)調高保費 (B)調高保額 (C)設定自負額 (D)設置除外不保事項",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "調高保費",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "調高保額",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "設定自負額",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "設置除外不保事項",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "對高風險對象應縮減保障規模以防範道德危險，調高保額會增加保險人風險，極不合理。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_038",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那些項目屬於海上保險的默示保證（implied warranty）？①船舶須有適航能力之保證 ②船舶不可改變航程之保證 ③船舶國籍保證 ④船舶與貨物合法性之保證 ⑤船員人數及設備之保證 (A)僅①②③ (B)①③⑤ (C)僅①②④ (D)①②③④",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "僅①②③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "①③⑤",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "僅①②④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "海上保險之默示保證主要包括：適航保證、不改變航程保證及合法性保證。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_039",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那一原則不適用於人壽保險？ (A)近因原則 (B)損害補償原則 (C)最大誠信原則 (D)保險利益原則",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "近因原則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "損害補償原則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "最大誠信原則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險利益原則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "人身價值無法以金錢精確衡量，故採定額給付，不適用填補實際經濟損失的損害補償原則。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_040",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "人壽保險保單的淨危險保額（Net Amount at Risk）之定義為： (A)保單的總保費和淨保費的差額 (B)保單的保險金額和保單之準備金的總和 (C)保單的淨保費和總保費的總和 (D)保單的保險金額和保單之準備金的差額",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保單的總保費和淨保費的差額",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保單的保險金額和保單之準備金的總和",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保單的淨保費和總保費的總和",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保單的保險金額和保單之準備金的差額",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "淨危險保額係指保險事故發生時，保險人實際承擔風險的部分，即保額扣除已累積的責任準備金。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_041",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "保險與賭博相似之處主要在於保險契約具有何種契約特性？ (A)附合契約 (B)有償契約 (C)非要式契約 (D)射倖契約",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "附合契約",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "有償契約",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "非要式契約",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "射倖契約",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "射倖性指給付之履行取決於偶然事件之發生，此特性為保險與賭博之共同點。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_042",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "損失率是衡量財產保險經營的重要指標，其計算方式為： (A)已發生賠款除以保險費 (B)保險費除以已發生賠款 (C)已發生賠款除以保險金額 (D)保險金額除以已發生賠款",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "已發生賠款除以保險費",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保險費除以已發生賠款",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "已發生賠款除以保險金額",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險金額除以已發生賠款",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "損失率的定義為一段期間內保險公司已發生之理賠金額與所收取保險費之比率。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_043",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "學生團體保險規定自費的醫療費用若低於 500 元，要被保險人負擔，但只要超過 500 元門檻，學生團體保險就會全數理賠，該自負額的約定屬於： (A)扣除式自負額 (B)起賠式自負額 (C)累積式自負額 (D)消失型自負額",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "扣除式自負額",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "起賠式自負額",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "累積式自負額",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "消失型自負額",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "起賠式自負額指損失未達額度時不賠，一旦超過該額度則由保險公司就損失全額進行賠償。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_044",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那些項目為保險契約的性質？①最大誠信契約 ②附合契約 ③條件契約 ④繼續契約 (A)僅①②④ (B)僅①③④ (C)僅②③ (D)①②③④",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "僅①②④",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "僅①③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "僅②③",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①②③④",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "保險契約具備最大誠信、附合、條件（給付須視事故發生與否）及長期的繼續性契約等性質。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_045",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何項不是保險契約法定無效之原因？ (A)被保險人年齡不實且超過年齡上限 (B)要保人意圖不當得利而為複保險 (C)保險標的之危險在契約訂立時已發生 (D)保險契約當事人之一方違背特約條款",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "被保險人年齡不實且超過年齡上限",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "要保人意圖不當得利而為複保險",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保險標的之危險在契約訂立時已發生",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險契約當事人之一方違背特約條款",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "違背特約條款之法律效果為保險人得解除契約，而非使契約當然無效。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_046",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那些危險管理的方法是屬於危險理財（Risk Financing）的類型？①危險自留 ②危險隔離 ③自己保險 ④專屬保險 ⑤危險避免 (A)①②③ (B)僅③④ (C)僅①③④ (D)①③④⑤",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "僅③④",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "僅①③④",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "①③④⑤",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "危險理財旨在籌措損失發生後的資金，包含危險自留、自己保險、專屬保險及保險轉移等。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_047",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據保險法第 116 條，下列有關人壽保險契約效力停止之敘述何者錯誤？ (A)除契約另有訂定外，催告通知到達後屆滿 30 日仍不繳付保費，保險契約停效 (B)停效期間保險人收到要保人可保證明，15 日內不為拒絕者視為同意復效 (C)保險費到期未交付時，保費催告通知應送達要保人、被保險人及受益人 (D)保險人於停效之日起屆滿達 2 年，得有終止契約之權利",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "除契約另有訂定外，催告通知到達後屆滿 30 日仍不繳付保費，保險契約停效",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "停效期間保險人收到要保人可保證明，15 日內不為拒絕者視為同意復效",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "保險費到期未交付時，保費催告通知應送達要保人、被保險人及受益人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保險人於停效之日起屆滿達 2 年，得有終止契約之權利",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依保險法規定，催告通知應送達於要保人，或負有交付保費義務之人之住所或居所。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_048",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "根據我國保險法第 58 條規定，若保險事故發生，除法律或保險契約另有規定，要保人應於知悉幾日內通知保險人？ (A) 5 日 (B) 10 日 (C) 30 日 (D) 60 日",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "5 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "10 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "30 日",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "60 日",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "保險法第58條明確規定，要保人或被保險人知悉保險事故後，應於五日內通知保險人。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_049",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種準備金是保險業為因應各險種損失率或賠款異常變動而提存？ (A)未滿期保費準備金 (B)危險變動特別準備金 (C)重大事故特別準備金 (D)賠款準備金",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "未滿期保費準備金",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "危險變動特別準備金",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "重大事故特別準備金",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "賠款準備金",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "危險變動特別準備金係用於因應當年度實際賠款與預期賠款之間發生異常大幅度變動之風險。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_050",
+    "category": "economics",
+    "stageId": "110_110010_508",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "要保人以其所有之藝術品、古玩品等無法依市價估定價值之物品要保者，依我國保險法第 73 條及第 75 條規定，係為： (A)足額保險 (B)古董保險 (C)定值保險 (D)不定額保險",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "足額保險",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "古董保險",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "定值保險",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "不定額保險",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "對於不易估價之標的，雙方事先約定一個固定價值作為損失賠償基礎，法律上稱為定值保險。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "508",
+      "金融保險",
+      "保險學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  }
+]

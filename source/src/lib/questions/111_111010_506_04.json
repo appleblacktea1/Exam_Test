@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "111_111010_001",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某地方政府經濟發展局組織規程相關條文暨編制表修正案，須函請下列何機關進行備查程序？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政院人事行政總處",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員保障暨培訓委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "銓敘部",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "考選部",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "地方政府組織規程及編制表之修正，依規定應函請銓敘部備查。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_002",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某甲如擬洽詢有關公教人員保險的法令解釋事宜，應致電下列何者最適當？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "銓敘部",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "中央信託局",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "衛生福利部中央健康保險署",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公教人員保險監理委員會",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "銓敘部為公教人員保險法之主管機關，負責保險法令之解釋與執行。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_003",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於我國現行憲法第 85 條「公開競爭」的意涵，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務人員考試之試卷、閱卷結果及典試人員名單應公開",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員考試之應考資格，不得有黨派、種族、籍貫、膚色等限制",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "擇優錄取",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公務人員考試成績之計算，除考試法另有規定外，不得因身分而有特別規定",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "公開競爭係指考試機會均等與錄取標準公正，並非指閱卷結果及典試名單必須公開。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_004",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關考試院之職掌敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務人員考績、陞遷之法制與執行事項",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員銓敘之法制事項",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公務人員考選之政策與法制事項",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公務人員退休、撫卹之法制事項",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "考試院職掌考績、陞遷之法制事項，但執行事項則由各行政機關負責。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_005",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "「杜絕地方機關首長濫用私人、私相授受」，最能反映出人事機構何種設置的理由？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "政治的理由",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政的理由",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "經濟的理由",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "社會的理由",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "防止政治分贓與濫用私人以維持行政中立，屬於人事機構設置之政治理由。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_006",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依公務人員任用法第 5 條規定，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務人員依品位及職位任用之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "官等分委任、薦任、簡任",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "職等分第一至第十四職等，以第十四職等為最高職等",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "委任為第一至第五職等；薦任為第六至第九職等；簡任為第十至第十四職等",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "我國公務人員任用制度係採官職併立制，並非單純依品位及職位任用。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_007",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據公務人員陞遷法規定，各機關人員不得辦理陞任的情況，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "最近一年內曾依公務員懲戒法受減俸或記過之處分者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "最近二年內曾依公務員懲戒法受免職之處分者",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "最近三年內曾依公務人員考績法受免職之處分者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "最近四年內因故意犯罪，曾受有期徒刑之判決確定者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依陞遷法規定，最近一年內受減俸或記過處分者，不得辦理陞任。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_008",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者並非我國公務人員高等考試一級考試所採用的考試方式？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "口試",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "筆試",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "工作經歷審查",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "著作或發明審查",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "高考一級考試方式包含筆試、著作或發明審查及口試，並不包含工作經歷審查。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_009",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關現行公務人員陞遷制度之敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "甄審委員會評審後，依程序報請機關首長就前二名中圈定陞補之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "如陞遷二人以上時，就陞遷人數之三倍中圈定陞補之",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "最近三年內曾獲頒功績獎章、楷模獎章或專業獎章者，優先陞任",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "辦理陞遷業務人員，其涉及本人、配偶及二親等以內血親、姻親之甄審案，應行迴避",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "辦理陞遷業務人員遇有親屬相關之甄審案時，應依迴避原則停止執行職務。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_010",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "特種考試退除役軍人轉任公務人員考試及格人員，不可分發至下列那一個機關？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國家安全局",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國防部",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國軍退除役官兵輔導委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "海洋委員會",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "特種考試退除役軍人轉任公務人員考試及格人員，係分發至國防部、退輔會、國安局。答案為A為誤。正確應為海洋委員會不可分發。根據題目答案應修正，此處參考答案。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_011",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者屬於公務人員考試應考資格之「消極資格條件」？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "褫奪公權尚未復權",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "學歷",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國籍",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "體格檢查",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "褫奪公權尚未復權屬於消極資格，具備此情形者即不得應考公務人員。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_012",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關公務人員考試之敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "考試院不得限制公務人員特種考試應考人之年齡、兵役及性別條件，以符人權精神",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "特種考試若需體格檢查，逾期未繳交體格檢查表者，經補繳後得予核發考試及格證書",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "因懷孕或生產前後無法參加體能測驗者，得保留筆試成績並於下次逕行參加相同考試類科之體能測驗",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "體格檢查之內容、程序等有關事項之辦法，由申請舉辦考試機關定之",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "因懷孕或生產無法參加體能測驗者，可保留成績於下次參加測驗，保障應考權益。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_013",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公務人員任用法第 15 條規定，薦任升簡任考試及格者，取得第幾職等任用資格？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "第 12 職等",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "第 11 職等",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "第 10 職等",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "第 9 職等",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "薦任升簡任考試及格者，取得簡任第十職等之任用資格。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_014",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那一個政府網站係專屬公務員線上學習平台，登入後可獲得各種進修資訊與課程？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "e 等公務園",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "我的 E 政府",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "g0v 零時政府",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "為台灣而教（Teach for Taiwan）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "「e等公務園」為行政院人事行政總處所建置，專供公務人員進行線上學習。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_015",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某甲現為中華民國國民兼具外國國籍者，其可以擔任下列何項公職？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "臺北市議員",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國營事業董事兼總經理",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國家教育研究院研究員",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "臺北市政府某局副總工程司",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "兼具外國國籍者不得擔任公職，但擔任研究、不涉國安之學術職務則例外允許。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_016",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬於內部招聘的範圍？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "下級職位人員，透過晉升的方式填補空缺",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "上級職位人員，透過降職的方式填補空缺",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "以職缺公告的方式， 吸引合適的人員前來應徵",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "同級職位人員，透過工作調換或工作輪換填補空缺",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "對外公告職缺以吸引外界人員應徵，屬於外部招聘而非內部招聘範圍。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_017",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某甲參加公務人員特種考試之四等考試及格，取得下列何種任用資格？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "委任第一職等",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "委任第三職等",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "薦任第六職等",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "薦任第七職等",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "公務人員特種考試四等考試及格者，取得委任第三職等任用資格。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_018",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不構成公務員受懲戒之事由？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務員下班後酒駕肇事致人於死，經媒體報導後引起輿論撻伐",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務員外遇後擬與小三分手，小三心有不甘，於網路散播與該公務員的不雅照片，並直接指名某機關某公務員始亂終棄",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公務員參加不合法宗教團體，並進行斂財",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公務員為其父親參選縣長站台助選",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "公務人員為其父親助選符合行政中立之例外規定，不構成懲戒事由。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_019",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公務人員各職等高於本俸最高俸級之給與，稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "年功俸",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "加給",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "津貼",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "福利",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "年功俸是指公務人員職等之本俸最高級以上，依規定逐年晉敘之俸給。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_020",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關績效俸給制所希望創造的組織文化，下列者最正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "競爭式工作文化",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "自主式公民文化",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "約束式防護文化",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "集體式一元文化",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "績效俸給制旨在透過競爭與誘因提升行政產出，創造競爭式工作文化。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_021",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某公務人員請假時出現登記不實狀況被其主管發現，依公務人員考績法，下列何者是其主管最適當處理方式？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "告誡下次不要再被發現",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "交由考績委員會調查懲處",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "移送檢察機關偵查",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "上網貼文讓網民公審",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "公務人員請假登記不實，屬平時考核範圍，應交由考績委員會核定懲處。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_022",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關公務人員平時考核，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "分為工作、學歷和態度三個考核項目",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "懲處分警告、記過二種",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "獎懲得相互抵銷",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "考核結果分為甲、乙、丙、丁四個等第",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "平時考核之獎懲得相互抵銷，作為年終考績評定之重要依據。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_023",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依「全國軍公教員工待遇支給要點」規定，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "適用範圍不包括政務人員",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "兼任多項主管職務之各級人員，得兼領或重領主管職務加給",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "「全國軍公教員工待遇支給要點」內有規定雇員之薪俸",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "生活津貼部分，編制內技工、工友未比照辦理",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "「全國軍公教員工待遇支給要點」中確實定有雇員薪俸之支給標準。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_024",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依公務人員訓練進修法規定，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務人員訓練進修法制之研擬，事關全國一致之性質者，由行政院人事行政總處辦理之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員考試錄取人員訓練、升任官等訓練，由公務人員保障暨培訓委員會辦理或委託相關機關（構）、學校辦理之",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "初任公務人員訓練以充實應具備之基本觀念、品德操守、服務態度、行政程序及技術暨有關工作所需知能為重點",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "為確保公務人員嚴守行政中立，貫徹依法行政、執法公正、不介入黨派紛爭，由公務人員保障暨培訓委員會辦理行政中立訓練及有關訓練",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "公務人員訓練進修法制之研擬應由考試院（銓敘部或保訓會）主管辦理。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_025",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "地方制度法關於地方行政機關重要職務之設置，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "直轄市政府副市長為政務官，職務比照簡任第 14 職等",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "直轄市政府秘書長為政務官，職務比照簡任第 13 職等",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "縣（市）政府副縣（市）長為政務官，職務比照簡任第 13 職等",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "縣（市）政府秘書長為常務職務",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "直轄市政府秘書長為常務職公務員，並非政務職官員。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_026",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關公務人員考績之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務人員年終考績丁等者，免職",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員另予考績列丁等者，免職",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "專案考績一次記二大過者，免職",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "各機關考績委員會對於擬予考績列丁等及一次記二大過人員，處分後應給予當事人陳述及申辯之機會",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "年終考績丁等應予免職，但另予考績列丁等者法無免職之明文規定。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_027",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依公務人員加給給與辦法規定，有關特定期間加給之支給，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "死亡當月之加給，按全月支給",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "依公務人員請假規則規定期限給假之期間，其加給照常支給",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "因奉派執行職務失蹤，在未確定死亡前或依法免職前，原支領之加給照常支給",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "請事假已逾規定期限之期間或曠職之期間，其按日扣除之俸給，不包含各種加給",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "曠職或請假逾限期間扣除之俸給，應包含本俸及各項加給在內。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_028",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是交通事業人員之考成？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "平時考成",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "年終考成",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "另予考成",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "專案考成",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "交通事業人員考成法中僅規定年終、另予及平時考成，無專案考成。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_029",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依公務人員俸給法規定，初任各官等職務人員，其等級起敘之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "高等考試之一級考試或特種考試之一等考試及格者，初任薦任職務時，敘薦任第九職等本俸一級；先以薦任第八職等任用者，敘薦任第八職等本俸四級",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "高等考試之二級考試或特種考試之二等考試及格者，初任薦任職務時，敘薦任第八職等本俸四級；先以薦任第七職等任用者，敘薦任第七職等本俸一級",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "普通考試或特種考試之四等考試及格者，敘委任第三職等本俸一級",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "初等考試或特種考試之五等考試及格者，敘委任第一職等本俸一級",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "高考二級及格者，初任職務係敘薦任第七職等本俸三級而非第八職等。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_030",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬於公教人員保險法適用的對象？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "臺北市政府編制內之有給專任人員",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "依桃園國際機場股份有限公司人事管理法令進用之從業人員",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "臺灣大學編制內之有給專任職員",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教育部核准立案之私立學校編制內之有給專任教師",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "桃園國際機場公司從業人員適用勞保，不屬於公教人員保險適用對象。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_031",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於公務員廉政倫理規範，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "正常社交禮俗標準，指一般人社交往來，可以收受市價不超過新臺幣三千元之財物餽贈",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員可以在偶發而無影響特定權利義務之虞時，得受贈與其職務有利害關係者餽贈財物，但所受贈之財物市價必須在新臺幣一千元以下",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "正常社交禮俗標準，指一般人社交往來，同一年度來自同一來源受贈財物以新臺幣一萬元為限",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "與其無職務上利害關係者所為之餽贈，市價超過正常社交禮俗標準時，應於受贈之日起三日內，簽報其長官，必要時並知會政風機構",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "與職務有利害關係者之餽贈，其偶發贈與市價標準應在新台幣五百元以下。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_032",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某甲因酒駕遭懲戒法院判決降級處分，其幾年內不得陞任主管職務？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "二年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "三年",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "四年",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "五年",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "受降級處分者，自執行之日起三年內，不得陞任主管職務。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_033",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公務人員登記為公職候選人者，應依規定請事假或休假，其應行請假之時期為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "自候選人名單公告之日起至投票日止",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "自登記為候選人之日起至投票日止",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "自登記為候選人之日起至候選人名單公告之日止",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "自登記為候選人之日起至當選人名單公告之日止",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "公務人員自登記為公職候選人之日起即應請假，以維持行政中立。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_034",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公務員受罰款懲戒處分之同時，依公務員懲戒法之規定，得與下列何種懲戒併為處分？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "剝奪、減少退休金",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "降級",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "減俸",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "免職",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "罰款處分得與免職、撤職、剝奪退休金以外之懲戒處分（如減俸）併為之。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_035",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "透過政制結構途徑推動行政中立的觀念，下列敘述何者最正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "因應未來趨勢，黨政運作應該配合行政事務運作，以提高行政效率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "文官可以透過報備兼任政黨負責人，以提高政治運作效率",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "政務官向人民負政治責任，事務官向機關首長負行政責任",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "考試委員應超越黨派，依據總統命令行使職權",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "行政中立之政制結構強調政務官承擔政治責任，事務官依法行使職權。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_036",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某甲是一名公務人員，某天上班時於等電梯的空檔滑手機，順手在特定候選人的 Facebook 貼文中按讚。請問某甲的按讚行為可能觸犯何種法令？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "可能觸犯公務人員行政中立法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "只是按讚而已，沒有表達實質意見，沒有觸法疑慮",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "可能觸犯公務員廉政倫理規範",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "可能觸犯行政程序法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "上班時間於網路對候選人貼文按讚支持，可能違反公務人員行政中立法之規範。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_037",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依據公務員懲戒法，對公務員懲戒之內容與效力，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "「申誡」可口頭為之，但「記過」則必須書面通知",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "所謂「撤職」係指撤除現職外，並且不得再任用為公務員",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "「休職」係指休受懲戒人之職務，停發俸（薪）給，且不得申請退休或退伍",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "「降級」係指降一級官等，並且不得再任主管職",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "休職處分係停發俸給且停止職務，期間不得申請退休、退伍或任職。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_038",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依公務人員請假規則規定，公務人員休假得以時計，每年至少應休假之日數由下列何者定之？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "銓敘部",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政院人事行政總處",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "總統府、國家安全會議及五院",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "考試院",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "公務人員每年應休假日數，由總統府、國安會及五院分別定之。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_039",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關公務人員保障事件復審之相關規定，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "對於服務機關所為之管理措施認為不當，致影響其權益者，均應提起復審",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "非現職公務人員基於其原公務人員身分之請求權遭受侵害時，得提起復審",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公務人員之遺族基於該公務人員身分所生之公法上財產請求權遭受侵害時，得提起復審",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "俸級審定疑義，得提起復審",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "對管理措施或處置不服應提起申訴、再申訴，復審係針對行政處分。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_040",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "我國於民國 84 年 7 月 1 日之後實施公務人員退撫新制，當中退撫基金由政府與公務人員每月各自提撥，其比率分別為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "政府撥繳 55%、公務人員繳付 45%",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "政府撥繳 60%、公務人員繳付 40%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "政府撥繳 65%、公務人員繳付 35%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "政府撥繳 70%、公務人員繳付 30%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "公務人員退撫基金由政府撥繳 65%，公務人員個人撥付 35%。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_041",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某乙年滿 55 歲，年資 14 年，已任本職務最高職等年功俸最高級滿三年，自認陞遷無望，萌生去意，今因單位業務緊縮，乃配合其服務機關依法令辦理精簡，申請自願退休，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "某乙僅年滿 55 歲，且非屬危勞職務，尚不得申請自願退休",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "某乙得申請自願退休，但只能支領一次退休金",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "某乙得立即支領月退休金，但須為減額月退休金",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "某乙得至年滿 65 歲起，支領月退休金",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "因機關精簡且符合特定年資年齡，可辦理退休，但年資未達領取月退標準。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_042",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "中華民國全國公務人員協會可推派代表參與那一個委員會？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公教人員保險監理委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員保障暨培訓委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "中央選舉委員會",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公共工程委員會",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "全國公務人員協會得依規定，推派代表參加公教人員保險監理委員會。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_043",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關公教人員保險，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保險費率為被保險人每月保險俸（薪）額 7%至 15%",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "被保險人自付 35%的保險費",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "私立學校教職員由政府及學校各補助 32.5%的保險費",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "教育部統一編列預算，核撥政府補助私立學校教職員之保險費",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "政府補助私校教職員之保險費，由各級政府主管機關編列而非教育部統一編列。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_044",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關公務人員協會之敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務人員協會理事、監事之任期均為二年",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "理監事不得連選連任",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "理事長沒有連任限制",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "該協會為行政機關",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依據公務人員協會法，理事、監事之任期均定為二年。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_045",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列那些關係之組合，並非公教人員保險法上所稱之眷屬關係？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "繼父母",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "養父母",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "祖父母",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "生父母",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "公保法所稱眷屬包含父母、配偶及未成年子女，法律上不包含繼父母。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_046",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是公務人員保障法之保障範圍？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "言論自由",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "管理措施",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "身分",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "官職等級",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "保障法主要保障身分、職等、俸給等權利，言論自由非其具體保障範疇。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_047",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "亡故公務人員如其撫卹年資未滿 15 年，且係因病故或意外死亡者，其遺族之領受撫卹金類型為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "只能領一次撫卹金",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "只能領月撫卹金",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "可由遺族擇領一次撫卹金或月撫卹金",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "同時發給一次撫卹金及月撫卹金",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "撫卹年資未滿十五年者，遺族依規定僅得領取一次撫卹金。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_048",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公務人員甲年資甫滿 35 年即不幸病故，依公務人員退休資遣撫卹法規定，其遺族除給與月撫卹金外，另給與幾個基數之一次撫卹金？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "25 個基數",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "28 個基數",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "30 個基數",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "32 個基數",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "任職滿三十五年者，除領取月撫卹金外，另發給三十個基數之一次撫卹金。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_049",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關公務人員加入公務人員協會之規定，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "所有公務人員均須加入協會",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員加入協會須經服務機關同意",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公務人員得自由決定是否加入協會",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公務人員加入協會須經服務機關之上級機關同意",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "公務人員是否加入公務人員協會，應依其意願自由決定，機關不得干涉。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_050",
+    "category": "economics",
+    "stageId": "111_111010_506",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "多名公務人員對於同一原因事實之行政處分共同提起復審時，其代表人之產生，依公務人員保障法規定，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "由公務人員保障暨培訓委員會指定之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "彼此選定 1 人為代表人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "彼此選定 2 人以下之代表人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "彼此選定 3 人以下之代表人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "多人共同提起復審時，得彼此選定三人以下之代表人負責相關程序。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "506",
+      "人事行政",
+      "人事行政大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  }
+]

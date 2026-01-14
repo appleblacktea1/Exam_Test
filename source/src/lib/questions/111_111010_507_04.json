@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "111_111010_001",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "當經濟體系仍存在柏瑞圖改善（Pareto improvement）的可能時，表示目前的經濟體系：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "已滿足柏瑞圖的最適資源配置",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "尚未滿足柏瑞圖的最適資源配置",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "已滿足公平的所得分配",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "尚未滿足公平的所得分配",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "柏瑞圖改善表示仍有空間在不損及他人的情況下使某人福利增加，故尚未達到柏瑞圖最適狀態。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_002",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "對於生產可能曲線（production possibility frontier）上任何一點的敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "為在目前的生產技術之下，具效率的產出可能組合",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "切線斜率即為邊際轉換率（MRT）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "邊際替代率（MRS）必會等於邊際轉換率（MRT）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "所有產品的邊際技術替代率（MRTS）會相等",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "邊際替代率等於邊際轉換率是達成產出效率的條件，並非生產可能曲線上任一點的固有性質。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_003",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "政府設計污染許可權的政策來達到對污染數量控制的目標，此政策代表政府發揮何種財政功能？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "外交功能",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "防禦功能",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "穩定功能",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "配置功能",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "政府透過政策手段導引資源分配以解決外部性問題，屬於財政功能中的資源配置功能。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_004",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "純公共財的最適數量提供條件係由何位學者提出？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "雷姆斯（F. Ramsey）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "丁波（C. M. Tiebout）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "皮古（A. Pigou）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "薩彌爾遜（P. Samuelson）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "薩彌爾遜提出了純公共財的效率條件，即個人邊際替代率之和等於邊際轉換率。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_005",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "京都議定書（Kyoto Protocol）係為解決下列何種問題而產生？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "跨國環境污染問題",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國際財富分配問題",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國際貿易問題",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "跨國租稅競爭問題",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "京都議定書旨在規範工業化國家的溫室氣體排放量，以應對全球氣候變遷與跨國污染問題。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_006",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者屬於促進經濟發展的稅式支出？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "老農年金",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "健保費補助",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "退休撫卹支出",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "允許廠商加速折舊資本設備",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "加速折舊屬於租稅優惠的一種，透過減少初期稅負鼓勵廠商投資，進而促進經濟發展。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_007",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "皮寇克（Peacock）與魏斯曼（Wiseman）將社會發生重大事件，導致公共支出水準增加的效果，稱為什麼效果？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "價格（price）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "集中（concentration）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "位移（displacement）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "稽查（inspection）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "位移效果是指在社會發生重大危機時，民眾對稅負忍受度提高，導致政府支出規模永久性地上升。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_008",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設社會上僅有 A 與 B 二人，且其對某一公共財的個人需求曲線均為 P + Q = 100，其中 P 為價格，Q 為數量。則社會對此公共財的總需求曲線為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "P + 2Q = 200",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "2P + Q = 200",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "P + Q = 200",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "2P + 2Q = 200",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "公共財社會總需求為個人需求垂直加總：P=Pa+Pb=(100-Q)+(100-Q)=200-2Q，移項得P+2Q=200。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_009",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "工廠排放有毒廢水至河流，即對他人產生了何種影響？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "外部利益",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "外部成本",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "內部利益",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "內部成本",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "工廠排放廢水造成他人損害卻未支付代價，這是一種負的外部性，即外部成本。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_010",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "讓自然獨占市場之廠商利潤為零之定價方式為下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "邊際成本定價法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "平均成本定價法",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "邊際收入定價法",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "尖峰定價法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "平均成本定價法使價格等於平均總成本，讓廠商達到損益兩平，即經濟利潤為零。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_011",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者非屬於政府之資本門支出？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "政府購買機器設備",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員薪資",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "政府購買土地",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "政府營建工程支出",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "公務人員薪資屬於經常門支出，是用於維持政府日常運作及服務的勞務報酬。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_012",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在下列何種情況下，存在邊際下的外部性（inframarginal externality）？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "不存在外部利益，但有邊際成本時",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "存在外部性，且資源配置受到影響而產生無效率的情況",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "存在外部性，但最適資源配置的條件並未受到影響",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "存在外部性，且外部性跟生產者數目有關",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "邊際下的外部性指雖然存在總體外部性，但在邊際上的外部影響為零，因此不影響資源配置效率。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_013",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假定其他情況不變，若某完全競爭市場財貨的需求函數為 QD＝105－2P，供給函數為 QS＝5＋0.5P，又廠商於生產過程中每單位產量固定產生 10 元的外部成本，則為使市場均衡達到社會最適，政府應每單位課多少皮古稅？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "10 元",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "20 元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "30 元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "40 元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "皮古稅的理想稅率應等於社會最適產量下的邊際外部成本。本題邊際外部成本固定為10元。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_014",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "X 產品的市場需求和市場供給分別是 50－P 及-30＋P，P 是 X 的價格；假設生產 X 的過程中會產生污染，邊際污染成本為 10；假設政府要以課皮古稅的方式來矯正外部性的無效率，則政府的稅收為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "10",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "20",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "30",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "50",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "社會最適均衡為50-Q=Q+30+10，得Q=5。稅收為稅率(10)乘以最適數量(5)，等於50。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_015",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設 P*與 P**分別為尖峰與離峰最適定價下的尖峰價格與離峰價格。請問下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "P**等於邊際能量調整成本",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "P*等於邊際營運成本",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "P**等於邊際營運成本與邊際能量調整成本的總和",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "P*大於邊際營運成本與邊際能量調整成本的總和",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "尖峰價格需負擔全部的能量成本與營運成本，其定價會高於兩項邊際成本之總和。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_016",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列對亞羅不可能定理（Arrow’s impossibility theorem）中所提及的全域性（unrestricted domain）之說明，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "是指在投票過程中，所有非法的行為均要予以考慮",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "是指在投票過程中，所有可能的成本均要予以考慮",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "是指在投票過程中，所有投票的方法均要予以考慮",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "是指在投票過程中，所有成員的偏好型態均要予以考慮",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "全域性條件指社會選擇規則必須能夠處理社會成員對選項所持有的任何邏輯上可能的個人偏好組合。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_017",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設在布坎南（J. M. Buchanan）與杜洛克（G. Tullock）的最適憲政模型中，甲為議案的決策成本，乙為議案的政治外部成本，則最適議案通過的投票比例條件為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "當甲＞乙之時",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "當甲＜乙之時",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "當（甲－乙）最大之時",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "當（甲＋乙）最小之時",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "最適多數決之投票比例，應選在使決策成本與政治外部成本加總後的社會總成本最小化之點。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_018",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關選票互助（logrolling）之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "選票互助可以表達投票者對議案偏好之強烈程度",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "選票互助必使社會福利增加",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "選票互助可能造成公共支出增加",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "選票互助隱含了投票者的妥協",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "選票互助雖然反映偏好強度，但可能導致具負社會淨利益的法案通過，故不必然增加社會福利。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_019",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於生產者競租（rent seeking）行為之結果，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "競租行為使得所得由消費者移轉至生產者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "競租行為使消費者福利增加",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "競租行為使生產者福利增加",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "競租行為會造成效率損失",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "競租行為通常源於爭取壟斷地位，會導致價格上升與產量減少，從而降低消費者福利。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_020",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設甲、乙、丙 3 人以簡單多數決，分別針對是否提供游泳池與圖書館兩議案投票。若此兩議案通過對 3 人的淨利益分別如下：甲為（-40, -50），乙為（-50, 100），丙為（150, -30）。若乙、丙兩人進行選票互助（logrolling），下列關於該選票互助行為及其結果的敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "符合柏瑞圖改善",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "只有丙的淨利益會增加",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "使社會淨利益降低",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "游泳池與圖書館皆將提供",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "透過選票互助，乙支持游泳池案以換取丙支持圖書館案，使兩案均能獲得多數支持而通過。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_021",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在一維選擇的情形下，下列有關多數決矛盾現象的敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主持投票者（例如：議長）可利用操縱議案的投票順序，以影響投票結果",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "因投票者偏好非單峰所造成",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "投票結果不符合遞移性",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "因投票者的殊價慾望所造成",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "多數決矛盾是因個人偏好非單峰導致集體決策循環，與殊價慾望（政府家長式干預）無直接關聯。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_022",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "臺灣選舉中常出現的「棄保效應」，違反了亞羅不可能定理（Arrow’s impossibility theorem）的那一個先決條件？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "無關選項的獨立性（independence of irrelevant alternatives）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "非獨裁性（non-dictatorship）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "不受限的投票規則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "無任何限制的定義域範圍（unrestricted domain）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "棄保效應反映了兩候選人的勝負受到第三個（無關）候選人存在的影響，違反無關選項獨立性。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_023",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列關於公共財的敘述，何者最為正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "醫藥商品屬於公共財",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公共財只能由中央政府提供",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公共財的存在可能造成市場失靈問題",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公共財的提供將提高所有國人的效用",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "公共財的非排他性會引發「搭便車」問題，使私人市場無法有效提供，導致市場失靈。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_024",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "政府計畫財源分別來自於私部門消費與投資的資金，各占 50%。若私部門投資稅前報酬率為 10%，投資報酬課稅稅率為 10%。該計畫的折現率應採多少？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "9%",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "9.5%",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "10%",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "11%",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "折現率採加權平均：0.5*10% + 0.5*10%*(1-10%) = 5% + 4.5% = 9.5%。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_025",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在政府計畫的成本效益分析中，下列何者係用以衡量政府對於犧牲現在消費換取未來消費的評價？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "內部報酬率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "社會折現率",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "通貨膨脹率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "投資報酬率",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "社會折現率反映了社會對跨期消費的偏好與評價，用於將未來成本與效益轉換為現值。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_026",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "所謂「垂直公平」（vertical equity）是指：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "所有國民的所得在課徵稅賦及補貼後應相同",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "政府對於相同所得者的稅賦或補貼應相同",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "依照規矩行事（play by the rules）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "政府對於不同所得者的稅賦或補貼應不相同",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "垂直公平原則主張具有不同支付能力的人應負擔不同的稅負，以達成分配上的公平。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_027",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "國內現行社會安全制度中，下列何項不屬於社會保險體制？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "老農津貼",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "勞工保險",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "全民健康保險",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國民年金",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "老農津貼屬於政府直接給付的社會福利津貼，不具備保險費負擔與精算對價之保險特性。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_028",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何項並非「社會福利」的制度特性？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "必須透過繳交保險費才能取得請領資格",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "制度財源主要來自政府稅收",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "屬於社會安全制度的一環",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "具有一定程度的濟貧效果",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "繳交保險費是社會保險的特性，廣義社會福利（社會救助）通常不以繳納保費為條件。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_029",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "現金補助與實物補助兩者比較，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "現金補助對效用的提升小於實物補助",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "若政府欲鼓勵民眾多消費某種財貨，實物補助是較佳的選擇",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "若政府欲提高民眾效用，現金補助是較佳的選擇",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "老年津貼屬於現金補助，食物券屬於實物補助",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "根據消費者選擇理論，在相同預算下，現金補助因賦予受領者最大消費彈性，效用提升通常較高。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_030",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者是最為合適之稅源（source of taxation）？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "利潤",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "土地",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "資本",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "機器設備",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "土地因其供給缺乏彈性且不可移動，課稅對經濟行為產生的扭曲最小，是理想的稅源。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_031",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種方法，適合分析在其他情形不變下，營業稅稅率提高後的歸宿變化？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "絕對租稅歸宿",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "差異租稅歸宿",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "平衡預算歸宿",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "功能性歸宿",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "絕對租稅歸宿係分析在政府支出不變與其他稅目不變下，單一稅目變動對經濟體系的影響。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_032",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "假設期初淨資產總額為 50 萬元，期末淨資產總額為 30 萬元，當期消費為 40 萬元，則當年度所得依淨資產增加說之定義為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "0",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "20 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "40 萬元",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "60 萬元",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "根據H-S定義，所得 = 消費 + 淨資產增加 = 40 + (30 - 50) = 20萬元。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_033",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "評估政府計畫時，比較具有相同效益但無法量化評估其價值時，以尋求成本較低之方案執行，此種分析方法稱為下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "成本效益分析（cost-benefit analysis）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "成本有效性分析（cost-effectiveness analysis）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "效益有效性分析（benefit-effectiveness analysis）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "部分均衡分析（partial equilibrium analysis）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "成本有效性分析用於評估效益難以用貨幣價值化，但目標產出相同的計畫方案。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_034",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "我國所得稅法第 4 條所規定的免稅所得，是屬於那一種方式的稅式支出？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "免稅項目",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "稅負遞延",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "扣除額",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "稅額扣抵",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "免稅所得是指法律規定不予計入課稅總額的特定收入，屬於稅式支出中的免稅項目。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_035",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "我國現行的加值型營業稅，不具有下列何種性質？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "採稅基相減的計算方式",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "符合目的地課徵原則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "具自動勾稽效果",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "便於出口退稅",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "我國加值稅採用「稅額扣減法」（發票扣抵法），而非「稅基相減法」。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_036",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "我國全民健康保險法規定，民眾就醫時需有部分負擔，此設計是為了解決何種問題？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "抑制道德危機",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "矯正逆選擇問題",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "增加醫界收入，解決血汗醫護問題",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "解決內外婦兒科醫師人力不足的問題",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "部分負擔制度藉由使用者付費機制，提高醫療成本意識，以抑制因保險而產生的過度消費（道德危機）。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_037",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依稅法規定，下列何者免徵營業稅？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "外銷貨物",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "科學工業園區內的園區事業",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "海關保稅倉庫的機器設備",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "出售的土地",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "依營業稅法規定，土地之出售因已課徵土地增值稅，為避免重複課稅，免徵營業稅。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_038",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者常用來衡量個人繳納租稅所產生效用損失的貨幣價值？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "超額負擔（excess burden）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "福利成本（welfare cost）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "均等變量（equivalent variation）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "無謂損失（deadweight loss）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "均等變量是指為了維持課稅後相同的效用水準，在不課稅時應從消費者所得中拿走的貨幣量。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_039",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "所得的「週期說」認為所得來源具有重發性、規則性者才是所得，下列何者是週期說所認定之所得？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "資本利得",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "繼承之遺產",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "薪資所得",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "受贈之財產",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "薪資所得通常具有按期領取、持續發生的特性，符合週期說對所得的定義。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_040",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "若一租稅制度要求經濟條件相等者繳納相同租稅，則該租稅制度是符合：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "水平公平原則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "垂直公平原則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "跨世代公平原則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "改革公平原則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "水平公平主張在經濟地位（如所得水準）相同的情況下，每個人應負擔相同的稅額。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_041",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "廠商透過交易將部分或全部稅負移轉給相關產業負擔稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "前轉",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "後轉",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "旁轉",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "散轉",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "旁轉是指稅負並非轉嫁給消費者或供應商，而是轉移給其他非生產要素或無直接交易關係者承擔。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_042",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者最可能是發生捕蠅紙效果（flypaper effect）的狀況？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "政府補助款被移作他用",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "政府補助款提高地方公共財的數量",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "政府補助款用以降低稅率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "政府補助款未被地方政府使用",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "捕蠅紙效果指外來補助款會停留在政府手中用於公共支出，且效果大於地方居民所得增加帶來的效果。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_043",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "中央政府對下級政府提供補助款的經濟效果分析，與政府對個人補助所產生的政策效果分析相似。下列類比何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "指定用途補助與現金補貼",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "無限額的配合型補助與現金補貼",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "指定用途補助與實物補貼",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "食物券與現金補貼",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "指定用途補助限制了資金使用範圍，其性質與限制消費特定商品的實物補貼效果相仿。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_044",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "丁波（C. M. Tiebout）對於地方公共財的決定，曾提出何種理論？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "俱樂部財（club goods）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "最適租稅（optimal tax）",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "純公共財（pure public goods）",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "以腳投票（voting by feet）",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "丁波主張個人透過自由移動選擇最符合其偏好之租稅與公共服務組合的轄區，即為「以腳投票」。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_045",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "布坎南（J. M. Buchanan）認為個人有動機遷徙至下列何類型之轄區？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "教育支出較高的轄區",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "財產稅負擔較輕的轄區",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "地方財政平衡的轄區",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "財政剩餘較大的轄區",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "財政剩餘代表個人在該轄區能獲得的公共服務價值大於其支付的租稅成本，因此具有遷入吸引力。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_046",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關我國地方稅法通則開徵地方稅之規定，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "不得對於經營範圍跨越轄區之公用事業開徵",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "目前可開徵的種類僅包括特別稅課及附加稅課",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "特別稅課及附加稅課之課徵年限至多 4 年，年限屆滿仍需繼續課徵者，應依規定重行辦理",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "特別稅課不得以已課徵貨物稅或菸酒稅之貨物為課徵對象",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "地方稅法通則規定可開徵之種類除特別稅課、附加稅課外，尚包含臨時稅課。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_047",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "在極大化極小（maximin）的社會福利函數下，如果社會上每個人的效用均由其所得高低來決定時，則政府應該：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "追求最低所得者的效用最大",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "追求最高所得者的效用最小",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "追求最高所得者與最低所得者的效用差異最大",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "追求最高所得者與最低所得者的效用差異最小",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "羅爾斯極大化極小原則主張社會福利取決於地位最不利者的效用，故應優先提升最低所得者的福利。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_048",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關消極公債（passive debt）的性質，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "又名自償公債（self-liquidating debt）",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "此公債支出可增加勞動生產力",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "為籌措戰爭財源發行的公債",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "此公債支出可用以蓋公共公園以提供民眾享樂",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "消極公債是指支出項目不具備直接自償性，或用於非生產性、純福利性質的政府支出。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_049",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "各直轄市政府總預算係由下列何機關審議？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政院",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政院主計總處",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "立法院",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "各直轄市議會",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "直轄市預算屬於地方自治事項，由地方立法機關（直轄市議會）負責審議。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  },
+  {
+    "id": "111_111010_050",
+    "category": "economics",
+    "stageId": "111_111010_507",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種政府收入屬於預算科目之經常收入？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公營事業資本收回",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "非營業特種基金資本收回",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "捐贈收入",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "政府出售股票收入",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "經常收入包括稅收、規費、罰款及捐贈等非資本性或財產處分性的收入。",
+    "points": 2,
+    "tags": [
+      "111",
+      "111010",
+      "111年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "507",
+      "財稅行政",
+      "財政學大意",
+      "測驗題"
+    ],
+    "certificationType": "111年公務人員初等考試"
+  }
+]

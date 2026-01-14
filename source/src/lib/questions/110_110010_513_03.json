@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "110_110010_001",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者是道路交通管理處罰條例授權訂定之法規命令？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "汽車燃料使用費徵收及分配辦法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "道路交通標誌標線號誌設置規則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "建築物交通影響評估準則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "車輛行車事故鑑定及覆議作業辦法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "道路交通標誌標線號誌之設置、養護及號誌之運作，係依據道路交通管理處罰條例授權訂定之規則辦理。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_002",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "命令與憲法或法律牴觸者無效，係為下列何種原則之表現？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "法律明確性原則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "利益兼顧原則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "法律保留原則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "法律優位原則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "法律優位原則指行政行為不得牴觸憲法或法律，位階較低之行政命令若與法律牴觸則失其效力。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_003",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關處理違反道路交通管理事件時，其文書送達之程序，依下列何者之規定？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政罰法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政訴訟法",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政程序法",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "刑事訴訟法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "違反道路交通管理事件之文書送達，除處罰條例另有規定外，依行政程序法有關送達之規定辦理。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_004",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "為辦理某縣轄內之縣道與鄉道的路線系統調整，依公路法規定必須報請下列何機關核定公告？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "縣政府",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "交通部",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政院",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "縣議會",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "公路法規定，縣道及鄉道路線系統之調整，應由縣公路主管機關報請交通部核定後公告之。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_005",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某甲向某直轄市政府申請並合法成立數位服務股份有限公司後，因未依公路法第 37 條第 1 項第 3 款規定申請核准，而擅自經營計程車客運業，請問下列何機關可以對該公司予以裁處罰鍰並勒令停業？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "直轄市政府",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "交通部",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "內政部",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政院",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "計程車客運業之管理權責在直轄市者歸直轄市政府，故對違規經營者應由該管直轄市政府依法裁處。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_006",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某甲於飲酒後騎乘機車搭載 20 歲且心智正常之乘客乙途中，甲經警察攔停並接受酒測，請問某甲於測試檢定後之吐氣所含酒精濃度達每公升多少毫克以上時，乙將被處以新臺幣六百元以上三千元以下罰鍰？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "0.15 毫克",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "0.18 毫克",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "0.25 毫克",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "0.55 毫克",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依規汽機車駕駛人酒精濃度達每公升0.25毫克以上時，同車年滿十八歲之乘客應受罰。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_007",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何項交通違規行為之處罰機關為公路主管機關？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "騎乘機車未戴安全帽",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "騎乘電動自行車拒絕接受酒精濃度測試檢定",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行人不依規定擅自穿越車道",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "未經許可在道路擺設攤位",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "騎乘機車未戴安全帽屬於道路交通管理處罰條例中由公路主管機關管轄並處罰之違規項目。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_008",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬於停車場作業基金籌措來源之方式？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "交通違規停車罰鍰收入",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "違規停車之保管費收入",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "民間機構繳交之租金收入",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "汽車使用牌照稅部分收入",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "汽車使用牌照稅屬於地方政府之一般稅收，並非法律規定停車場作業基金之法定來源。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_009",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "單行道標誌之樣式為方形、藍底白色箭頭，屬：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "指示標誌",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "禁制標誌",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "警告標誌",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "輔助標誌",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "單行道標誌屬於禁制標誌中的遵行標誌，用以告示車輛駕駛人必須遵照標誌指示方向行駛。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_010",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關國營鐵路運價率之計算公式，由下列何機關審定？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "交通部",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政院",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "立法院",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "交通部鐵道局",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "鐵路法規定，國營鐵路運價率之計算公式由交通部擬訂，報請行政院核轉立法院審定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_011",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "小船變更船舶之使用目的或型式時，應申請船舶所在地之航政機關施行：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "定期檢查",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "臨時檢查",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "一般檢查",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "特別檢查",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "依小船管理規則，小船於變更使用目的或型式時，應申請施行特別檢查以確保航行安全。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_012",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "臺北大眾捷運股份有限公司，依規定每幾個月應將其營運時期之營運狀況報備一次，並報請臺北市政府核轉交通部備查？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "2 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "3 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "6 個月",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "大眾捷運法規定，捷運營運機構應每三個月將營運狀況報請地方主管機關核轉中央備查。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_013",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關下列依法成立並從事國內客運服務之公、民營事業，何者不屬於發展大眾運輸條例所規範之大眾運輸事業？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "鐵路運輸業",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "遊覽車客運業",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "載客小船經營業",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "民用航空運輸業",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "遊覽車客運業性質屬包車業務而非固定路線、班次之定期服務，不列入發展大眾運輸條例規範範圍。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_014",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "超輕型載具之操作人於吐氣中酒精濃度超過每公升多少毫克以上時，不得以目視飛航操作超輕型載具？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "0.02 毫克",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "0.05 毫克",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "0.10 毫克",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "0.15 毫克",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "民航相關法規規定，超輕型載具操作人之酒精測試濃度達每公升0.05毫克以上者，嚴禁操作飛航。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_015",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "某甲於從事遙控無人機飛航活動時，以遙控無人機投擲物件，依民用航空法規定，某甲將受到下列何種處罰？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "處新臺幣 5 千元以上 2 萬 5 千元以下罰鍰",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "處新臺幣 3 萬元以上 15 萬元以下罰鍰",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "處新臺幣 15 萬元以上 30 萬元以下罰鍰",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "處新臺幣 30 萬元以上 150 萬元以下罰鍰",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "無人機操作人違反規定投擲物件，依民航法處三萬元以上十五萬元以下罰鍰並得沒入無人機。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_016",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依道路交通管理處罰條例規定，受處分人不服公路主管機關所為之處罰，應於接受裁決書送達後之翌日起多少日內，向所轄地方法院行政訴訟庭提起行政訴訟？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "10 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "15 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "20 日",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "30 日",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "受處分人不服交通違規裁決，提起撤銷訴訟之法定期間為裁決書送達後三十日之不變期間。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_017",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "以自己之名義，為他人之計算，使船舶運送業運送貨物而受報酬為營業之事業，稱之為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "船舶運送業",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "海運承攬運送業",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "船舶出租業",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "船舶貨物裝卸承攬業",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "海運承攬運送業指以自己名義為他人計算，使船舶運送業運送貨物而受報酬為營業之業別。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_018",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "船舶運送業結束營業時，應自結束營業之日起，在多久時間內，將原領許可證繳送航政機關轉送主管機關廢止其許可並註銷其許可證？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "3 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "7 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "30 日",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "6 個月",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依航業法規定，船舶運送業應於結束營業之日起三十日內將許可證繳送相關機關廢止註銷。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_019",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "航空器經交通部民航局檢定合格者，發給下列何種證書？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "檢定證書",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "適航證書",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "登記證書",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "航線證書",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "適航證書係證明航空器符合適航標準，經檢定合格後由民航局核發，為飛航之必備文件。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_020",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依道路交通管理處罰條例規定，交通違規行為自行為成立之日起，逾多久時間交通勤務警察不得舉發？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "7 日",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "30 日",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "2 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "3 個月",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "道路交通管理處罰條例規定，違規行為自成立之日起，超過二個月者不得再行舉發。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_021",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "交通部公路總局各區監理所車輛行車事故鑑定會及直轄市政府車輛行車事故鑑定會之設立，其法源依據為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "交通部組織法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "道路交通管理處罰條例",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "交通部公路總局組織法",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公路法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "車輛行車事故鑑定委員會之組織與鑑定程序，係依據道路交通管理處罰條例授權規定設立。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_022",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依交通部組織法之規定，下列何者為交通部的附屬事業機構？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中華郵政股份有限公司",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "臺灣港務股份有限公司",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "桃園機場股份有限公司",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "臺灣鐵路管理局",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "臺灣鐵路管理局於該考試時期法令框架下，仍屬交通部所轄之附屬事業機構。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_023",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者屬於國家運輸安全調查委員會所掌理之事項？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "全國道路交通安全事務之協調、監督與推動事項",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "運輸事故趨勢分析、運輸安全改善建議之追蹤及運輸安全專案研究事項",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行車事故事證之蒐集、分析及鑑定事項",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "關於鐵路、公路行車安全之策劃與監督事項",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "運安會主要負責運輸事故之調查、分析、安全改善建議追蹤及專案研究等促進運輸安全事項。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_024",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "路邊停車場收費之費率標準由地方主管機關依計算公式定之，其計算公式應送何機關審議？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "地方議會",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "內政部營建署",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "交通部公路總局",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "地方政府",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依停車場法規定，路邊停車場收費費率之計算公式應送請地方民意機關（即地方議會）審議。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_025",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關多元化計程車客運服務之敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "可比照大眾運輸事業，免徵進口與國產車輛貨物稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "多元化計程車之車身為黃顏色",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "計程車客運業得經營多元化計程車客運服務",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "多元化計程車之費率由經營者自行訂定，報請該管公路主管機關備查",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "多元化計程車為計程車客運業可申請經營之服務模式，提供非傳統外觀及預約叫車等功能。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_026",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依道路交通管理處罰條例規定，處罰機關對違規行為於裁決前，應給予違規行為人何種機會？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "聲明異議",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "覆議",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "陳述",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "申訴",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "行政程序法及相關法規要求行政機關在作成不利處分前，原則上應給予當事人陳述意見之機會。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_027",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依汽車運輸業管理規則規定，營業大客車業者每隔多久時間，應對所屬駕駛人辦理一次以上之行車安全教育訓練？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "3 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "4 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "6 個月",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "12 個月",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "法規規範汽車運輸業應對所屬駕駛人實施定期訓練，大客車業者應每半年（六個月）至少辦理一次。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_028",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "提供人民在文明社會下應有之基本設施，如道路、學校、醫院……等，屬下列何者之範疇？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "給付行政",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "保護行政",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "秩序行政",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "經濟行政",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "給付行政指行政機關主動提供社會福利、公共設施或服務，以促進國民福祉及生活條件之行政行為。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_029",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "旅行業區分為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "綜合旅行業、甲種旅行業、乙種旅行業三種",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "甲種旅行業、乙種旅行業、丙種旅行業三種",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "特種旅行業、甲種旅行業、乙種旅行業三種",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "特種旅行業、甲種旅行業、乙種旅行業、丙種旅行業四種",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依發展觀光條例及旅行業管理規則，旅行業區分為綜合、甲種及乙種三類，各有其業務經營範圍。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_030",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政機關依法律授權，單方面訂定之具有抽象性、一般性、對外性及未來性拘束力之規範，稱之為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "法規命令",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政規則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "緊急命令",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政處分",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "法規命令指行政機關基於法律授權，對多數不特定人民，就一般事項所訂定具有外部效力之規定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_031",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依公路法規定，在核定路線內，以公共汽車運輸旅客為營業者。係指：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "市區汽車客運業",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公路汽車客運業",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "汽車路線客運業",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公共汽車運送業",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "公路法定義公共汽車運送業為在核定路線內，以公共汽車運輸旅客為營業者之統稱。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_032",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "中央或地方機關就公法上具體事件所為之決定或其他公權力措施而對外直接發生法律效果之單方行政行為。稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政契約",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政決定",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政處分",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政制裁",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "行政處分是行政機關就特定具體事件所作出的外部單方行政行為，直接導致法律權利義務變動。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_033",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列發展觀光相關作為之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "風景特定區應按其地區特性及功能，劃分為國家級、直轄市級及縣（市）級",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主管機關對於發展觀光產業建設所需之公共設施用地，得依法申請徵收私有土地或撥用公有土地",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "經營觀光旅館業者，應先向地方主管機關申請核准，並依法辦妥公司登記後，領取觀光旅館業執照，始得營業",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "觀光產業之綜合開發計畫，由中央主管機關擬訂，報請行政院核定後實施",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "觀光旅館業之經營應向中央主管機關（交通部）申請核准而非地方主管機關。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_034",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依民用航空法之定義，商務專機之飛航業務，屬：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "民用航空運輸業",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "特種航空運輸業",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "商務航空運輸業",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "普通航空業",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "普通航空業係指以航空器從事空中遊覽、商務專機、噴灑、空拍等民用航空運輸業以外之飛航業別。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_035",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不是大眾運輸（Transit）的要件：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "固定路（航）線",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "固定班（航）次",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "固定費率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "固定乘客",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "大眾運輸之服務對象為不特定社會公眾，並無固定乘客之限制或要求。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_036",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "對於違反行政義務者處以罰鍰之制裁，稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "懲戒罰",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "秩序罰",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政刑罰",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "刑事罰",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "秩序罰（行政罰）係行政機關對違反行政法上義務之行為人所科處之制裁，旨在維護行政秩序。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_037",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政犯為對行政上義務之違反行為，下列適用原則之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "法人得為行政犯之主體",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政犯不限於行為人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政犯之成立，非出於故意或過失者不罰",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政犯多不適用關於共犯之規定",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "行政罰法規定行為非出於故意或過失者不予處罰，此為現行法律明定之責任要件原則。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_038",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "道路交通標誌、標線、號誌之指示、警告、禁制規定、樣式、標示方式、設置基準及設置地點等事項之規則，由：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "交通部定之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "內政部警政署定之",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "交通部會同內政部定之",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "交通部會同直轄市、縣（市）政府定之",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "該設置規則由交通部與內政部會同定之，因其內容涉及交通管理規劃與警察執法執行。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_039",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "民營鐵路之經營，以：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "股份公司為限",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "股份有限公司為限",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "股份公司為原則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "兩合公司為原則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "鐵路法規定民營鐵路之經營，除地方政府兼營或特殊情事經核准外，應以股份有限公司為限。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_040",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關大眾捷運系統運價率之計算公式之行政程序的敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "大眾捷運系統運價率之計算公式，由中央主管機關擬訂，報請行政院核定；變更時亦同",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "大眾捷運系統運價率之計算公式，由中央主管機關擬訂，報請立法院核定；變更時亦同",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "大眾捷運系統運價率之計算公式，由地方主管機關擬訂，報請交通部核定；變更時亦同",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "大眾捷運系統運價率之計算公式，由地方主管機關擬訂，報請地方議會核定；變更時亦同",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "大眾捷運法規定其運價率計算公式由中央主管機關（交通部）擬訂，並報請行政院核定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_041",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "主管機關對大眾運輸之營運及服務應定期辦理評鑑；其評鑑對象、方式、項目與標準、成績評定、成果運用、公告程序及獎勵基準等事項之辦法，由中央主管機關定之。其法源為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "大眾捷運法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公路法",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "發展大眾運輸條例",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "促進大眾運輸發展方案",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "發展大眾運輸條例規定主管機關應對其營運與服務定期辦理評鑑，以確保大眾運輸服務品質。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_042",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公路法規定，公路主管機關為公路養護、修建及安全管理所需經費，得徵收：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "使用牌照稅",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "汽車燃料使用費",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "燃油附加費",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "空氣污染防制費",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "公路主管機關依法徵收汽車燃料使用費，專用於公路之維護管理、修建及安全支出。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_043",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關民用航空運輸業客貨運價訂定與使用等規定之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "民用航空運輸業客貨運價，其為國際定期航線者，應報請交通部民航局轉報交通部核備",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "民用航空運輸業客貨運價，其為國際定期航線者，應報請交通部民航局轉報交通部備查",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "民用航空運輸業客貨運價，其為國內定期航線者，應報請交通部民航局轉報交通部核准其上、下限範圍",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "民用航空運輸業客貨運價之使用、優惠方式、報核程序及生效日期等相關事項之管理辦法，由交通部定之",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "國際航線運價之行政程序為報請「備查」而非「核備」，法規已修改簡化相關行政程序。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_044",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "停車場法規定，路邊停車場及公有路外公共停車場之收費，應依：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "區位、車種、時段之不同，訂定差別費率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "區域、流量、時段之不同，訂定差別費率",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "區位、車型、時段之不同，訂定差別費率",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "區位、車種、身分之不同，訂定差別費率",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "停車場法規定收費應視區域、流量及時段不同訂定差別費率，以調節停車供需平衡。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_045",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬於道路交通管理處罰條例所指「慢車」範疇？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "腳踏自行車",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "電動自行車",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "機車",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "獸力行駛車輛",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "機車屬於汽車（動力機械）範疇，而慢車包含人力、獸力行駛車輛及特定電動行駛裝置。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_046",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列有關鐵路法之敘述，何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "鐵路以國營為原則。地方營、民營及專用鐵路之興建、延長、移轉或經營，應經交通部核准",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國營鐵路，由交通部經營。地方營、民營及專用鐵路，由交通部管理",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "鐵路軌距，定為一公尺四公寸三公分五公釐。但有特別情事，經交通部核准者，不在此限",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國營鐵路運價率之計算公式，由交通部擬訂，報請行政院送請立法院審定之；變更時亦同",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "鐵路法規定國營鐵路應由中央公路主管機關「管理」，並由經營機構「經營」，敘述職權有誤。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_047",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依違反道路交通管理事件統一裁罰標準及處理細則規定，「違反道路交通管理事件行為人得於應到案時間內，以郵局匯票、郵政劃撥、信用卡轉帳、電話語音轉帳，……」，係行政機關（構）間之：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "聯合關係",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "職務協助關係",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "委託關係",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "委辦關係",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "處罰機關委託其他機關代收罰鍰，屬於不同機關間基於便利行政所建立之職務協助行為。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_048",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "以執行政策為任務或依法執行職務在各級政府機關組織法規中，定有職稱及官等之永業性人員，一般稱之為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "政務人員",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "常務人員",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公營事業人員",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "常任人員",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "常務人員指具備公務人員任用資格，受法律保障其職位並具備永業性質之常任文官系統人員。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_049",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "積極的依法行政亦可稱為：",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "法律優位原則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "誠實信用原則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "法律保留原則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "比例原則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "法律保留原則又稱積極依法行政，指行政行為必須有法律之明確授權始得為之。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_050",
+    "category": "economics",
+    "stageId": "110_110010_513",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關商港之規定，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國際商港之指定，由主管機關報請行政院備查後公告之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "國際商港係指准許中華民國船舶及非中華民國通商船舶出入之港",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國內商港之指定，由主管機關報請行政院核定後公告之",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國內商港區域之劃定，由主管機關會商內政部及有關機關後，報請行政院核定之",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "國際商港是指依商港法規定指定，准許我國及外國通商船舶自由進出並營運之港口。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "513",
+      "交通行政",
+      "交通行政大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  }
+]

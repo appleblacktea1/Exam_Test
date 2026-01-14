@@ -1,0 +1,2356 @@
+[
+  {
+    "id": "110_110010_001",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "1 公部門為了提升效率，放寬政府經費流用的限制。此一作法，最符合下列那一項公共行政理論的主張？\n(A)彈性薪資之誘因理論 (B)黑堡宣言理論 (C)行為學派理論 (D)新公共管理理論",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "彈性薪資之誘因理論",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "黑堡宣言理論",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行為學派理論",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "新公共管理理論",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "新公共管理主張引入企業經營精神，透過放寬過度規制與增加管理彈性，以提升政府運作效率。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_002",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "2 最強調行政學的研究宜由「應然面」轉為「實然面」的研究，是那一個學派？\n(A)行為科學學派 (B)新公共行政學派 (C)行政中立學派 (D)新公共管理學派",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行為科學學派",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "新公共行政學派",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政中立學派",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "新公共管理學派",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "行為科學學派強調實證研究與客觀事實，主張研究應由規範性的應然轉向觀察經驗現象的實然。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_003",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "3 關於組織的分工方式，古力克（L. H. Gulick）曾提出分部化原則，下列何者不屬之？\n(A)依目的而分工 (B)依地點而分工 (C)依服務對象而分工 (D)依員工興趣而分工",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "依目的而分工",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "依地點而分工",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "依服務對象而分工",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "依員工興趣而分工",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "古力克提出的分部化原則包含目的、程序、人員與地點，員工個人興趣並非其主張的組織分工標準。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_004",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "4 關於麥克葛瑞格（D. M. McGregor）的 X 理論與 Y 理論，下列何者正確？\n(A)主管對人性的假設差異，會對管理方式造成影響 (B) X 理論認為員工會自我要求與控制\n(C) Y 理論認為員工是好逸惡勞的 (D)多數學者認為，X 理論的管理效果較佳",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主管對人性的假設差異，會對管理方式造成影響",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "X 理論認為員工會自我要求與控制",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "Y 理論認為員工是好逸惡勞的",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "多數學者認為，X 理論的管理效果較佳",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "麥克葛瑞格認為管理者的管理哲學源於對人性的基本假設，不同的假設會直接引導出不同的管理模式。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_005",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "5 下列何者非屬我國公營事業民營化的案例？\n(A)中華電信公司 (B)台灣高鐵公司 (C)中國鋼鐵公司 (D)台鹽公司",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中華電信公司",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "台灣高鐵公司",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "中國鋼鐵公司",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "台鹽公司",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "台灣高鐵公司採取興建營運後移轉（BOT）模式，由民間出資興建營運，並非由政府公營事業轉型。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_006",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "6 下列何者非屬行政法人法規定之行政法人績效評鑑內容？\n(A)人員進用之達成率 (B)年度執行成果之考核\n(C)營運（業務）績效及目標達成率之評量 (D)自籌款比率達成率",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "人員進用之達成率",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "年度執行成果之考核",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "營運（業務）績效及目標達成率之評量",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "自籌款比率達成率",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "行政法人績效評鑑內容聚焦於年度成果、營運績效及自籌款達成率等，不包含人員進用達成率。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_007",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "7 1999 專線由臺北市開始，許多縣市目前也都跟進設置，此一擴散現象是那一種概念的具體表現？\n(A)顧客選擇 (B)品質保證 (C)績效責任 (D)標竿學習",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "顧客選擇",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "品質保證",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "績效責任",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "標竿學習",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "標竿學習是指組織透過觀察、學習績優組織的成功做法並加以仿效，藉此提升自身的競爭力與效能。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_008",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "8 聯合國強調永續發展的重要性，以達成永續發展目標（Sustainable Development Goals, SDGs）為依歸，下列何者不在 SDGs 指標範圍之內？\n(A)普及基礎教育 (B)消除通貨膨脹 (C)消滅貧窮飢餓 (D)促進兩性平等",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "普及基礎教育",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "消除通貨膨脹",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "消滅貧窮飢餓",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "促進兩性平等",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "聯合國永續發展目標（SDGs）包含社會與生態維護等各項指標，消除通貨膨脹並非其核心目標指標。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_009",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "9 某公務人員奉派出國參加與其業務相關的研討會。他覺得某日會議議程與其業務較無直接關聯，於是趁便在鄰近名勝遊覽。請問其行為與下列何者不屬於同一個法律的規範範疇？\n(A)某國軍上校為了接送女友上下班，經常混水摸魚、遲到早退\n(B)某市區公所區長向其轄下經建課長要求，為自己的表哥在經建課安插一個職位\n(C)某行政機關事務組長，請他管轄的司機開公務車幫忙搬家\n(D)某縣政府科員一再向科長反映，其辦公用電腦已老舊不堪，但科長不肯予以更新，使其苦不堪言",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "某國軍上校為了接送女友上下班，經常混水摸魚、遲到早退",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "某市區公所區長向其轄下經建課長要求，為自己的表哥在經建課安插一個職位",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "某行政機關事務組長，請他管轄的司機開公務車幫忙搬家",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "某縣政府科員一再向科長反映，其辦公用電腦已老舊不堪，但科長不肯予以更新，使其苦不堪言",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "選項D涉及內部管理溝通與設備更新，不屬於公務人員利益衝突或圖利他人之法律規範範疇。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_010",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "10 甲是某國立大學校長，受邀至某市議員候選人競選服務處開幕典禮上台演講，甲以有牴觸法規之虞而婉拒之。下列何者是某甲認為可能牴觸的法規？\n(A)公職人員選舉罷免法 (B)教育人員任用條例\n(C)公務人員行政中立法 (D)公職人員利益衝突迴避法",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公職人員選舉罷免法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "教育人員任用條例",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公務人員行政中立法",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公職人員利益衝突迴避法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "公務人員行政中立法規定，公職人員不得為支持特定政黨或公職候選人，在競選活動中公開演說。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_011",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "11 依據中央行政機關組織基準法之規定，組織基於業務分工，於內部設立之組織，稱為：\n(A)機構 (B)分部 (C)單位 (D)層級",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "機構",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "分部",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "單位",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "層級",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "依據該法規定，機關基於業務分工，於內部設立執行業務之組織稱為「單位」。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_012",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "12 依據性別工作平等法之規定，各級主管機關應設性別工作平等會，其中女性委員的人數應占全體委員人數多少比例以上？\n(A)三分之一 (B)二分之一 (C)三分之二 (D)四分之三",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "三分之一",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "二分之一",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "三分之二",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "四分之三",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "性別工作平等法明定，性別工作平等會之女性委員人數應占全體委員總數二分之一以上。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_013",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "13 關於行政組織特質，下列敘述何者錯誤？\n(A)是一群人的組合 (B)一定要有目標 (C)是一個合作體系 (D)不具制式的結構",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "是一群人的組合",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "一定要有目標",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "是一個合作體系",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "不具制式的結構",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "行政組織具備正式且制式化的結構，包含明確的職權分配、層級體制以及依循法規運作的特質。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_014",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "14 有關組織發展之敘述，下列何者錯誤？\n(A)強調固定性的組織結構 (B)同時著重治標與治本\n(C)強調權變理論 (D)同時結合理論與實務",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "強調固定性的組織結構",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "同時著重治標與治本",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "強調權變理論",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "同時結合理論與實務",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "組織發展強調的是彈性、動態且具適應力的組織結構，而非強調固定不變的結構，以應對環境變遷。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_015",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "15 組織為解決特定問題而結合各功能部門、各層級人士，所組成的專案工作臨時團隊稱為：\n(A)金字塔型組織 (B)層級節制型組織 (C)矩陣式組織 (D)中央集權式組織",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "金字塔型組織",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "層級節制型組織",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "矩陣式組織",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中央集權式組織",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "矩陣式組織是由功能部門與專案任務交叉組合而成，旨在靈活結合各類專業人才以解決特定問題。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_016",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "16 有關我國財務行政組織與職掌之敘述，下列何者錯誤？\n(A)中央政府總預算歲入部分由財政部綜合編送 (B)各級政府的主計單位負責會計事務\n(C)審計部負責決算之審定 (D)地方政府主計單位直接受地方首長指揮監督",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央政府總預算歲入部分由財政部綜合編送",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "各級政府的主計單位負責會計事務",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "審計部負責決算之審定",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "地方政府主計單位直接受地方首長指揮監督",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "我國主計採一條鞭制度，地方政府主計單位在業務上受上級主計機關之監督與指導。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_017",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "17 有關下列各個組織屬性的敘述，何者正確？\n(A)交通部臺灣鐵路管理局是輔助單位 (B)台灣高鐵公司是財團法人\n(C)中華郵政公司是公營事業 (D)中華電信公司是行政機構",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "交通部臺灣鐵路管理局是輔助單位",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "台灣高鐵公司是財團法人",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "中華郵政公司是公營事業",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中華電信公司是行政機構",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "中華郵政公司為政府全資擁有的公營事業，具備公司法人地位並以企業化方式經營公共服務。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_018",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "18 下列何者屬於行政機關內部主要負責廉政業務的單位？\n(A)人事部門 (B)統計部門 (C)政風部門 (D)參事部門",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "人事部門",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "統計部門",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "政風部門",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "參事部門",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "政風部門專責行政機關內的廉政業務，包含貪瀆防制、公務機密維護及公務安全維護等事項。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_019",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "19 下列何者是我國直轄市政府所屬一級機關的名稱？\n(A)局 (B)所 (C)大隊 (D)中心",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "局",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "所",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "大隊",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "中心",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "依據我國地方制度法規，直轄市政府所屬的一級機關通常定名為「局」（如民政局、財政局）。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_020",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "20 下列何種我國法令規範須經地方立法機關通過，並由各該地方政府公布後施行？\n(A)自治條例 (B)自治規則 (C)自律規則 (D)委辦規則",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "自治條例",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "自治規則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "自律規則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "委辦規則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "自治條例是指地方政府就其自治事項，經地方立法機關通過，並由各該地方政府公布施行之法規。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_021",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "21 下列那一種主義較符合新公共管理的主張？\n(A)生產者主義 (B)福利國主義 (C)消費者主義 (D)非營利主義",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "生產者主義",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "福利國主義",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "消費者主義",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "非營利主義",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "新公共管理強調以民為本，將民眾視為「消費者」，主張透過市場機制與顧客導向提升公共服務品質。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_022",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "22 公務人員之升遷甄補有內補制和外補制兩種不同的模式，相對於內補制，外補制有何優勢？\n(A)蒐尋、瞭解候選人的時間成本較低 (B)受雇者的組織調適成本較低\n(C)對於組織原有員工的激勵誘因較大 (D)較易引進變革創新的活力",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "蒐尋、瞭解候選人的時間成本較低",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "受雇者的組織調適成本較低",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "對於組織原有員工的激勵誘因較大",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "較易引進變革創新的活力",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "外補制能從組織外部招募具備新思維與新專業的人才，有助於打破既有框架並為組織注入變革創新動力。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_023",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "23 對於工作具有危險性而加發之給與，屬於那一種俸給？\n(A)年功俸 (B)績效津貼 (C)地域加給 (D)職務加給",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "年功俸",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "績效津貼",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "地域加給",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "職務加給",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "職務加給包含對職務性質特殊、專業性較高或工作具危險性者，所發給之額外加給報酬。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_024",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "24 有關我國公務人員之任用，下列敘述何者正確？\n(A)依官等及職等任用之 (B)官等分特任、簡任、薦任、初任\n(C)機要人員應具備公務人員任用資格始得任用之 (D)一職務限列一個職等",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "依官等及職等任用之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "官等分特任、簡任、薦任、初任",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "機要人員應具備公務人員任用資格始得任用之",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "一職務限列一個職等",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "我國公務人員任用制度是以官等（區分責任高低）與職等（區分職務繁簡難易）作為任用的基礎。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_025",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "25 依據特別權力關係理論，有關公務員和國家關係之敘述，下列何者正確？\n(A)公務員如受懲罰，有權尋求司法救濟 (B)公務員須服從國家機關所頒布的各項法令和內規\n(C)國家特別保障公務員的結社自由權 (D)公務員與國家共同界定勞動條件",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務員如受懲罰，有權尋求司法救濟",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務員須服從國家機關所頒布的各項法令和內規",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國家特別保障公務員的結社自由權",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "公務員與國家共同界定勞動條件",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "在傳統特別權力關係下，公務員對國家負有高度的忠誠與服從義務，必須遵循相關法令與內部規則。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_026",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "26 下列機關何者負責辦理我國公務人員任用資格的審定？\n(A)考選部 (B)銓敘部 (C)懲戒法院 (D)行政院人事行政總處",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "考選部",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "銓敘部",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "懲戒法院",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政院人事行政總處",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "銓敘部主管全國公務人員之銓敘、任免、考績、級俸、升遷及任用資格審查等法規與執行事項。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_027",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "27 下列何者不是我國負責政府預算編製、執行及決算的主要權責機關？\n(A)財政部 (B)行政院主計總處 (C)立法院預算中心 (D)審計部",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "財政部",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政院主計總處",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "立法院預算中心",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "審計部",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "立法院預算中心屬於立法輔助機關，負責預算案的研究與分析，非屬預算編製、執行或審計之權責機關。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_028",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "28 有關近年我國中央政府總預算政事別歲出規模之普遍狀況比較，下列何者最錯誤？\n(A)社會福利支出大於國防支出 (B)教科文支出大於一般政務支出\n(C)退休撫卹支出大於經濟發展支出 (D)國防支出大於社區發展及環境保護支出",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "社會福利支出大於國防支出",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "教科文支出大於一般政務支出",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "退休撫卹支出大於經濟發展支出",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國防支出大於社區發展及環境保護支出",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "根據近年預算實務，社會福利與教育科學文化支出占比較高，退休撫卹支出並未大於經濟發展支出。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_029",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "29 依據預算法的規定，遇到下列何種情形時，行政院得提出特別預算？\n(A)發生戰爭時 (B)所辦事業因重大事故經費超過法定預算時\n(C)經立法院審議全額刪除之支出項目 (D)執行歲出分配預算遇經費有不足時",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "發生戰爭時",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "所辦事業因重大事故經費超過法定預算時",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "經立法院審議全額刪除之支出項目",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "執行歲出分配預算遇經費有不足時",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "預算法明定，遇有國防緊急設施、戰爭、國家經濟重大變故、重大災害或不定期重大工程時，得編列特別預算。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_030",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "mixed",
+    "difficulty": 2,
+    "text": "30 有關美國零基預算制度的敘述，下列何者錯誤？\n(A) 1970 年代德州儀器公司開始試行\n(B) 1997 年卡特總統上台，聯邦政府零基預算之實施宣告終止\n(C)每一年度的預算審核都要從零開始重新評估\n(D)決策制訂由上而下和由下而上的決策制訂同時開始",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "1970 年代德州儀器公司開始試行",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "1997 年卡特總統上台，聯邦政府零基預算之實施宣告終止",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "每一年度的預算審核都要從零開始重新評估",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "決策制訂由上而下和由下而上的決策制訂同時開始",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": [
+      "B",
+      ",",
+      "D"
+    ],
+    "explanation": "卡特總統於1977年上台並全面推行零基預算；該制度強調每年度從零評估，並包含上下雙向的決策。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_031",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "31 政府採購法中所稱之「以公告方式邀請不特定廠商投標」，係指下列那一種招標方式？\n(A)邀請招標 (B)主動性招標 (C)公開招標 (D)限制性招標",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "邀請招標",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主動性招標",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公開招標",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "限制性招標",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "公開招標是指機關透過公告方式，邀請不特定之所有合格廠商參與投標，以確保競爭之公平性。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_032",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "32 在策略規劃的工具之中，有一種能夠訴說策略的故事，以達成特定價值主張之行政方針路徑圖，來清楚說明策略因果關係之分析工具，稱之為：\n(A)甘特圖 (B)心智圖 (C)策略地圖 (D)時程路網圖",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "甘特圖",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "心智圖",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "策略地圖",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "時程路網圖",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "策略地圖透過圖示呈現組織策略目標間的因果關係，清楚描繪達成特定價值主張的路徑與邏輯。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_033",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "33 下列何種活動最偏向地方政府行銷？\n(A)孩子是我們的傳家寶 (B)酒後不開車 (C)限用塑膠吸管 (D)觀觀光古城行銷",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "孩子是我們的傳家寶",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "酒後不開車",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "限用塑膠吸管",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "觀光古城行銷",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "觀光古城行銷旨在推廣在地特色與文化遺產，吸引外界資源進入，屬於典型的地方政府城市行銷活動。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_034",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "34 領導者相信部屬會負責盡職完成分內的工作，因此非常尊重部屬意見，幾乎給予同等的權力參與決策制定，此種領導者較傾向下列何種類型？\n(A)壓榨權威式領導 (B)諮商式領導 (C)參與式領導 (D)仁慈權威式領導",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "壓榨權威式領導",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "諮商式領導",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "參與式領導",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "仁慈權威式領導",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "參與式領導者充分信任部屬，強調雙向溝通並鼓勵成員參與決策過程，與成員共享決策權力。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_035",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "35 行政機關的領導者在危機發生時，適當的溝通技巧不包括下列那一項？\n(A)注意傾聽 (B)禁止媒體採訪 (C)誠實以對 (D)溝通未來願景",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "注意傾聽",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "禁止媒體採訪",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "誠實以對",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "溝通未來願景",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "危機處理中適時與媒體溝通有助於資訊透明並降低恐慌，完全禁止媒體採訪通常不利於危機之解決。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_036",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "36 為減少災害發生或防止災害擴大，下列何者不為各級政府平時應依權責實施減災事項？\n(A)災害保險之提供\n(B)災害防救教育、訓練及觀念宣導\n(C)治山、防洪及其他國土保全\n(D)地方政府及公共事業有關災害防救相互支援協定之訂定",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "災害保險之提供",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "災害防救教育、訓練及觀念宣導",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "治山、防洪及其他國土保全",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "地方政府及公共事業有關災害防救相互支援協定之訂定",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "災害保險屬於災後損失填補的財務轉移機制，不屬於平時旨在降低災害風險或強度的實體減災工程或預防事項。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_037",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "37 有人認為未來的民主政治將是「按鈕式」的民主政治（push-button democracy），此乃形容下列那一種時代的來臨？\n(A)菁英式民主 (B)協和式民主 (C)電子民主 (D)間接民主",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "菁英式民主",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "協和式民主",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "電子民主",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "間接民主",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "電子民主利用資訊科技使民眾能快速、直接地參與投票或表達意見，展現科技輔助民主參與的「按鈕」特性。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_038",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "38 下列何者最不屬於政府利用資訊科技來促進公民參與的途徑？\n(A)電子公聽會 (B)首長電子信箱 (C)電子投票 (D)電子布告欄",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "電子公聽會",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "首長電子信箱",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "電子投票",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "電子布告欄",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "電子布告欄主要功能為單向資訊發布與揭示，相較於其他互動性強的工具，其促進參與的功能較弱。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_039",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "39 政府准許需要污染物排放量多的廠商，可購買其他廠商多餘的污染排放權，這種政策稱為：\n(A)可轉讓污染權 (B)污染稅 (C)管制 (D)補貼",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "可轉讓污染權",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "污染稅",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "管制",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "補貼",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "可轉讓污染權制度透過市場機制，讓排放量低於配額的廠商可將餘額售予高排放廠商，以達環境總量管理。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_040",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "40 公共政策的制訂要考量的價值包含效率、效能、公平與回應等，下列那項政策主要是追求「效率」的價值？\n(A)性交易合法化 (B)維持死刑的存在 (C)同性婚姻合法化 (D)國營事業民營化",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "性交易合法化",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "維持死刑的存在",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "同性婚姻合法化",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "國營事業民營化",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "國營事業民營化旨在引進市場競爭機制，提升經營績效與產出，是追求「效率」價值最典型的政策措施。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_041",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "41 有關政策設計（policy design）的闡釋，下列敘述何者錯誤？\n(A)涉及公共問題解決過程中的發展與應用\n(B)政策預期成果必須與實際執行成果一致\n(C)法令（statute）意指執行政策方案所需的法規基礎\n(D)政策設計也需連結至適當的政策工具以產生預期執行成果",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "涉及公共問題解決過程中的發展與應用",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "政策預期成果必須與實際執行成果一致",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "法令（statute）意指執行政策方案所需的法規基礎",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "政策設計也需連結至適當的政策工具以產生預期執行成果",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "政策預期成果常受環境變遷與執行過程影響，未必能與實際成果完全一致，政策落差是常見的現象。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_042",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "42 下列何者與成本效能分析（cost-effectiveness analysis）的內涵無關？\n(A)可分析外在無法貨幣化的效能 (B)計算成本時可以貨幣價值衡量\n(C)係從許多替代方案中抉擇最適計畫的工具 (D)方案取捨標準為「益本比」必須大於一",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "可分析外在無法貨幣化的效能",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "計算成本時可以貨幣價值衡量",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "係從許多替代方案中抉擇最適計畫的工具",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "方案取捨標準為「益本比」必須大於一",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "「益本比」大於一為成本效益分析的評判標準，成本效能分析則用於衡量非貨幣性產出與成本之關係。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_043",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "43 近年出現了網路輿情的民意探詢機制（例如：正負情緒分析），這是用什麼方式來了解民意？\n(A)網路問卷調查 (B)網路文字的探勘\n(C)透過網路直播進行官民互動 (D)網路公民連署",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "網路問卷調查",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "網路文字的探勘",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "透過網路直播進行官民互動",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "網路公民連署",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "網路文字探勘透過蒐集並分析大量網路非結構化資料，從中萃取民眾的偏好、情緒與對政策的看法。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_044",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "44 下列何者屬於政府和政府之間的互動關係？\n(A)中央政府補助苗栗縣政府執行地區防洪計畫\n(B)大安區公所配合臺北市政府進行市政宣導工作\n(C)縣政府建立議會聯絡人制度，負責和議員之聯繫事項\n(D)鄉公所協助村長規劃守望相助活動",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "中央政府補助苗栗縣政府執行地區防洪計畫",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "大安區公所配合臺北市政府進行市政宣導工作",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "縣政府建立議會聯絡人制度，負責和議員之聯繫事項",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "鄉公所協助村長規劃守望相助活動",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "中央政府補助地方政府執行計畫，涉及不同層級行政主體（政府）間的財政支援與權責合作關係。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_045",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "45 下列有關我國地方自治團體開徵地方稅的敘述，何者錯誤？\n(A)需依地方稅法通則之規定 (B)應擬具地方稅自治條例\n(C)經各該立法機關完成三讀立法程序後公布實施 (D)法規公布前應報請監察院審查",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "需依地方稅法通則之規定",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "應擬具地方稅自治條例",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "經各該立法機關完成三讀立法程序後公布實施",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "法規公布前應報請監察院審查",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "地方稅自治條例制定後應報請中央政府核定或備查，無須報請監察院審查。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_046",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "46 下列何者不是非營利組織？\n(A)公益性社團法人 (B)私立大學 (C)行政法人 (D)財團法人",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公益性社團法人",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "私立大學",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政法人",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "財團法人",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "行政法人是由政府出資設立的公法人，執行特定公共任務，並非私人性質的非營利組織。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_047",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "47 為配合政府「鼓勵公民營機構興建營運垃圾焚化廠」政策，某公司以其自有土地投資興建一座垃圾焚化廠，並與政府簽約，協助焚燒垃圾；契約期滿，該公司決定將焚化廠賣給外國廠商。此一作法，符合下列那一項公私協力模式的特徵？\n(A) BOO (B) BOT (C) BTT (D) ROT",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "BOO",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "BOT",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "BTT",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "ROT",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "BOO模式是由民間投資興建並永久擁有所有權，不需在契約期滿後將產權移轉予政府。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_048",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "48 下列何者為公私夥伴關係之泛稱？\n(A) APEC (B) NGO (C) NPO (D) PPP",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "APEC",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "NGO",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "NPO",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "PPP",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "PPP（Public-Private Partnership）即為「公私夥伴關係」之通稱，涵蓋多元的跨部門合作模式。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_049",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "49 針對參與式預算的審議，下列何者不是最重要的？\n(A)提案適法性 (B)提案的公共性\n(C)提案的預算可行性 (D)提案能照顧對象的普遍性",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "提案適法性",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "提案的公共性",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "提案的預算可行性",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "提案能照顧對象的普遍性",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "參與式預算強調在地需求與直接參與，重點在於程序的公平性與適法性，照顧對象的普遍性並非其最核心考量。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_050",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "50 下列何者不是政府推動「小而美政府」的常見策略？\n(A)利用使用者付費 (B)增加市場競爭機制\n(C)運用自願性組織的協助 (D)擴大內需達成充分就業",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "利用使用者付費",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "增加市場競爭機制",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "運用自願性組織的協助",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "擴大內需達成充分就業",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "擴大內需屬於凱因斯大政府的財政擴張手段，旨在透過政府支出刺激經濟，不屬於縮減規模之小而美策略。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "行政學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  }
+]

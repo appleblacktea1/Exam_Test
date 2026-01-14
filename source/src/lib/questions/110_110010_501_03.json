@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "110_110010_001",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於歐陸法系和英美法系的區別，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "屬於歐陸法系的國家不以歐洲國家為限",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "歐陸法系國家之判決對後案沒有法律拘束力，但有事實上拘束力",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "歐陸法系法官審判時的主要法源是成文法",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "英美法系為案例法國家，因此沒有成文法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "英美法系雖以判例法為主，但仍有大量的成文法律與條例，並非完全沒有成文法。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_002",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "法律與道德有相似及相異之處，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "道德與法律相同，均是一種成文規範",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "道德的成立或變遷與法律不同，不需經過一定程序修改",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "法律是以國家公權力作為後盾，道德則無",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "道德有時會影響法院對於個別法律的解釋",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "道德通常屬於非成文的社會規範，其形成與變遷不需如法律般經過正式的立法程序。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_003",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於行政機關之適用法律，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政機關適用法律須經人民申請，始得為之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政機關原則上應獨立適用法律，不受上級指揮監督",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "行政機關於法定範圍內，行使合義務之裁量權",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政機關在執行法律之際，不得發布命令",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "行政機關得於法律授權之範圍內，本於行政目的並衡酌個案情況，行使合義務之裁量權。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_004",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列判決文字運用了何種解釋方法？「依其規定之內容乃須有所謂的『治理』……。而所謂『治理』乃指『管理』（趙錫如主編辭海第 576 頁）……」",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "文義解釋",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "體系解釋",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "歷史解釋",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "目的解釋",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "文義解釋係指依照法律文字的字面意義，以及參酌辭典定義來探求法律內涵的解釋方法。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_005",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依中央法規標準法第 21 條，法規廢止之事由不包括下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "機關裁併，有關法規無保留之必要者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "法規違反國際人權公約，而無繼續施行之必要者",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "法規規定之事項已執行完畢，無繼續施行之必要者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "同一事項已定有新法規，並公布或發布施行者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "中央法規標準法第21條明定之四項廢止事由中，並不包含法規違反國際人權公約此一項目。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_006",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依地方制度法第 27 條，自治規則得使用之名稱，不包括下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "辦法",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "規程",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "標準",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "要點",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "地方制度法第27條規定之自治規則名稱為規程、規則、細則、辦法、綱要、標準、準則。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_007",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依憲法及增修條文規定，關於大法官之組成及職權，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "憲法本文規定司法院有解釋憲法之權",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "憲法本文規定司法院設大法官 15 人，掌理解釋憲法之事項",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "憲法增修條文明文規定所有司法院大法官都享有 8 年任期之保障",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "憲法增修條文明文規定司法院大法官有統一解釋法律及命令之權",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "憲法第78條明文規定司法院有解釋憲法之權，此條文屬於憲法本文之規定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_008",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依司法院大法官解釋，人民參加下列何種考試，不在憲法第 18 條應考試權的保障範圍內？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "公務人員初等考試",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "公務人員特種考試一般警察人員考試",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "專門職業及技術人員普通考試導遊人員考試",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "大學入學指定科目考試",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "大學入學考試屬於學術自由與受教權範疇，不屬於憲法第18條保障人民應考試服公職之權利。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_009",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依憲法本文及增修條文之規定，下列何者與民主共和原則沒有直接關係？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "民有民治民享",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主權屬於國民全體",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "國防以維護世界和平為目的",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "總統、副總統由人民直接選舉",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "維護世界和平屬於國防外交之國策目標，與界定國家主權歸屬及政治正當性的民主共和原則無關。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_010",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依司法院大法官解釋，授權明確性原則之內涵，不包括下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "授權之目的應具體明確",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "授權之期間應具體明確",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "授權之內容應具體明確",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "授權之範圍應具體明確",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "授權明確性原則要求授權之目的、內容及範圍應具體明確，法律並未要求授權期間須明確。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_011",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依憲法規定及司法院大法官解釋，關於人身自由之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "遣送出境前之強制收容屬於人民身體自由之剝奪，收容事由應以法律直接規定或法律具體明確授權之命令定之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "基於防疫目的之強制隔離，已屬人身自由之剝奪",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "「除現行犯之逮捕由法律另定外，非經司法或警察機關依法定程序，不得逮捕拘禁」之規定屬於憲法保留事項",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "遣送出境前之暫時收容雖非刑事逮捕拘禁，仍應由法院為之，始符憲法第 8 條之意旨",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "釋字第708號解釋指出，遣送前極短期間之暫時收容，基於行政效率得由行政機關為之。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_012",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依憲法及司法院大法官解釋，關於言論自由的敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "言論自由在於保障資訊之自由流通，使人民有取得充分資訊及自我實現之機會",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "商業廣告係利用傳播方法，宣傳商品效能，以達招徠銷售為目的，不受言論自由之保障",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "公共場所於不妨礙其通常使用方式之範圍內，亦得供人民之言論表達及意見溝通",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "言論自由具有實現自我、溝通意見、追求真理之功能",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "商業廣告亦具有提供消費資訊及展現表達價值之功能，依據大法官解釋，仍應受言論自由之保障。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_013",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依憲法增修條文及司法院大法官解釋，關於總統之地位與職權，下列敘述何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "總統於戒嚴或緊急命令生效期間，不得解散立法院",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "總統雖為國家元首，但完全不具最高行政首長地位",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "總統為決定國家安全有關大政方針，得設國家安全會議及所屬國家安全局，其組織以法律定之",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "總統發布行政院院長與依憲法經立法院同意任命人員之任免命令及解散立法院之命令，無須行政院院長之副署",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "總統除為國家元首外，對於國防、外交及國家安全等大政方針，具有實質的行政決策與領導權。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_014",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "道路交通管理處罰條例規定，汽車駕駛人無駕駛執照而駕駛者，處新臺幣六千元以上一萬二千元以下罰鍰，並當場禁止其駕駛。下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "主管機關對於個案中違規駕駛人裁處罰鍰之額度，享有自由行使裁量之權限",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "主管機關對於是否當場禁止違規駕駛人駕駛，應依法律授權目的行使裁量權",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "對於初次違規之駕駛人，主管機關皆應裁處最低罰鍰額度，以符合比例原則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "對於具有特殊情形之個案，不適用統一裁罰基準表決定罰鍰額度，並未違法",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "裁罰基準表若未考慮特殊個案之正當理由即強行適用，恐有裁量怠惰之違法，故排除適用並未違法。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_015",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不得依行政執行法規定，移送強制執行？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "交通違規罰單",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "支付命令",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "怠金",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "核課稅額通知書",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "支付命令係民事訴訟法規定之督促程序，屬私法爭議之執行名義，非屬公法上行政執行範疇。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_016",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於法明確性原則之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "法規內運用不確定法律概念或概括條款，一概違反明確性原則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "法律雖以抽象概念表示，不論其為不確定法律概念或概括條款，均須無違明確性要求",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "對人民權益影響越大者，授權之明確程度應越高",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "法律文義非難以理解，且為受規範者所得預見，並可經由司法審查加以確認者，即不違明確性原則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "法律得視需要運用不確定法律概念，只要其意義可經由解釋預見並受司法審查，即不違反明確性。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_017",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政機關限制人民財產權，應受下列何者之限制？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政保留原則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "法官保留原則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "憲法保留原則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "法律保留原則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "法律保留原則要求限制人民基本權利之行為，應有法律授權或法律明確之規定，以保障民權。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_018",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政機關之行為，必須受到法律及一般法律原則之拘束，此為下列何項原則之內涵？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "信賴保護原則",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "依法行政原則",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "比例原則",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "平等原則",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "依法行政原則包含法律優位與法律保留，要求一切行政行為必須符合法律及法律原則之規範。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_019",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依行政程序法規定，下列何者不屬於比例原則之內涵？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "行政行為應有法律之依據",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政行為應有助於行政目的之達成",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "若有多種行政行為均同樣能達成行政目的，行政機關應選擇對人民權益損害最少者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政行為所造成之損害不得與欲達成行政目的之利益顯失均衡",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "行政行為應有法律依據屬於法律保留原則，並非比例原則（包含適當、必要、衡量性）之內涵。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_020",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關瑕疵行政處分效力之敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "無效行政處分，不發生救濟可能性；得撤銷之行政處分得由人民訴請行政法院撤銷",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政處分違反公共秩序善良風俗者，無效",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "無效行政處分，係自發現無效事由時起，向將來失效；得撤銷之行政處分經撤銷後，有溯及失效的效果",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "行政機關作成瑕疵行政處分，不得本於職權撤銷該處分，僅得由行政法院為之",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "行政程序法第111條規定，行政處分若內容違背公共秩序或善良風俗者，該處分自始無效。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_021",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何種行政處分之瑕疵，依行政程序法規定得以補正？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "應經人民申請而未經申請之行政處分",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "由行政處分書面不能得知處分機關之行政處分",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "相對人不存在之行政處分",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "違反專屬管轄之行政處分",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "行政程序法第114條規定，應經當事人申請始得作成之行政處分，其欠缺得於事後補行申請。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_022",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "徵收人民土地應同時給與人民相當於市價之金錢彌補，該金錢給與之法律性質為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "國家賠償",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "損失補償",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "損害賠償",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "準徵收之侵害",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "損失補償係國家因合法行使公權力，致人民財產權受特別犧牲時，依法給予之財產價值填補。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_023",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者之爭議，不得向行政法院尋求救濟？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "甲在市立公園遊玩，因設施鏽蝕導致受傷，請求國家賠償",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "乙不服市政府對其申請自用房屋適用優惠稅率之否准決定",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "丙不服市政府對其所為之罰鍰處分",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "丁不服市政府所為之專案考績免職處分",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "請求國家賠償原則上屬於民事訴訟範疇，應向普通法院提起民事訴訟，而非向行政法院救濟。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_024",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "提起下列何種行政訴訟類型，原則上應先踐行訴願程序？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "一般給付訴訟",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "行政處分無效確認訴訟",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "課予義務訴訟",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "法律關係存否確認訴訟",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "課予義務訴訟要求行政機關應作成特定行政處分，依行政訴訟法規定，原則上須先經訴願程序。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_025",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "行政訴訟若以公法人之機關為被告，原則上應由那一個行政法院管轄？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "由被告機關所在地之行政法院管轄",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "由原告戶籍所在地之行政法院管轄",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "由原告住所地之行政法院管轄",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "一律以中央政府所在地之行政法院管轄",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "行政訴訟法第13條規定，對於機關之訴訟，由該機關所在地之行政法院管轄，此為普通管轄。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_026",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "甲死亡後留下數筆存款及土地，其子女乙、丙、丁、戊為繼承人。甲遺囑中表示四大房子孫要團結，故不得分割遺產。下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "乙、丙、丁、戊不能分割，要傳給後代變成祭祀公業",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "乙為繼承人，得隨時請求分割遺產，丙、丁、戊不得拒絕",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "乙、丙、丁、戊不能分割，但繼承開始 10 年後，得請求分割遺產",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "乙、丙、丁、戊於甲死後，因遺囑禁止分割，依民法規定，遺產於 20 年內均不得分割",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "民法第1165條規定，遺囑禁止分割遺產者，其禁止之效力以二十年為限。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_027",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列關於民事訴訟代理人之敘述，何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "簡易事件第二審之訴訟代理人，應委任具有教育部認證之法律相關科系獲碩士學位以上者，擔任訴訟代理人。該訴訟代理人之酬金，由國庫墊之",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "訴訟代理人就其受委任之事件有為一切訴訟行為之權。但捨棄、認諾、撤回、和解、提起反訴、上訴或再審之訴及選任代理人，非受特別委任不得為之",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "訴訟代理人有二人以上者，應共同代理當事人，不得單獨為之",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "訴訟代理人為當事人聲請訴之追加、變更或提起反訴時，應先以書面聲請法院得審判長同意後，並為當事人先墊付訴訟費用",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "民法訴訟代理人就重大處分行為（如捨棄、撤回、上訴等）需有特別委任授權，始具代理權限。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_028",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於自治條例之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "應分別冠以各該地方自治團體之名稱",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "在直轄市為直轄市法規",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "自治條例在縣稱縣規章",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "自治條例在鄉稱鄉規程",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "地方制度法第25條規定，自治條例在鄉（鎮、市）稱為鄉（鎮、市）規約，而非規程。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_029",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於民事支付命令之敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "債權人之請求須證明",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "債務人於法定期間合法提出異議，支付命令之效力不受影響",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "債務人未於法定期間合法提出異議，支付命令不得作為執行名義",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "支付命令之異議，得不附理由",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "民事訴訟法第516條規定，債務人對於支付命令之異議，僅需在期間內提出，不須附具任何理由。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_030",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "民事訴訟當事人如因不應歸責於己之事由，遲誤上訴期間，依法得如何尋求救濟？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "逕向上級法院提起上訴",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "向原法院聲請延長期間",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "向原法院聲請回復原狀",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "向原法院聲請再審",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "民事訴訟法第164條規定，因不可歸責於己之事由致遲誤不變期間者，得聲請回復原狀。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_031",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關親屬之親系與親等之規定，對於自己與繼母之表兄的親系與親等，下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "無親屬關係",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "旁系姻親三親等",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "旁系姻親四親等",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "旁系姻親五親等",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "繼母為父母之配偶，屬姻親，但繼母之血親（表兄）並不屬於法律規範的親屬範圍。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_032",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於民法規定正當防衛、緊急避難與自助行為之敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "因避免自己之生命身體受到急迫危險所為之自助行為，致他人財產受新臺幣 50 萬元以下之損害者，不負賠償責任",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "因避免自己之配偶、或直系血親三親等內之親屬，受到身體或自由上之急迫危險所為之家族集體自助行為，致生他人之生命身體或財產損害者，不負賠償責任",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "對於現時或 24 小時內已發生之不法的人身侵害，為防衛自己、配偶或家屬之權利所為的行為，不負損害賠償之責",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "為保護自己權利，對於他人之自由或財產施以拘束、押收或毀損者，不負損害賠償之責。但以不及受法院或其他有關機關援助，並非於其時為之，則請求權不得實行或其實行顯有困難者為限",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "民法第151條規定自助行為，限於為保護自己權利且不及受公權力援助之急迫情形始得免責。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_033",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依現行民法之規定，19 歲之甲因很想購買全新機車，擅自將父親乙贈與之老舊 A 機車拋棄。甲對 A 機車之拋棄行為效力如何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "有效，不得撤銷",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "無效",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "效力未定",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "有效，得撤銷",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "現行民法規定18歲為成年。若依題意當時19歲為未成年，其處分行為未得法定代理人同意即為無效。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_034",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "甲欲購買乙的二手筆記型電腦，交付新臺幣（下同）5,000 元定金予乙，約定 5 日後交貨。關於定金之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "甲交付定金予乙，依民法規定，乙受有定金時，推定其契約成立",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "若甲於交付定金後，現場檢視該筆電時，不慎摔毀該筆電，則甲不得請求返還定金",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "若乙交付筆電前，不慎摔毀該筆電，則乙應返還 1 萬元給甲",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "若乙交付筆電前，筆電因無名火而燒燬，甲不得請求返還定金",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "若因不可歸責於雙方之事由致契約不能履行，定金應予返還。故無名火導致履行不能時，甲可請求返還。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_035",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於保證之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "保證人之負擔較主債務人為重者，應縮減至主債務之限度",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "債權人未就主債務人之財產強制執行而無效果前，且未有喪失先訴抗辯權之事由，保證人對於債權人得拒絕清償",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "主債務人所有之抗辯，保證人均得主張",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "保證人對於因欠缺行為能力而無效之債務，縱使知其情事而為保證，該保證仍因從屬性而無效",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "民法第739條之1規定，保證人明知主債務人因無行為能力而無效仍為保證者，保證契約仍為有效。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_036",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於不動產物權行為之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "要式行為",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "非經登記，不生效力",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "非經交付標的物，不生效力",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "債權行為無效、不成立或被撤銷者，不影響不動產物權行為效力",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "不動產物權之移轉或設定，依法律規定係以登記為生效要件，並非以交付標的物為生效要件。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_037",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者非屬最高限額抵押權所擔保原債權之法定確定事由？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "擔保債權之範圍變更或因其他事由，致原債權不繼續發生者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "最高限額抵押權所擔保之債權，其請求權已因時效而消滅",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "最高限額抵押權人聲請裁定拍賣抵押物",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "債務人或抵押人經裁定宣告破產確定者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "債權請求權消滅時效完成僅生抗辯權，並非法律規定的最高限額抵押權原債權確定的法定事由。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_038",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "甲男乙女為夫妻，有丙、丁二子。丙有戊、己二子。丙先於甲死亡。甲死亡時，戊依法拋棄繼承。己之應繼分為何？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "三分之一",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "四分之一",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "五分之一",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "六分之一",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "己為代位繼承人，承襲其父丙之應繼分（1/3）；戊拋棄後，該 branch 的份額由己全數承接。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_039",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "關於刑事訴訟法第 155 條第 2 項所定「無證據能力、未經合法調查之證據，不得作為判斷之依據。」下列敘述何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "這是證據之證明力的規定",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "證據能力是由法院本於確信自由判斷",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "這是關於嚴格證明的規定",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "只要經過合法調查的證據資料，均有證據能力",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "嚴格證明要求證據必須具備證據能力且經過合法調查，始得作為認定犯罪事實之基礎。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_040",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "檢察官以被告甲在警詢中自白、購毒者乙在偵查中之證言等證據，起訴甲販賣毒品罪。甲在第一審受命法官準備程序期日，陳述其在警詢時之自白，是被強暴脅迫所為，下列何人要就甲在警詢中係出於自由意志之自白，指出證明方法？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "甲",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "檢察官",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "法官",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "乙",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "刑事訴訟法規定，檢察官就被告自白之任意性（非受不正手段取得）負有舉證責任。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_041",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "被告經法官訊問後，犯罪嫌疑重大，而有羈押原因，非予羈押顯難進行訴訟。然下列何項原因，不得單獨成為羈押被告原因？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "逃亡或有事實足認為有逃亡之虞者",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "有事實足認為有湮滅、偽造、變造證據或勾串共犯或證人之虞者",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "所犯為死刑、無期徒刑或最輕本刑為五年以上有期徒刑之罪者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "所犯為死刑、無期徒刑或最輕本刑為五年以上有期徒刑之罪，有相當理由認為有逃亡、湮滅、偽造、變造證據或勾串共犯或證人之虞者",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "大法官解釋指出，不得單以犯重罪作為羈押唯一理由，仍須具備逃亡或湮滅證據之具體危險。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_042",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何項供述，依刑事訴訟法規定有證據能力？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "被告在警察詢問時，依自由意志所為供述",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "檢察官未為權利告知，訊問後被告所為供述",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "檢察官不待被告通知之律師到場，訊問後被告所為供述",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "被告於警詢被刑求取供後，隨即被移送檢察官，檢察官立刻訊問後被告所為供述",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "被告基於自由意志且程序合法（如權利告知）之自白或供述，依法具有證據能力。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_043",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者不屬刑法第 21 條第 1 項規定依法令之行為？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "司法警察逮捕通緝犯",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "路人甲逮捕現行犯",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "父母管教滿 20 歲之子女",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "檢察官執行死刑",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "民法之父母懲戒權限於未成年子女。子女滿20歲已成年，父母無管教之法令職權，不適用該項。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_044",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者非屬刑法第 22 條規定之業務上正當行為？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "醫生為病人開刀",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "拳擊手依比賽規則打傷對方",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "棒球投手故意投觸身球傷害打擊者",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "護士為病人打針",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "業務正當行為須符合業務規範。投手故意投觸身球傷人已違反競賽規則，非屬正當業務行為。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_045",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關刑法第 23 條正當防衛之敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "侵害已經結束，仍得主張正當防衛",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "互毆可以主張正當防衛",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "對警察依法逮捕之行為可以主張正當防衛",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "防衛行為過當者，得減輕或免除其刑",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "刑法第23條但書明定，防衛行為過當者，得減輕或免除其刑，此為法律明定之處置。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_046",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "下列何者非屬於刑法第 24 條（緊急避難）明文列出之利益？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "生命",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "財產",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "名譽",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "自由",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "刑法第24條明文列出的受難利益包含生命、身體、自由及財產，並未包含名譽。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_047",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "有關刑法第 62 條自首之敘述，下列何者錯誤？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "自首必減輕其刑",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "自首可以言詞或書面為之",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "自首可請人代理向警察機關為之",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "通緝犯自行投案，不是自首",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "刑法第62條規定，自首者得減輕其刑，而非必減輕其刑，法院有裁量權。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_048",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "公務員甲犯貪污治罪條例第 4 條第 1 項第 5 款對於違背職務之行為收受賄賂罪，則關於其自首或自白敘述，下列何者正確？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "於犯罪後自首，即應減輕或免除其刑",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "在偵查中自白，得減輕或免除其刑",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "在偵查中自白，如有所得並自動繳交全部所得財物者，減輕其刑",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "在偵查中自白，如有所得並自動繳交全部所得財物者，減輕或免除其刑",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "貪污治罪條例規定，偵查中自白並繳交全部所得者，減輕其刑，此為鼓勵犯罪者自新的明文規定。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_049",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "依刑法第 10 條第 2 項規定之公務員定義，執行職務中之警察人員屬於下列何者？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "身分公務員",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "授權公務員",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "派遣公務員",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "委託公務員",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "警察依法律任用並具有職務權限，屬於刑法中定義之依法令服務於國家機關而具有公權力之公務員。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  },
+  {
+    "id": "110_110010_050",
+    "category": "chinese",
+    "stageId": "110_110010_501",
+    "type": "multiple-choice",
+    "difficulty": 2,
+    "text": "甲、乙二人遊手好閒，某日謀議如何殺害甲之父親，以早日繼承財產，甲即帶乙返家，甲在外把風，由乙進入實施殺害行為，其二人係犯何罪？",
+    "tableData": null,
+    "images": [],
+    "options": [
+      {
+        "key": "A",
+        "text": "共犯殺人罪",
+        "imageUrl": null
+      },
+      {
+        "key": "B",
+        "text": "甲犯殺害直系血親尊親屬罪，乙犯殺人罪",
+        "imageUrl": null
+      },
+      {
+        "key": "C",
+        "text": "共犯殺害直系血親尊親屬罪",
+        "imageUrl": null
+      },
+      {
+        "key": "D",
+        "text": "甲犯幫助殺人罪，乙犯殺人罪",
+        "imageUrl": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "刑法第31條規定，有特定身分關係者加重其刑；無該身分者，僅依常態之罪（普通殺人罪）論處。",
+    "points": 2,
+    "tags": [
+      "110",
+      "110010",
+      "110年公務人員初等考試",
+      "初等考試",
+      "初等考試",
+      "501",
+      "一般行政",
+      "法學大意",
+      "測驗題"
+    ],
+    "certificationType": "110年公務人員初等考試"
+  }
+]
