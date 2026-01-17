@@ -2,6 +2,7 @@ import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { GlobalStateProvider } from '@/state/GlobalState';
 import ScrollToTop from '@/components/ScrollToTop';
 import MainLayout from '@/layouts/MainLayout';
+import FloatingHelpBtn from './components/FloatingHelpBtn';
 import Home from '@/pages/Home';
 import Quiz from '@/pages/Quiz';
 import PracticeQuiz from '@/pages/PracticeQuiz';
@@ -12,7 +13,9 @@ import Classification from '@/pages/Classification';
 import Profile from '@/pages/Profile';
 import Setting from '@/pages/Setting';
 import FavoritesPage from '@/pages/FavoritePage';
-import WrongQuestionsPage from '@/pages/WrongQuestionsPage';
+import HistoryPage from '@/pages/HistoryPage';
+import HistoryDetailPage from '@/pages/HistoryDetaolPage';
+import ContentPage from '@/pages/content';
 
 import AdminLayout from '@/layouts/AdminLayout';
 import AdminDashboard from '@/pages/admin/Dashboard';
@@ -25,6 +28,7 @@ import Register from '@/pages/auth/Register';
 import ForgotPassword from '@/pages/auth/ForgotPassword';
 import ResetPassword from '@/pages/auth/ResetPassword';
 import QuizAnalysis from '@/pages/QuizAnalysis';
+import PracticeQuizAnalysis from '@/pages/PracticeQuizAnalysis';
 import ChallengeMap from '@/pages/ChallengeMap';
 import Practive from '@/pages/Practice';
 import CategoryDetail from '@/pages/CategoryDetail';
@@ -38,6 +42,7 @@ function App() {
     <Router>
       <GlobalStateProvider>
       <ScrollToTop />
+      <FloatingHelpBtn />
       <Routes>
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
@@ -54,7 +59,9 @@ function App() {
           <Route path="profile" element={<Profile />} />
           <Route path="settings" element={<Setting />} />
           <Route path="favorites" element={<FavoritesPage />} />
-          <Route path="wrong-questions" element={<WrongQuestionsPage />} />
+          <Route path="history" element={<HistoryPage />} />
+          <Route path="history/:id" element={<HistoryDetailPage />} />
+          <Route path="content" element={<ContentPage />} />
         </Route>
 
         {/* Fullscreen pages without bottom nav */}
@@ -67,6 +74,7 @@ function App() {
         <Route path="/quiz/:id" element={<Quiz />} />
         <Route path="/practicequiz/:id" element={<PracticeQuiz />} />
         <Route path="/quiz/:id/analysis" element={<QuizAnalysis />} />
+        <Route path="/practicequiz/:id/analysis" element={<PracticeQuizAnalysis />} />
         <Route path="/course/:id/learn" element={<CoursePlayer />} />
 
         {/* Admin Dashboard Routes */}

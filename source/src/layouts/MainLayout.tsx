@@ -67,7 +67,7 @@ export default function MainLayout() {
 
       {/* Main Content Area */}
       <main className="flex-1 min-h-screen bg-zinc-50 dark:bg-zinc-950 overflow-x-hidden relative">
-        <div className="container mx-auto max-w-md md:max-w-5xl lg:max-w-7xl min-h-screen bg-white dark:bg-zinc-900 shadow-xl md:shadow-none md:bg-transparent overflow-hidden md:overflow-visible">
+        <div className="container mx-auto max-w-[100%] md:max-w-5xl lg:max-w-full min-h-screen bg-white dark:bg-zinc-900 shadow-xl md:shadow-none md:bg-transparent overflow-hidden md:overflow-visible">
           {config.maintenance && (
             <div className="absolute inset-0 bg-black/60 backdrop-blur-sm z-40 flex items-center justify-center">
               <div className="bg-white rounded-2xl p-6 shadow-xl text-center">

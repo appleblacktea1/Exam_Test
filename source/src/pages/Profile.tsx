@@ -12,7 +12,9 @@ import {
   Coins,
   Diamond,
   TrendingUp,
-  Shield
+  Shield,
+  Copy,   // 新增
+  Check   // 新增
 } from 'lucide-react';
 import { useNavigate, Link } from 'react-router-dom';
 import { mockUser as originalMockUser, mockCourses, mockBadges } from '../lib/mockData';
@@ -44,17 +46,22 @@ const SAVED_ITEMS = [
   { id: '7', name: 'React 實戰', accuracy: 45, category: '程式開發', icon: 'Code', color: 'bg-indigo-500' },
 ];
 
-// 合併到 mockUser 中
+// 合併到 mockUser 中 (確保有 ID，若原始資料沒有 ID，這裡預設一個)
 const mockUser = {
   ...originalMockUser,
+  id: originalMockUser.id || 'UID-9527-8848', // 確保有 ID 欄位
   savedCertificates: mockSavedCerts
 };
 
 export default function Profile() {
   const { user, updateUser } = useGlobalState();
   const [name, setName] = useState(user.name);
+  // 使用 mockUser 的 ID 作為顯示 (實際專案應從 globalState user 取)
+  const displayId = user.id || 'UID-9527-8848';
+
   const [target, setTarget] = useState(user.certificationTarget || '');
   const [avatar, setAvatar] = useState(user.avatar);
+  const [isCopied, setIsCopied] = useState(false); // 控制複製狀態
   const navigate = useNavigate();
 
   const progressPercentage = Math.min(100, (user.xp / user.maxExp) * 100);
@@ -65,6 +72,7 @@ export default function Profile() {
     'https://api.dicebear.com/7.x/avataaars/svg?seed=Ken',
     'https://api.dicebear.com/7.x/avataaars/svg?seed=Rex'
   ], [user.avatar]);
+
   const stats = {
     rank: 136,
     points: 2150,
@@ -72,7 +80,19 @@ export default function Profile() {
     totalMatches: 142
   };
 
-  const unlockedBadgeNames = new Set(user.badges);
+  // --- 處理複製 ID 的函式 ---
+  const handleCopyId = async () => {
+    try {
+      await navigator.clipboard.writeText(displayId);
+      setIsCopied(true);
+      // 2秒後重置狀態
+      setTimeout(() => {
+        setIsCopied(false);
+      }, 2000);
+    } catch (err) {
+      console.error('Failed to copy text: ', err);
+    }
+  };
 
   return (
     <div className="min-h-screen bg-zinc-50/50 pb-24">
@@ -104,7 +124,33 @@ export default function Profile() {
                   <Shield className="w-3 h-3" /> Lv.{user.level}
                 </span>
               </div>
-              <p className="text-indigo-100 text-sm mb-3 opacity-90">{user.email}</p>
+
+              {/* --- 修改處：ID 顯示區域 --- */}
+              <button
+                onClick={handleCopyId}
+                className="flex items-center gap-2 mb-3 px-2 py-1 -ml-2 rounded-lg hover:bg-white/10 transition-all active:scale-95 group text-left"
+                title="點擊複製 ID"
+              >
+                <span className="text-indigo-100 text-xs font-mono tracking-wide opacity-70 group-hover:opacity-100 transition-opacity">
+                  ID: {displayId}
+                </span>
+
+                {isCopied ? (
+                  <Check className="w-3 h-3 text-green-300" />
+                ) : (
+                  // group-hover:text-white 讓滑鼠移到整條上面的時候，icon 也會變亮
+                  <Copy className="w-3 h-3 text-indigo-300 group-hover:text-white transition-colors" />
+                )}
+
+                {/* 複製成功的小提示 */}
+                {isCopied && (
+                  <span className="text-[10px] text-green-300 font-bold animate-fade-in">
+                    Copied!
+                  </span>
+                )}
+              </button>
+              {/* ------------------------- */}
+
               <div className="bg-black/20 rounded-full h-2 w-full overflow-hidden border border-white/10">
                 <div className="h-full bg-gradient-to-r from-yellow-300 to-orange-400 rounded-full" style={{ width: `${progressPercentage}%` }} />
               </div>
@@ -159,7 +205,6 @@ export default function Profile() {
                   <Heart className="w-3 h-3 text-rose-500 fill-rose-500" />
                 </div>
 
-                {/* 設定最大高度並允許縱向滾動，scrollbar-thin 為選用樣式 */}
                 <div className="space-y-4 max-h-[220px] overflow-y-auto pr-2 custom-scrollbar">
                   {(mockUser.savedCertificates || []).length > 0 ? (
                     mockUser.savedCertificates.map((cert, index) => (
@@ -225,7 +270,6 @@ export default function Profile() {
             {/* 底部排名與額外資訊 */}
             <div className="flex items-center justify-between bg-zinc-50 rounded-2xl p-4 border border-zinc-100 mt-2">
               <div className="flex items-center gap-4">
-                {/* 放大版的排名勳章 */}
                 <div className="relative flex-none">
                   <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-yellow-300 to-orange-400 flex items-center justify-center text-white shadow-lg rotate-3 group-hover:rotate-0 transition-transform duration-300">
                     <div className="flex flex-col items-center leading-none">
@@ -237,7 +281,6 @@ export default function Profile() {
                   </div>
                 </div>
 
-                {/* 排名文字描述 */}
                 <div>
                   <div className="text-sm font-black text-zinc-800">全球競爭力排名</div>
                   <div className="text-[10px] font-bold text-zinc-400 uppercase tracking-widest mt-0.5">
@@ -246,7 +289,6 @@ export default function Profile() {
                 </div>
               </div>
 
-              {/* 右側裝飾性圖標 */}
               <div className="pr-2">
                 <Trophy
                   size={32}
@@ -263,18 +305,17 @@ export default function Profile() {
                 icon: <Heart className="w-5 h-5" />,
                 label: "我的收藏",
                 color: "bg-rose-50 text-rose-500",
-                path: "/favorites" // 新增跳轉路徑
+                path: "/favorites"
               },
               {
                 icon: <BookOpen className="w-5 h-5" />,
-                label: "錯題本",
+                label: "答題歷史",
                 color: "bg-orange-50 text-orange-500",
-                path: "/wrong-questions"
+                path: "/history"
               },
             ].map((item, i) => (
               <button
                 key={i}
-                // 使用 navigate 跳轉至對應路徑
                 onClick={() => navigate(item.path)}
                 className="w-full flex items-center justify-between p-4 hover:bg-zinc-50 group transition-colors"
               >
@@ -288,7 +329,6 @@ export default function Profile() {
                   <span className="font-bold text-zinc-700">{item.label}</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  {/* 如果是我的收藏，可以顯示收藏數量（選用） */}
                   {item.label === "我的收藏" && (
                     <span className="text-xs bg-zinc-100 text-zinc-500 px-2 py-0.5 rounded-full font-medium">
                       {SAVED_ITEMS.length}
